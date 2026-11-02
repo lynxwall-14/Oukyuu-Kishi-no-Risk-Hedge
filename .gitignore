@@ -1,0 +1,64 @@
+# Ignore all files
+*.*
+
+# File Types
+!*.mps
+!*.json
+!*.txt
+!*.project
+!*.js
+!*.7z
+!*.csv
+!*.ain
+!*.fnl
+!*.ks
+!*.tjs
+!*.yaml
+!*.rb
+!*.rvdata2
+
+# Other Needed Files
+!.gitignore
+!README.md
+!patch-config.txt
+!patch-config.example.txt
+!GameUpdate*
+!patch*
+!Game.dat
+!bsxx.dat*
+!game.ini
+!package.nw
+!SRPG_Unpacker.exe
+!(SRPG_Unpacker Patcher).bat
+!UberWolfCli.exe
+!UberWolfCli.LICENSE.txt
+!Data/BasicData/CommonEvent.dat
+!Data/BasicData/DataBase.dat
+!Data/BasicData/CDataBase.dat
+!Data/BasicData/SysDatabase.dat
+
+
+# WolfDawn pristine originals kept locally for re-injection (never shipped)
+wolf_json/originals/
+
+# Ignore
+previous_patch_sha.txt
+kabe3_save.dat
+kabe3_system.dat
+psbpack.dat
+Save*
+cg.dat
+scene.dat
+BSXScript_*
+
+# BEGIN DazedTL portable translation settings
+!/.dazedtl/
+/.dazedtl/*
+!/.dazedtl/glossary.txt
+!/.dazedtl/settings.json
+!/.dazedtl/skills/
+/.dazedtl/skills/*
+!/.dazedtl/skills/*.md
+# END DazedTL portable translation settings
+
+# Images

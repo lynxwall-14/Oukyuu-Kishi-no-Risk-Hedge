@@ -1,0 +1,140 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": true,
+        "name": "西の林",
+        "order": 13,
+        "parentId": 0,
+        "scrollX": 768.5,
+        "scrollY": 614
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "毒蛇魔神",
+        "order": 12,
+        "parentId": 0,
+        "scrollX": 768.5,
+        "scrollY": 614
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "セセラギ村",
+        "order": 4,
+        "parentId": 0,
+        "scrollX": 768.5,
+        "scrollY": 614
+    },
+    {
+        "id": 4,
+        "expanded": true,
+        "name": "村長の家",
+        "order": 5,
+        "parentId": 3,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "鍛冶屋",
+        "order": 7,
+        "parentId": 3,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "ロレンチアの部屋",
+        "order": 6,
+        "parentId": 3,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "宿屋",
+        "order": 8,
+        "parentId": 3,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "銭湯",
+        "order": 9,
+        "parentId": 3,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 9,
+        "expanded": true,
+        "name": "サウナルーム",
+        "order": 10,
+        "parentId": 8,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "脱衣所",
+        "order": 11,
+        "parentId": 8,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "王宮の庭園",
+        "order": 2,
+        "parentId": 12,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "王都",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "鑑賞ルーム",
+        "order": 14,
+        "parentId": 0,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    },
+    {
+        "id": 14,
+        "expanded": false,
+        "name": "王都のバスルーム",
+        "order": 3,
+        "parentId": 12,
+        "scrollX": 767.5,
+        "scrollY": 606,
+        "quick": false
+    }
+]
