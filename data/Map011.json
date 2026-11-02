@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "王宮の庭園",
+    "displayName": "Palace Garden",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1399,15 +1399,17 @@
                                 0,
                                 0,
                                 2,
-                                "近衛兵"
-                            ]
+                                "Royal Guard"
+                            ],
+                            "_original": "近衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご武運を！"
-                            ]
+                                "Good fortune in battle!"
+                            ],
+                            "_original": "ご武運を！"
                         },
                         {
                             "code": 0,
@@ -1525,15 +1527,17 @@
                                 0,
                                 0,
                                 2,
-                                "近衛兵"
-                            ]
+                                "Royal Guard"
+                            ],
+                            "_original": "近衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご武運を！"
-                            ]
+                                "Good fortune in battle!"
+                            ],
+                            "_original": "ご武運を！"
                         },
                         {
                             "code": 0,
@@ -1738,22 +1742,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒を撒き散らし村を壊滅に追い込んだという「毒蛇魔人」。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どれほどの脅威なのでしょう…"
-                            ]
+                                "The \"Viper Demon\" that spread its poison and drove a village\nto ruin. Just how great a threat could it be..."
+                            ],
+                            "_original": "毒を撒き散らし村を壊滅に追い込んだという「毒蛇魔人」。\n一体どれほどの脅威なのでしょう…"
                         },
                         {
                             "code": 205,
@@ -1975,22 +1974,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あーらロレンチア、らしくないわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王宮騎士の中でも特に戦闘技術に特化したアナタなら、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔人の一体や二体、ぱぱーっと始末できるでしょうに。"
-                            ]
+                                "Oh my～ Lorentia, that's not like you at all. You're the\nRoyal Knights' most combat-specialized member. A demon or\ntwo, you could wrap up just like that."
+                            ],
+                            "_original": "あーらロレンチア、らしくないわね。\n王宮騎士の中でも特に戦闘技術に特化したアナタなら、\n魔人の一体や二体、ぱぱーっと始末できるでしょうに。"
                         },
                         {
                             "code": 231,
@@ -2075,29 +2061,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "王宮騎士サザンナ、それはアナタに依頼した"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒耐性ポーションの仕上がり次第なんですが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "進捗はいかがです？"
-                            ]
+                                "Royal Knight Sazanna, that depends entirely on how the\nPoison Resistance Potion I requested from you is coming\nalong... How is your progress?"
+                            ],
+                            "_original": "王宮騎士サザンナ、それはアナタに依頼した\n毒耐性ポーションの仕上がり次第なんですが…\n進捗はいかがです？"
                         },
                         {
                             "code": 231,
@@ -2182,15 +2156,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とっくに完成してるわよ。しかも最高傑作！"
-                            ]
+                                "Finished ages ago. And it's my greatest masterpiece, no\nless!"
+                            ],
+                            "_original": "とっくに完成してるわよ。しかも最高傑作！"
                         },
                         {
                             "code": 357,
@@ -2259,15 +2235,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一本飲めば毒や腐食への完全耐性が「半年くらい」持続するわ。"
-                            ]
+                                "One dose gives you complete immunity to poison and corrosion\nfor \"about six months\"."
+                            ],
+                            "_original": "一本飲めば毒や腐食への完全耐性が「半年くらい」持続するわ。"
                         },
                         {
                             "code": 357,
@@ -2336,15 +2314,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "半年…？長過ぎませんか？"
-                            ]
+                                "Six months...? Isn't that far too long?"
+                            ],
+                            "_original": "半年…？長過ぎませんか？"
                         },
                         {
                             "code": 357,
@@ -2413,29 +2393,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああん許してよ、完全耐性ポーションは濃度の調整が難しいの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもでも、魔人は毎回取り巻きを従えているし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "討伐後の残党狩りにも有用でしょ？"
-                            ]
+                                "Aww～ forgive me, adjusting the concentration on a\nfull-immunity potion is tricky! But, but, the demon always\nhas underlings in tow, so it'll come in handy for mopping up\nstragglers after the subjugation, right?"
+                            ],
+                            "_original": "ああん許してよ、完全耐性ポーションは濃度の調整が難しいの！\nでもでも、魔人は毎回取り巻きを従えているし、\n討伐後の残党狩りにも有用でしょ？"
                         },
                         {
                             "code": 357,
@@ -2504,29 +2472,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに、戦闘のたびにポーションを飲むよりは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそれだけの効果、副作用も酷いはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "廃人になったりしません？"
-                            ]
+                                "True, it beats drinking a potion before every battle... But\nwith an effect that potent, the side effects must be just as\nsevere. I won't end up an invalid, will I?"
+                            ],
+                            "_original": "確かに、戦闘のたびにポーションを飲むよりは…\nでもそれだけの効果、副作用も酷いはず。\n廃人になったりしません？"
                         },
                         {
                             "code": 357,
@@ -2595,15 +2551,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大きな副作用はないはずけど…一点だけ注意して！"
-                            ]
+                                "There shouldn't be any major side effects, but... there's\njust one thing to watch out for!"
+                            ],
+                            "_original": "大きな副作用はないはずけど…一点だけ注意して！"
                         },
                         {
                             "code": 357,
@@ -2672,29 +2630,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "付与される毒への完全耐性は体調に影響を与える外的要因を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すべてを無効化する代物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、一般的なお薬なんかもシャットアウトされちゃうの。"
-                            ]
+                                "The complete poison immunity it grants nullifies every\nexternal factor that affects your condition. In other words,\nordinary medicine gets shut right out."
+                            ],
+                            "_original": "付与される毒への完全耐性は体調に影響を与える外的要因を\nすべてを無効化する代物。\nつまり、一般的なお薬なんかもシャットアウトされちゃうの。"
                         },
                         {
                             "code": 357,
@@ -2763,15 +2709,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "常備薬で例えれば…睡眠薬や下剤とかかしら？普段飲んでる？"
-                            ]
+                                "To use household remedies as an example... sleeping pills or\nlaxatives, maybe? Do you take anything like that regularly?"
+                            ],
+                            "_original": "常備薬で例えれば…睡眠薬や下剤とかかしら？普段飲んでる？"
                         },
                         {
                             "code": 357,
@@ -2840,15 +2788,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ全く。"
-                            ]
+                                "No, not at all."
+                            ],
+                            "_original": "いえ全く。"
                         },
                         {
                             "code": 357,
@@ -2917,15 +2867,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あとはそうねー…"
-                            ]
+                                "What else, let's see..."
+                            ],
+                            "_original": "あとはそうねー…"
                         },
                         {
                             "code": 235,
@@ -3029,15 +2981,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "避妊薬なんかも効かなくなっちゃうわ！"
-                            ]
+                                "Contraceptives won't work on you either!"
+                            ],
+                            "_original": "避妊薬なんかも効かなくなっちゃうわ！"
                         },
                         {
                             "code": 357,
@@ -3106,15 +3060,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あらあら、これは大問題ではなくて！？"
-                            ]
+                                "My, my, isn't that a serious problem!?"
+                            ],
+                            "_original": "あらあら、これは大問題ではなくて！？"
                         },
                         {
                             "code": 357,
@@ -3183,29 +3139,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…何故嬉しそうなんですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任務中にアナタの想像しているような「アクシデント」は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発生しませんので、ご安心を。"
-                            ]
+                                "...Why do you look so pleased? Rest assured, no \"accident\"\nof the sort you're imagining will occur while I'm on my\nmission."
+                            ],
+                            "_original": "…何故嬉しそうなんですか。\n任務中にアナタの想像しているような「アクシデント」は\n発生しませんので、ご安心を。"
                         },
                         {
                             "code": 357,
@@ -3274,22 +3218,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ま、そうよね。王宮の関係者でもアナタに釣り合う男は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見つかりそうにないし～…"
-                            ]
+                                "Well, true. Even among the palace crowd, there's hardly a\nman who could measure up to you～..."
+                            ],
+                            "_original": "ま、そうよね。王宮の関係者でもアナタに釣り合う男は\n見つかりそうにないし～…"
                         },
                         {
                             "code": 357,
@@ -3358,15 +3297,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もういいですか、プライベートな話はまた今度。"
-                            ]
+                                "Are we done? We can discuss private matters another time."
+                            ],
+                            "_original": "もういいですか、プライベートな話はまた今度。"
                         },
                         {
                             "code": 357,
@@ -3435,15 +3376,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「今度」ってきっと半年以上先でしょ？寂しくなるわね。"
-                            ]
+                                "\"Another time\" surely means six months from now at the\nearliest, doesn't it? I'll be lonely."
+                            ],
+                            "_original": "「今度」ってきっと半年以上先でしょ？寂しくなるわね。"
                         },
                         {
                             "code": 357,
@@ -3512,15 +3455,17 @@
                                 0,
                                 0,
                                 2,
-                                "サザンナ"
-                            ]
+                                "Sazanna"
+                            ],
+                            "_original": "サザンナ"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "気をつけていってらっしゃい、かわいいロレンチアちゃん。"
-                            ]
+                                "Take care out there, my adorable Lorentia-chan."
+                            ],
+                            "_original": "気をつけていってらっしゃい、かわいいロレンチアちゃん。"
                         },
                         {
                             "code": 242,

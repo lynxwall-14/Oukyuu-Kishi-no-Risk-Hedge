@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "鑑賞ルーム",
+    "displayName": "Gallery Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -2477,14 +2477,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -2725,14 +2730,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -3217,14 +3227,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -3590,15 +3605,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後まで遊んでいただきありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引き続き鑑賞ルームをご使用いただけます。"
-                            ]
+                                "Thank you for playing all the way to the end. You may\ncontinue to use the Gallery Room."
+                            ],
+                            "_original": "最後まで遊んでいただきありがとうございます。\n引き続き鑑賞ルームをご使用いただけます。"
                         },
                         {
                             "code": 101,
@@ -3615,21 +3624,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべてのイベントを開放しますか？"
-                            ]
+                                "Unlock all events?"
+                            ],
+                            "_original": "すべてのイベントを開放しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -3881,21 +3895,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すべてのイベントを開放しますか？"
-                            ]
+                                "Unlock all events?"
+                            ],
+                            "_original": "すべてのイベントを開放しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -4250,14 +4269,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -5150,14 +5174,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -5778,14 +5807,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -6482,14 +6516,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -7518,14 +7557,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -8214,14 +8258,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -8910,14 +8959,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -9470,14 +9524,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -9894,14 +9953,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -10318,14 +10382,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -10810,14 +10879,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -11370,14 +11444,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -11794,14 +11873,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {
@@ -12218,14 +12302,19 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "イベント鑑賞",
-                                    "CG鑑賞",
-                                    "やめる"
+                                    "Event Gallery",
+                                    "CG Gallery",
+                                    "Quit"
                                 ],
                                 2,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "イベント鑑賞",
+                                "CG鑑賞",
+                                "やめる"
                             ]
                         },
                         {

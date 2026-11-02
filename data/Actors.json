@@ -18,10 +18,14 @@
         "traits": [],
         "initialLevel": 99,
         "maxLevel": 99,
-        "name": "ロレンチア",
-        "nickname": "王宮騎士",
+        "name": "Lorentia",
+        "nickname": "Royal Knight",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "ロレンチア",
+            "nickname": "王宮騎士"
+        }
     },
     {
         "id": 2,
@@ -41,10 +45,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "プリシア",
+        "name": "Priscia",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "プリシア"
+        }
     },
     {
         "id": 3,
@@ -64,10 +71,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ゲイル",
+        "name": "Gale",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "ゲイル"
+        }
     },
     {
         "id": 4,
@@ -87,10 +97,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ミシェル",
+        "name": "Michelle",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "ミシェル"
+        }
     },
     {
         "id": 5,
@@ -110,10 +123,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アルベール",
+        "name": "Albert",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "アルベール"
+        }
     },
     {
         "id": 6,
@@ -133,10 +149,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ケイシー",
+        "name": "Casey",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "ケイシー"
+        }
     },
     {
         "id": 7,
@@ -156,10 +175,13 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エリオット",
+        "name": "Elliot",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "エリオット"
+        }
     },
     {
         "id": 8,
@@ -179,9 +201,12 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ローザ",
+        "name": "Rosa",
         "nickname": "",
         "note": "",
-        "profile": ""
+        "profile": "",
+        "_original": {
+            "name": "ローザ"
+        }
     }
 ]

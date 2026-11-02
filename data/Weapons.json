@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "【剣】軽くて扱いやすい刀身の短い剣。",
+        "description": "[Sword] A lightweight short-bladed sword that's easy to wield.",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ショートソード",
+        "name": "Short Sword",
         "note": "",
         "params": [
             0,
@@ -31,12 +31,16 @@
             0
         ],
         "price": 300,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "ショートソード",
+            "description": "【剣】軽くて扱いやすい刀身の短い剣。"
+        }
     },
     {
         "id": 2,
         "animationId": 6,
-        "description": "【剣】鋭い切れ味を誇る戦闘用の長剣。",
+        "description": "[Sword] A longsword for battle that boasts a razor-sharp edge.",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +55,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ロングソード",
+        "name": "Long Sword",
         "note": "",
         "params": [
             0,
@@ -64,12 +68,16 @@
             0
         ],
         "price": 670,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "ロングソード",
+            "description": "【剣】鋭い切れ味を誇る戦闘用の長剣。"
+        }
     },
     {
         "id": 3,
         "animationId": 6,
-        "description": "【剣】反りのある刀身をもつ幅広の剣。",
+        "description": "[Sword] A broad sword with a curved blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +92,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ファルシオン",
+        "name": "Falchion",
         "note": "",
         "params": [
             0,
@@ -97,12 +105,16 @@
             0
         ],
         "price": 1480,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "ファルシオン",
+            "description": "【剣】反りのある刀身をもつ幅広の剣。"
+        }
     },
     {
         "id": 4,
         "animationId": 6,
-        "description": "【剣】ミスリルで作られた長剣。",
+        "description": "[Sword] A longsword forged from mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -117,7 +129,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ミスリルソード",
+        "name": "Mithril Sword",
         "note": "",
         "params": [
             0,
@@ -130,12 +142,16 @@
             0
         ],
         "price": 3890,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "ミスリルソード",
+            "description": "【剣】ミスリルで作られた長剣。"
+        }
     },
     {
         "id": 5,
         "animationId": 6,
-        "description": "【剣】ドラゴンのキバで作られた剣。",
+        "description": "[Sword] A sword made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +166,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ドラゴンブレード",
+        "name": "Dragon Blade",
         "note": "",
         "params": [
             0,
@@ -163,7 +179,11 @@
             0
         ],
         "price": 6970,
-        "wtypeId": 2
+        "wtypeId": 2,
+        "_original": {
+            "name": "ドラゴンブレード",
+            "description": "【剣】ドラゴンのキバで作られた剣。"
+        }
     },
     {
         "id": 6,
@@ -201,7 +221,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "【杖】安価で一般に普及している杖。",
+        "description": "[Staff] A cheap staff in common use.",
         "etypeId": 1,
         "traits": [
             {
@@ -216,7 +236,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ウッドスタッフ",
+        "name": "Wood Staff",
         "note": "",
         "params": [
             0,
@@ -229,12 +249,16 @@
             0
         ],
         "price": 280,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "ウッドスタッフ",
+            "description": "【杖】安価で一般に普及している杖。"
+        }
     },
     {
         "id": 8,
         "animationId": 1,
-        "description": "【杖】術者の魔力をやや増幅させる杖。",
+        "description": "[Staff] A staff that slightly amplifies its wielder's magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -249,7 +273,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "マジックワンド",
+        "name": "Magic Wand",
         "note": "",
         "params": [
             0,
@@ -262,12 +286,16 @@
             0
         ],
         "price": 780,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "マジックワンド",
+            "description": "【杖】術者の魔力をやや増幅させる杖。"
+        }
     },
     {
         "id": 9,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させる銀製の杖。",
+        "description": "[Staff] A silver staff that amplifies its wielder's magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -282,7 +310,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "フォースワンド",
+        "name": "Force Wand",
         "note": "",
         "params": [
             0,
@@ -295,12 +323,16 @@
             0
         ],
         "price": 1680,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "フォースワンド",
+            "description": "【杖】術者の魔力を増幅させる銀製の杖。"
+        }
     },
     {
         "id": 10,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるミスリルの杖。",
+        "description": "[Staff] A mithril staff that amplifies its wielder's magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -315,7 +347,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ミスリルロッド",
+        "name": "Mithril Rod",
         "note": "",
         "params": [
             0,
@@ -328,12 +360,16 @@
             0
         ],
         "price": 4120,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "ミスリルロッド",
+            "description": "【杖】術者の魔力を増幅させるミスリルの杖。"
+        }
     },
     {
         "id": 11,
         "animationId": 1,
-        "description": "【杖】術者の魔力を増幅させるドラゴンの杖。",
+        "description": "[Staff] A dragon staff that amplifies its wielder's magic.",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +384,7 @@
             }
         ],
         "iconIndex": 101,
-        "name": "ドラゴンスタッフ",
+        "name": "Dragon Staff",
         "note": "",
         "params": [
             0,
@@ -361,7 +397,11 @@
             0
         ],
         "price": 7680,
-        "wtypeId": 6
+        "wtypeId": 6,
+        "_original": {
+            "name": "ドラゴンスタッフ",
+            "description": "【杖】術者の魔力を増幅させるドラゴンの杖。"
+        }
     },
     {
         "id": 12,
@@ -399,7 +439,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "【フレイル】柄の先に鎖で石球をつないだ連接棍棒。",
+        "description": "[Flail] A jointed club with a stone ball attached to the handle by a chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +454,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ストーンフレイル",
+        "name": "Stone Flail",
         "note": "",
         "params": [
             0,
@@ -427,12 +467,16 @@
             0
         ],
         "price": 360,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "ストーンフレイル",
+            "description": "【フレイル】柄の先に鎖で石球をつないだ連接棍棒。"
+        }
     },
     {
         "id": 14,
         "animationId": 1,
-        "description": "【フレイル】柄の先に鎖で銅球をつないだ連接棍棒。",
+        "description": "[Flail] A jointed club with a copper ball attached to the handle by a chain.",
         "etypeId": 1,
         "traits": [
             {
@@ -447,7 +491,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ブロンズフレイル",
+        "name": "Bronze Flail",
         "note": "",
         "params": [
             0,
@@ -460,12 +504,16 @@
             0
         ],
         "price": 680,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "ブロンズフレイル",
+            "description": "【フレイル】柄の先に鎖で銅球をつないだ連接棍棒。"
+        }
     },
     {
         "id": 15,
         "animationId": 1,
-        "description": "【フレイル】鋼鉄で強化した連接棍棒。",
+        "description": "[Flail] A jointed club reinforced with steel.",
         "etypeId": 1,
         "traits": [
             {
@@ -480,7 +528,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "モーニングスター",
+        "name": "Morning Star",
         "note": "",
         "params": [
             0,
@@ -493,12 +541,16 @@
             0
         ],
         "price": 1460,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "モーニングスター",
+            "description": "【フレイル】鋼鉄で強化した連接棍棒。"
+        }
     },
     {
         "id": 16,
         "animationId": 1,
-        "description": "【フレイル】ミスリルで強化した連接棍棒。",
+        "description": "[Flail] A jointed club reinforced with mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -513,7 +565,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ミスリルフレイル",
+        "name": "Mithril Flail",
         "note": "",
         "params": [
             0,
@@ -526,12 +578,16 @@
             0
         ],
         "price": 2980,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "ミスリルフレイル",
+            "description": "【フレイル】ミスリルで強化した連接棍棒。"
+        }
     },
     {
         "id": 17,
         "animationId": 1,
-        "description": "【フレイル】ドラゴンのキバで強化した連接棍棒。",
+        "description": "[Flail] A jointed club reinforced with a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -546,7 +602,7 @@
             }
         ],
         "iconIndex": 98,
-        "name": "ドラゴンフレイル",
+        "name": "Dragon Flail",
         "note": "",
         "params": [
             0,
@@ -559,7 +615,11 @@
             0
         ],
         "price": 6180,
-        "wtypeId": 3
+        "wtypeId": 3,
+        "_original": {
+            "name": "ドラゴンフレイル",
+            "description": "【フレイル】ドラゴンのキバで強化した連接棍棒。"
+        }
     },
     {
         "id": 18,
@@ -597,7 +657,7 @@
     {
         "id": 19,
         "animationId": 6,
-        "description": "【斧】伐採に使う小型の斧。",
+        "description": "[Axe] A small axe used for felling trees.",
         "etypeId": 1,
         "traits": [
             {
@@ -612,7 +672,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアクス",
+        "name": "Hand Axe",
         "note": "",
         "params": [
             0,
@@ -625,12 +685,16 @@
             0
         ],
         "price": 480,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "ハンドアクス",
+            "description": "【斧】伐採に使う小型の斧。"
+        }
     },
     {
         "id": 20,
         "animationId": 6,
-        "description": "【斧】戦闘用に作られた両刃の斧。",
+        "description": "[Axe] A double-bladed axe made for battle.",
         "etypeId": 1,
         "traits": [
             {
@@ -645,7 +709,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアクス",
+        "name": "Battle Axe",
         "note": "",
         "params": [
             0,
@@ -658,12 +722,16 @@
             0
         ],
         "price": 980,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "バトルアクス",
+            "description": "【斧】戦闘用に作られた両刃の斧。"
+        }
     },
     {
         "id": 21,
         "animationId": 6,
-        "description": "【斧】三日月型の刃をもつ戦斧。",
+        "description": "[Axe] A battle-axe with a crescent-shaped blade.",
         "etypeId": 1,
         "traits": [
             {
@@ -678,7 +746,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バルディッシュ",
+        "name": "Bardiche",
         "note": "",
         "params": [
             0,
@@ -691,12 +759,16 @@
             0
         ],
         "price": 2180,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "バルディッシュ",
+            "description": "【斧】三日月型の刃をもつ戦斧。"
+        }
     },
     {
         "id": 22,
         "animationId": 6,
-        "description": "【斧】ミスリルで作られた戦斧。",
+        "description": "[Axe] A battle-axe forged from mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -711,7 +783,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ミスリルアクス",
+        "name": "Mithril Axe",
         "note": "",
         "params": [
             0,
@@ -724,12 +796,16 @@
             0
         ],
         "price": 4500,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "ミスリルアクス",
+            "description": "【斧】ミスリルで作られた戦斧。"
+        }
     },
     {
         "id": 23,
         "animationId": 6,
-        "description": "【斧】ドラゴンのキバで作られた戦斧。",
+        "description": "[Axe] A battle-axe made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -744,7 +820,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ドラゴンアクス",
+        "name": "Dragon Axe",
         "note": "",
         "params": [
             0,
@@ -757,7 +833,11 @@
             0
         ],
         "price": 9600,
-        "wtypeId": 4
+        "wtypeId": 4,
+        "_original": {
+            "name": "ドラゴンアクス",
+            "description": "【斧】ドラゴンのキバで作られた戦斧。"
+        }
     },
     {
         "id": 24,
@@ -795,7 +875,7 @@
     {
         "id": 25,
         "animationId": 11,
-        "description": "【槍】突きに特化させた短めの槍。",
+        "description": "[Spear] A short spear specialized for thrusting.",
         "etypeId": 1,
         "traits": [
             {
@@ -810,7 +890,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ショートスピア",
+        "name": "Short Spear",
         "note": "",
         "params": [
             0,
@@ -823,12 +903,16 @@
             0
         ],
         "price": 320,
-        "wtypeId": 12
+        "wtypeId": 12,
+        "_original": {
+            "name": "ショートスピア",
+            "description": "【槍】突きに特化させた短めの槍。"
+        }
     },
     {
         "id": 26,
         "animationId": 11,
-        "description": "【槍】柄を可能な限り長くした槍。",
+        "description": "[Spear] A spear with a shaft made as long as possible.",
         "etypeId": 1,
         "traits": [
             {
@@ -843,7 +927,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ロングスピア",
+        "name": "Long Spear",
         "note": "",
         "params": [
             0,
@@ -856,12 +940,16 @@
             0
         ],
         "price": 890,
-        "wtypeId": 12
+        "wtypeId": 12,
+        "_original": {
+            "name": "ロングスピア",
+            "description": "【槍】柄を可能な限り長くした槍。"
+        }
     },
     {
         "id": 27,
         "animationId": 11,
-        "description": "【槍】穂先に斧頭の取りつけられた槍。",
+        "description": "[Spear] A spear with an axe head mounted on its tip.",
         "etypeId": 1,
         "traits": [
             {
@@ -876,7 +964,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ハルバード",
+        "name": "Halberd",
         "note": "",
         "params": [
             0,
@@ -889,12 +977,16 @@
             0
         ],
         "price": 1760,
-        "wtypeId": 12
+        "wtypeId": 12,
+        "_original": {
+            "name": "ハルバード",
+            "description": "【槍】穂先に斧頭の取りつけられた槍。"
+        }
     },
     {
         "id": 28,
         "animationId": 11,
-        "description": "【槍】ミスリルで作られた槍。",
+        "description": "[Spear] A spear forged from mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -909,7 +1001,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ミスリルスピア",
+        "name": "Mithril Spear",
         "note": "",
         "params": [
             0,
@@ -922,12 +1014,16 @@
             0
         ],
         "price": 3420,
-        "wtypeId": 12
+        "wtypeId": 12,
+        "_original": {
+            "name": "ミスリルスピア",
+            "description": "【槍】ミスリルで作られた槍。"
+        }
     },
     {
         "id": 29,
         "animationId": 11,
-        "description": "【槍】ドラゴンのキバで作られた槍。",
+        "description": "[Spear] A spear made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -942,7 +1038,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ドラゴンスピア",
+        "name": "Dragon Spear",
         "note": "",
         "params": [
             0,
@@ -955,7 +1051,11 @@
             0
         ],
         "price": 5980,
-        "wtypeId": 12
+        "wtypeId": 12,
+        "_original": {
+            "name": "ドラゴンスピア",
+            "description": "【槍】ドラゴンのキバで作られた槍。"
+        }
     },
     {
         "id": 30,
@@ -993,7 +1093,7 @@
     {
         "id": 31,
         "animationId": 1,
-        "description": "【グローブ】拳頭にトゲがついた格闘用のグローブ。",
+        "description": "[Glove] A fighting glove with spikes on the knuckles.",
         "etypeId": 1,
         "traits": [
             {
@@ -1018,7 +1118,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "セスタス",
+        "name": "Cestus",
         "note": "",
         "params": [
             0,
@@ -1031,12 +1131,16 @@
             0
         ],
         "price": 360,
-        "wtypeId": 11
+        "wtypeId": 11,
+        "_original": {
+            "name": "セスタス",
+            "description": "【グローブ】拳頭にトゲがついた格闘用のグローブ。"
+        }
     },
     {
         "id": 32,
         "animationId": 16,
-        "description": "【爪】短い４本の爪が取りつけられた格闘武器。",
+        "description": "[Claws] A fighting weapon fitted with four short claws.",
         "etypeId": 1,
         "traits": [
             {
@@ -1061,7 +1165,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "バグナウ",
+        "name": "Bagh Nakh",
         "note": "",
         "params": [
             0,
@@ -1074,12 +1178,16 @@
             0
         ],
         "price": 980,
-        "wtypeId": 10
+        "wtypeId": 10,
+        "_original": {
+            "name": "バグナウ",
+            "description": "【爪】短い４本の爪が取りつけられた格闘武器。"
+        }
     },
     {
         "id": 33,
         "animationId": 16,
-        "description": "【爪】鋼鉄のかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claws] A fighting weapon fitted with steel talons.",
         "etypeId": 1,
         "traits": [
             {
@@ -1104,7 +1212,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "アイアンクロウ",
+        "name": "Iron Claw",
         "note": "",
         "params": [
             0,
@@ -1117,12 +1225,16 @@
             0
         ],
         "price": 1560,
-        "wtypeId": 10
+        "wtypeId": 10,
+        "_original": {
+            "name": "アイアンクロウ",
+            "description": "【爪】鋼鉄のかぎ爪が仕込まれた格闘武器。"
+        }
     },
     {
         "id": 34,
         "animationId": 16,
-        "description": "【爪】ミスリルのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claws] A fighting weapon fitted with mithril talons.",
         "etypeId": 1,
         "traits": [
             {
@@ -1147,7 +1259,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ミスリルクロウ",
+        "name": "Mithril Claw",
         "note": "",
         "params": [
             0,
@@ -1160,12 +1272,16 @@
             0
         ],
         "price": 3480,
-        "wtypeId": 10
+        "wtypeId": 10,
+        "_original": {
+            "name": "ミスリルクロウ",
+            "description": "【爪】ミスリルのかぎ爪が仕込まれた格闘武器。"
+        }
     },
     {
         "id": 35,
         "animationId": 16,
-        "description": "【爪】ドラゴンのかぎ爪が仕込まれた格闘武器。",
+        "description": "[Claws] A fighting weapon fitted with dragon talons.",
         "etypeId": 1,
         "traits": [
             {
@@ -1190,7 +1306,7 @@
             }
         ],
         "iconIndex": 105,
-        "name": "ドラゴンクロウ",
+        "name": "Dragon Claw",
         "note": "",
         "params": [
             0,
@@ -1203,7 +1319,11 @@
             0
         ],
         "price": 6890,
-        "wtypeId": 10
+        "wtypeId": 10,
+        "_original": {
+            "name": "ドラゴンクロウ",
+            "description": "【爪】ドラゴンのかぎ爪が仕込まれた格闘武器。"
+        }
     },
     {
         "id": 36,
@@ -1241,7 +1361,7 @@
     {
         "id": 37,
         "animationId": 11,
-        "description": "【弓】狩猟用に作られた短めの弓。",
+        "description": "[Bow] A short bow made for hunting.",
         "etypeId": 1,
         "traits": [
             {
@@ -1256,7 +1376,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ショートボウ",
+        "name": "Short Bow",
         "note": "",
         "params": [
             0,
@@ -1269,12 +1389,16 @@
             0
         ],
         "price": 310,
-        "wtypeId": 7
+        "wtypeId": 7,
+        "_original": {
+            "name": "ショートボウ",
+            "description": "【弓】狩猟用に作られた短めの弓。"
+        }
     },
     {
         "id": 38,
         "animationId": 11,
-        "description": "【弓】威力を高めた戦闘用の長弓。",
+        "description": "[Bow] A longbow for battle with enhanced power.",
         "etypeId": 1,
         "traits": [
             {
@@ -1289,7 +1413,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ロングボウ",
+        "name": "Long Bow",
         "note": "",
         "params": [
             0,
@@ -1302,12 +1426,16 @@
             0
         ],
         "price": 780,
-        "wtypeId": 7
+        "wtypeId": 7,
+        "_original": {
+            "name": "ロングボウ",
+            "description": "【弓】威力を高めた戦闘用の長弓。"
+        }
     },
     {
         "id": 39,
         "animationId": 11,
-        "description": "【弓】強力なバネで矢を射出する石弓。",
+        "description": "[Bow] A crossbow that fires bolts with a powerful spring.",
         "etypeId": 1,
         "traits": [
             {
@@ -1322,7 +1450,7 @@
             }
         ],
         "iconIndex": 103,
-        "name": "クロスボウ",
+        "name": "Crossbow",
         "note": "",
         "params": [
             0,
@@ -1335,12 +1463,16 @@
             0
         ],
         "price": 1860,
-        "wtypeId": 8
+        "wtypeId": 8,
+        "_original": {
+            "name": "クロスボウ",
+            "description": "【弓】強力なバネで矢を射出する石弓。"
+        }
     },
     {
         "id": 40,
         "animationId": 11,
-        "description": "【弓】強力なバネでミスリルの矢を射出する石弓。",
+        "description": "[Bow] A crossbow that fires mithril bolts with a powerful spring.",
         "etypeId": 1,
         "traits": [
             {
@@ -1355,7 +1487,7 @@
             }
         ],
         "iconIndex": 103,
-        "name": "ミスリルボウ",
+        "name": "Mithril Bow",
         "note": "",
         "params": [
             0,
@@ -1368,12 +1500,16 @@
             0
         ],
         "price": 3260,
-        "wtypeId": 8
+        "wtypeId": 8,
+        "_original": {
+            "name": "ミスリルボウ",
+            "description": "【弓】強力なバネでミスリルの矢を射出する石弓。"
+        }
     },
     {
         "id": 41,
         "animationId": 11,
-        "description": "【弓】ドラゴンのヒゲで作られた戦闘用の長弓。",
+        "description": "[Bow] A longbow for battle made from a dragon's whiskers.",
         "etypeId": 1,
         "traits": [
             {
@@ -1388,7 +1524,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ドラゴンボウ",
+        "name": "Dragon Bow",
         "note": "",
         "params": [
             0,
@@ -1401,7 +1537,11 @@
             0
         ],
         "price": 5980,
-        "wtypeId": 7
+        "wtypeId": 7,
+        "_original": {
+            "name": "ドラゴンボウ",
+            "description": "【弓】ドラゴンのヒゲで作られた戦闘用の長弓。"
+        }
     },
     {
         "id": 42,
@@ -1439,7 +1579,7 @@
     {
         "id": 43,
         "animationId": 6,
-        "description": "【短剣】日常生活にも使えるナイフ。",
+        "description": "[Dagger] A knife that can also be used in everyday life.",
         "etypeId": 1,
         "traits": [
             {
@@ -1454,7 +1594,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ナイフ",
+        "name": "Knife",
         "note": "",
         "params": [
             0,
@@ -1467,12 +1607,16 @@
             0
         ],
         "price": 280,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "ナイフ",
+            "description": "【短剣】日常生活にも使えるナイフ。"
+        }
     },
     {
         "id": 44,
         "animationId": 6,
-        "description": "【短剣】接近戦で使用する短刀。",
+        "description": "[Dagger] A short blade used in close combat.",
         "etypeId": 1,
         "traits": [
             {
@@ -1487,7 +1631,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ダガー",
+        "name": "Dagger",
         "note": "",
         "params": [
             0,
@@ -1500,12 +1644,16 @@
             0
         ],
         "price": 690,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "ダガー",
+            "description": "【短剣】接近戦で使用する短刀。"
+        }
     },
     {
         "id": 45,
         "animationId": 6,
-        "description": "【短剣】刀身が厚く丈夫な短刀。",
+        "description": "[Dagger] A short blade with a thick, sturdy edge.",
         "etypeId": 1,
         "traits": [
             {
@@ -1520,7 +1668,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "マシェット",
+        "name": "Machete",
         "note": "",
         "params": [
             0,
@@ -1533,12 +1681,16 @@
             0
         ],
         "price": 1280,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "マシェット",
+            "description": "【短剣】刀身が厚く丈夫な短刀。"
+        }
     },
     {
         "id": 46,
         "animationId": 6,
-        "description": "【短剣】ミスリルで作られた短刀。",
+        "description": "[Dagger] A short blade forged from mithril.",
         "etypeId": 1,
         "traits": [
             {
@@ -1553,7 +1705,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ミスリルダガー",
+        "name": "Mithril Dagger",
         "note": "",
         "params": [
             0,
@@ -1566,12 +1718,16 @@
             0
         ],
         "price": 2930,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "ミスリルダガー",
+            "description": "【短剣】ミスリルで作られた短刀。"
+        }
     },
     {
         "id": 47,
         "animationId": 6,
-        "description": "【短剣】ドラゴンのキバで作られた短刀。",
+        "description": "[Dagger] A short blade made from a dragon's fang.",
         "etypeId": 1,
         "traits": [
             {
@@ -1586,7 +1742,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "ドラゴンダガー",
+        "name": "Dragon Dagger",
         "note": "",
         "params": [
             0,
@@ -1599,7 +1755,11 @@
             0
         ],
         "price": 5820,
-        "wtypeId": 1
+        "wtypeId": 1,
+        "_original": {
+            "name": "ドラゴンダガー",
+            "description": "【短剣】ドラゴンのキバで作られた短刀。"
+        }
     },
     {
         "id": 48,

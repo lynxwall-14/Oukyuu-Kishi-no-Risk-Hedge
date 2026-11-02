@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "ロレンチアの部屋",
+    "displayName": "Lorentia's Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1622,21 +1622,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "就寝しますか？"
-                            ]
+                                "Go to sleep?"
+                            ],
+                            "_original": "就寝しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -1743,8 +1748,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "1日目：思わぬ油断"
-                            ]
+                                "Day 1: An Unforeseen Lapse"
+                            ],
+                            "_original": "1日目：思わぬ油断"
                         },
                         {
                             "code": 121,
@@ -1853,21 +1859,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "就寝しますか？"
-                            ]
+                                "Go to sleep?"
+                            ],
+                            "_original": "就寝しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -1972,8 +1983,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "2日目：尽きぬ襲来"
-                            ]
+                                "Day 2: Unceasing Assaults"
+                            ],
+                            "_original": "2日目：尽きぬ襲来"
                         },
                         {
                             "code": 0,
@@ -2023,8 +2035,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夜間にのみ就寝できます。"
-                            ]
+                                "You can only sleep at night."
+                            ],
+                            "_original": "夜間にのみ就寝できます。"
                         },
                         {
                             "code": 0,
@@ -2111,21 +2124,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "就寝しますか？"
-                            ]
+                                "Go to sleep?"
+                            ],
+                            "_original": "就寝しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2230,8 +2248,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "3日目：冷めやらぬ興奮"
-                            ]
+                                "Day 3: Unabating Excitement"
+                            ],
+                            "_original": "3日目：冷めやらぬ興奮"
                         },
                         {
                             "code": 0,
@@ -2281,8 +2300,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夜間にのみ就寝できます。"
-                            ]
+                                "You can only sleep at night."
+                            ],
+                            "_original": "夜間にのみ就寝できます。"
                         },
                         {
                             "code": 0,
@@ -2369,21 +2389,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "就寝しますか？"
-                            ]
+                                "Go to sleep?"
+                            ],
+                            "_original": "就寝しますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2488,8 +2513,9 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "4日目：拭えぬ懸念"
-                            ]
+                                "Day 4: Unshakable Misgivings"
+                            ],
+                            "_original": "4日目：拭えぬ懸念"
                         },
                         {
                             "code": 0,
@@ -2539,8 +2565,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "夜間にのみ就寝できます。"
-                            ]
+                                "You can only sleep at night."
+                            ],
+                            "_original": "夜間にのみ就寝できます。"
                         },
                         {
                             "code": 0,
@@ -2670,15 +2697,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…ここで任務を諦めるという手もあります。"
-                            ]
+                                "...Abandoning the mission here is one option."
+                            ],
+                            "_original": "…ここで任務を諦めるという手もあります。"
                         },
                         {
                             "code": 357,
@@ -2747,22 +2776,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "セセラギ村に来てから今日で4日目…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低限の護衛は完了しました。"
-                            ]
+                                "Today marks four days since I arrived in Seseragi Village...\nThe minimum escort duties are complete."
+                            ],
+                            "_original": "セセラギ村に来てから今日で4日目…\n最低限の護衛は完了しました。"
                         },
                         {
                             "code": 357,
@@ -2831,28 +2855,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日の朝にでもこの村を発つべきでしょうか。"
-                            ]
+                                "Perhaps I should leave this village tomorrow morning."
+                            ],
+                            "_original": "明日の朝にでもこの村を発つべきでしょうか。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "王都へ帰る",
-                                    "考え直す"
+                                    "Return to the Royal Capital",
+                                    "Think it over"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "王都へ帰る",
+                                "考え直す"
                             ]
                         },
                         {
@@ -2946,15 +2976,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…王都の医療研究班の腕を信じるしかなさそうです。"
-                            ]
+                                "...It seems I have no choice but to trust in the skills of\nthe Royal Capital's Medical Research Unit."
+                            ],
+                            "_original": "…王都の医療研究班の腕を信じるしかなさそうです。"
                         },
                         {
                             "code": 230,
@@ -3050,15 +3082,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "残された手段は…"
-                            ]
+                                "The remaining options are..."
+                            ],
+                            "_original": "残された手段は…"
                         },
                         {
                             "code": 0,
@@ -3172,15 +3206,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは現在、毒耐性ポーションの影響で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[17]避妊薬が効かない体\\C[0]になっています。"
-                            ]
+                                "Lorentia is currently under the effects of the Poison\nResistance Potion, which has left her body \\C[17]unable to benefit\nfrom contraceptives\\C[0]."
+                            ],
+                            "_original": "ロレンチアは現在、毒耐性ポーションの影響で\n\\C[17]避妊薬が効かない体\\C[0]になっています。"
                         },
                         {
                             "code": 101,
@@ -3197,29 +3225,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本作ではセセラギ村での4日間が描かれますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その間に彼女が性行為をしてしまった場合、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]妊娠確定という結末へ直行します\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(エンディング後は直前のシーンに戻ります。)"
-                            ]
+                                "This game depicts the four days she spends in Seseragi\nVillage. If she ends up having sex during that time,\n\\C[10]pregnancy is guaranteed, leading straight to that ending\\C[0].\n(After the ending, you will return to just before the\nscene.)"
+                            ],
+                            "_original": "本作ではセセラギ村での4日間が描かれますが、\nその間に彼女が性行為をしてしまった場合、\n\\C[10]妊娠確定という結末へ直行します\\C[0]。\n(エンディング後は直前のシーンに戻ります。)"
                         },
                         {
                             "code": 101,
@@ -3236,15 +3244,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事に4日間を終えるため…\\C[17]妊娠につながるリスク\\C[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "避けるように、慎重に選択肢を選びましょう。"
-                            ]
+                                "To make it through the four days safely...choose your\noptions carefully so as to avoid \\C[17]any risk that could lead to\npregnancy\\C[0]."
+                            ],
+                            "_original": "無事に4日間を終えるため…\\C[17]妊娠につながるリスク\\C[0]を\n避けるように、慎重に選択肢を選びましょう。"
                         },
                         {
                             "code": 230,
@@ -3268,35 +3270,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアの性格を選んでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(CGや立ち絵に若干の変化アリ)"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "性格はメインメニューからいつでも変更可能です。"
-                            ]
+                                "Please choose Lorentia's personality. (This causes slight\nchanges to CGs and portraits.) Her personality can be\nchanged at any time from the main menu."
+                            ],
+                            "_original": "ロレンチアの性格を選んでください。\n(CGや立ち絵に若干の変化アリ)\n性格はメインメニューからいつでも変更可能です。"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "王宮騎士といえど裸を見られるのは人並みに恥ずかしい",
-                                    "王宮騎士たるもの裸を晒した程度で動じることはない"
+                                    "Even a Royal Knight is as embarrassed as anyone to be seen naked.",
+                                    "A Royal Knight is not shaken by mere nudity."
                                 ],
                                 -1,
                                 0,
                                 1,
                                 0
+                            ],
+                            "_original": [
+                                "王宮騎士といえど裸を見られるのは人並みに恥ずかしい",
+                                "王宮騎士たるもの裸を晒した程度で動じることはない"
                             ]
                         },
                         {

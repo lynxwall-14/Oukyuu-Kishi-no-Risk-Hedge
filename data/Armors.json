@@ -13,7 +13,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----鎧系",
+        "name": "-----Armor",
         "note": "",
         "params": [
             0,
@@ -25,12 +25,15 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "-----鎧系"
+        }
     },
     {
         "id": 2,
         "atypeId": 1,
-        "description": "【一般装備】通気性の高い布の服。",
+        "description": "[General Equipment]Highly breathable clothes made of cloth.",
         "etypeId": 4,
         "traits": [
             {
@@ -40,7 +43,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "布の服",
+        "name": "Cloth Clothes",
         "note": "",
         "params": [
             0,
@@ -52,12 +55,16 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "布の服",
+            "description": "【一般装備】通気性の高い布の服。"
+        }
     },
     {
         "id": 3,
         "atypeId": 1,
-        "description": "【一般装備】なめし皮で作られたベスト。",
+        "description": "[General Equipment]A vest made of tanned leather.",
         "etypeId": 4,
         "traits": [
             {
@@ -67,7 +74,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "レザーベスト",
+        "name": "Leather Vest",
         "note": "",
         "params": [
             0,
@@ -79,12 +86,16 @@
             0,
             0
         ],
-        "price": 200
+        "price": 200,
+        "_original": {
+            "name": "レザーベスト",
+            "description": "【一般装備】なめし皮で作られたベスト。"
+        }
     },
     {
         "id": 4,
         "atypeId": 1,
-        "description": "【一般装備】過酷な旅にも耐えられる丈夫な服。",
+        "description": "[General Equipment]Sturdy clothes that can withstand even the harshest journey.",
         "etypeId": 4,
         "traits": [
             {
@@ -94,7 +105,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "冒険者の服",
+        "name": "Adventurer's Clothes",
         "note": "",
         "params": [
             0,
@@ -106,12 +117,16 @@
             0,
             0
         ],
-        "price": 550
+        "price": 550,
+        "_original": {
+            "name": "冒険者の服",
+            "description": "【一般装備】過酷な旅にも耐えられる丈夫な服。"
+        }
     },
     {
         "id": 5,
         "atypeId": 1,
-        "description": "【一般装備】にかわで固めた硬皮のベスト。",
+        "description": "[General Equipment]A hard leather vest stiffened with lacquer.",
         "etypeId": 4,
         "traits": [
             {
@@ -121,7 +136,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ハードレザー",
+        "name": "Hard Leather",
         "note": "",
         "params": [
             0,
@@ -133,12 +148,16 @@
             0,
             0
         ],
-        "price": 980
+        "price": 980,
+        "_original": {
+            "name": "ハードレザー",
+            "description": "【一般装備】にかわで固めた硬皮のベスト。"
+        }
     },
     {
         "id": 6,
         "atypeId": 1,
-        "description": "【一般装備】鋼板で補強したなめし皮製の服。",
+        "description": "[General Equipment]Tanned leather clothes reinforced with steel plates.",
         "etypeId": 4,
         "traits": [
             {
@@ -148,7 +167,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "ブリガンダイン",
+        "name": "Brigandine",
         "note": "",
         "params": [
             0,
@@ -160,7 +179,11 @@
             0,
             0
         ],
-        "price": 1560
+        "price": 1560,
+        "_original": {
+            "name": "ブリガンダイン",
+            "description": "【一般装備】鋼板で補強したなめし皮製の服。"
+        }
     },
     {
         "id": 7,
@@ -192,7 +215,7 @@
     {
         "id": 8,
         "atypeId": 3,
-        "description": "【軽装備】丈夫な布で作られた鎧。",
+        "description": "[Light Armor]Armor made from durable cloth.",
         "etypeId": 4,
         "traits": [
             {
@@ -202,7 +225,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "クロースアーマー",
+        "name": "Cloth Armor",
         "note": "",
         "params": [
             0,
@@ -214,12 +237,16 @@
             0,
             0
         ],
-        "price": 260
+        "price": 260,
+        "_original": {
+            "name": "クロースアーマー",
+            "description": "【軽装備】丈夫な布で作られた鎧。"
+        }
     },
     {
         "id": 9,
         "atypeId": 3,
-        "description": "【軽装備】なめし皮を重ねて組んだ鎧。",
+        "description": "[Light Armor]Armor assembled from layered tanned leather.",
         "etypeId": 4,
         "traits": [
             {
@@ -229,7 +256,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "レザーアーマー",
+        "name": "Leather Armor",
         "note": "",
         "params": [
             0,
@@ -241,12 +268,16 @@
             0,
             0
         ],
-        "price": 550
+        "price": 550,
+        "_original": {
+            "name": "レザーアーマー",
+            "description": "【軽装備】なめし皮を重ねて組んだ鎧。"
+        }
     },
     {
         "id": 10,
         "atypeId": 3,
-        "description": "【軽装備】青銅製の胸当て。",
+        "description": "[Light Armor]A bronze breastplate.",
         "etypeId": 4,
         "traits": [
             {
@@ -256,7 +287,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ブロンズブレスト",
+        "name": "Bronze Breastplate",
         "note": "",
         "params": [
             0,
@@ -268,12 +299,16 @@
             0,
             0
         ],
-        "price": 840
+        "price": 840,
+        "_original": {
+            "name": "ブロンズブレスト",
+            "description": "【軽装備】青銅製の胸当て。"
+        }
     },
     {
         "id": 11,
         "atypeId": 3,
-        "description": "【軽装備】鋼鉄製の胸当て。",
+        "description": "[Light Armor]A steel breastplate.",
         "etypeId": 4,
         "traits": [
             {
@@ -283,7 +318,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "アイアンブレスト",
+        "name": "Iron Breastplate",
         "note": "",
         "params": [
             0,
@@ -295,12 +330,16 @@
             0,
             0
         ],
-        "price": 1280
+        "price": 1280,
+        "_original": {
+            "name": "アイアンブレスト",
+            "description": "【軽装備】鋼鉄製の胸当て。"
+        }
     },
     {
         "id": 12,
         "atypeId": 3,
-        "description": "【軽装備】ミスリルで作られた胸当て。",
+        "description": "[Light Armor]A breastplate made of mithril.",
         "etypeId": 4,
         "traits": [
             {
@@ -310,7 +349,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ミスリルブレスト",
+        "name": "Mithril Breastplate",
         "note": "",
         "params": [
             0,
@@ -322,12 +361,16 @@
             0,
             0
         ],
-        "price": 2800
+        "price": 2800,
+        "_original": {
+            "name": "ミスリルブレスト",
+            "description": "【軽装備】ミスリルで作られた胸当て。"
+        }
     },
     {
         "id": 13,
         "atypeId": 3,
-        "description": "【軽装備】ドラゴンの鱗作られた胸当て。",
+        "description": "[Light Armor]A breastplate made from dragon scales.",
         "etypeId": 4,
         "traits": [
             {
@@ -337,7 +380,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "ドラゴンブレスト",
+        "name": "Dragon Breastplate",
         "note": "",
         "params": [
             0,
@@ -349,7 +392,11 @@
             0,
             0
         ],
-        "price": 4680
+        "price": 4680,
+        "_original": {
+            "name": "ドラゴンブレスト",
+            "description": "【軽装備】ドラゴンの鱗作られた胸当て。"
+        }
     },
     {
         "id": 14,
@@ -381,7 +428,7 @@
     {
         "id": 15,
         "atypeId": 4,
-        "description": "【重装備】青銅製の鎧。",
+        "description": "[Heavy Armor]Armor made of bronze.",
         "etypeId": 4,
         "traits": [
             {
@@ -391,7 +438,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ブロンズアーマー",
+        "name": "Bronze Armor",
         "note": "",
         "params": [
             0,
@@ -403,12 +450,16 @@
             0,
             0
         ],
-        "price": 680
+        "price": 680,
+        "_original": {
+            "name": "ブロンズアーマー",
+            "description": "【重装備】青銅製の鎧。"
+        }
     },
     {
         "id": 16,
         "atypeId": 4,
-        "description": "【重装備】鋼鉄製の鎧。",
+        "description": "[Heavy Armor]Armor made of steel.",
         "etypeId": 4,
         "traits": [
             {
@@ -418,7 +469,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "アイアンアーマー",
+        "name": "Iron Armor",
         "note": "",
         "params": [
             0,
@@ -430,12 +481,16 @@
             0,
             0
         ],
-        "price": 1480
+        "price": 1480,
+        "_original": {
+            "name": "アイアンアーマー",
+            "description": "【重装備】鋼鉄製の鎧。"
+        }
     },
     {
         "id": 17,
         "atypeId": 4,
-        "description": "【重装備】ミスリルで作られた鎧。",
+        "description": "[Heavy Armor]Armor made of mithril.",
         "etypeId": 4,
         "traits": [
             {
@@ -445,7 +500,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ミスリルアーマー",
+        "name": "Mithril Armor",
         "note": "",
         "params": [
             0,
@@ -457,12 +512,16 @@
             0,
             0
         ],
-        "price": 3250
+        "price": 3250,
+        "_original": {
+            "name": "ミスリルアーマー",
+            "description": "【重装備】ミスリルで作られた鎧。"
+        }
     },
     {
         "id": 18,
         "atypeId": 4,
-        "description": "【重装備】ドラゴンの鱗で作られた鎧。",
+        "description": "[Heavy Armor]Armor made from dragon scales.",
         "etypeId": 4,
         "traits": [
             {
@@ -472,7 +531,7 @@
             }
         ],
         "iconIndex": 137,
-        "name": "ドラゴンアーマー",
+        "name": "Dragon Armor",
         "note": "",
         "params": [
             0,
@@ -484,7 +543,11 @@
             0,
             0
         ],
-        "price": 5260
+        "price": 5260,
+        "_original": {
+            "name": "ドラゴンアーマー",
+            "description": "【重装備】ドラゴンの鱗で作られた鎧。"
+        }
     },
     {
         "id": 19,
@@ -516,7 +579,7 @@
     {
         "id": 20,
         "atypeId": 2,
-        "description": "【魔法装備】広く普及している一般的なローブ。",
+        "description": "[Magic Equipment]A common robe in wide circulation.",
         "etypeId": 4,
         "traits": [
             {
@@ -526,7 +589,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "木綿のローブ",
+        "name": "Cotton Robe",
         "note": "",
         "params": [
             0,
@@ -538,12 +601,16 @@
             0,
             0
         ],
-        "price": 150
+        "price": 150,
+        "_original": {
+            "name": "木綿のローブ",
+            "description": "【魔法装備】広く普及している一般的なローブ。"
+        }
     },
     {
         "id": 21,
         "atypeId": 2,
-        "description": "【魔法装備】絹で作られた上質なマント。",
+        "description": "[Magic Equipment]A fine mantle made of silk.",
         "etypeId": 4,
         "traits": [
             {
@@ -553,7 +620,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "絹のマント",
+        "name": "Silk Mantle",
         "note": "",
         "params": [
             0,
@@ -565,12 +632,16 @@
             0,
             0
         ],
-        "price": 560
+        "price": 560,
+        "_original": {
+            "name": "絹のマント",
+            "description": "【魔法装備】絹で作られた上質なマント。"
+        }
     },
     {
         "id": 22,
         "atypeId": 2,
-        "description": "【魔法装備】ルーン文字が刻まれたローブ。",
+        "description": "[Magic Equipment]A robe inscribed with runic characters.",
         "etypeId": 4,
         "traits": [
             {
@@ -580,7 +651,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "術士のローブ",
+        "name": "Sorcerer's Robe",
         "note": "",
         "params": [
             0,
@@ -592,12 +663,16 @@
             0,
             0
         ],
-        "price": 1220
+        "price": 1220,
+        "_original": {
+            "name": "術士のローブ",
+            "description": "【魔法装備】ルーン文字が刻まれたローブ。"
+        }
     },
     {
         "id": 23,
         "atypeId": 2,
-        "description": "【魔法装備】魔力が織り込まれたローブ。",
+        "description": "[Magic Equipment]A robe woven with magical power.",
         "etypeId": 4,
         "traits": [
             {
@@ -607,7 +682,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "賢者のローブ",
+        "name": "Sage's Robe",
         "note": "",
         "params": [
             0,
@@ -619,12 +694,16 @@
             0,
             0
         ],
-        "price": 2980
+        "price": 2980,
+        "_original": {
+            "name": "賢者のローブ",
+            "description": "【魔法装備】魔力が織り込まれたローブ。"
+        }
     },
     {
         "id": 24,
         "atypeId": 2,
-        "description": "【魔法装備】精霊王の力が宿る究極のマント。",
+        "description": "[Magic Equipment]The ultimate mantle, housing the power of the Spirit King.",
         "etypeId": 4,
         "traits": [
             {
@@ -634,7 +713,7 @@
             }
         ],
         "iconIndex": 139,
-        "name": "エレメンタルマント",
+        "name": "Elemental Mantle",
         "note": "",
         "params": [
             0,
@@ -646,7 +725,11 @@
             0,
             0
         ],
-        "price": 5760
+        "price": 5760,
+        "_original": {
+            "name": "エレメンタルマント",
+            "description": "【魔法装備】精霊王の力が宿る究極のマント。"
+        }
     },
     {
         "id": 25,
@@ -688,7 +771,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----盾系",
+        "name": "-----Shields",
         "note": "",
         "params": [
             0,
@@ -700,12 +783,15 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "-----盾系"
+        }
     },
     {
         "id": 27,
         "atypeId": 5,
-        "description": "【小型盾】攻撃を受け流すための小型盾。",
+        "description": "[Small Shield]A small shield for parrying attacks.",
         "etypeId": 2,
         "traits": [
             {
@@ -715,7 +801,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "バックラー",
+        "name": "Buckler",
         "note": "",
         "params": [
             0,
@@ -727,12 +813,16 @@
             0,
             0
         ],
-        "price": 300
+        "price": 300,
+        "_original": {
+            "name": "バックラー",
+            "description": "【小型盾】攻撃を受け流すための小型盾。"
+        }
     },
     {
         "id": 28,
         "atypeId": 5,
-        "description": "【小型盾】鉄の枠で補強した木製の円盾。",
+        "description": "[Small Shield]A wooden buckler reinforced with an iron frame.",
         "etypeId": 2,
         "traits": [
             {
@@ -742,7 +832,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ラウンドバックラー",
+        "name": "Round Buckler",
         "note": "",
         "params": [
             0,
@@ -754,12 +844,16 @@
             0,
             0
         ],
-        "price": 670
+        "price": 670,
+        "_original": {
+            "name": "ラウンドバックラー",
+            "description": "【小型盾】鉄の枠で補強した木製の円盾。"
+        }
     },
     {
         "id": 29,
         "atypeId": 5,
-        "description": "【小型盾】表面に攻撃用のトゲがついた円盾。",
+        "description": "[Small Shield]A buckler with offensive spikes on its surface.",
         "etypeId": 2,
         "traits": [
             {
@@ -769,7 +863,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "スパイクバックラー",
+        "name": "Spike Buckler",
         "note": "",
         "params": [
             0,
@@ -781,12 +875,16 @@
             0,
             0
         ],
-        "price": 1320
+        "price": 1320,
+        "_original": {
+            "name": "スパイクバックラー",
+            "description": "【小型盾】表面に攻撃用のトゲがついた円盾。"
+        }
     },
     {
         "id": 30,
         "atypeId": 5,
-        "description": "【小型盾】ミスリルで作られた小型盾。",
+        "description": "[Small Shield]A small shield made of mithril.",
         "etypeId": 2,
         "traits": [
             {
@@ -796,7 +894,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ミスリルバックラー",
+        "name": "Mithril Buckler",
         "note": "",
         "params": [
             0,
@@ -808,12 +906,16 @@
             0,
             0
         ],
-        "price": 2750
+        "price": 2750,
+        "_original": {
+            "name": "ミスリルバックラー",
+            "description": "【小型盾】ミスリルで作られた小型盾。"
+        }
     },
     {
         "id": 31,
         "atypeId": 5,
-        "description": "【小型盾】竜の鱗から作られた小型盾。",
+        "description": "[Small Shield]A small shield made from dragon scales.",
         "etypeId": 2,
         "traits": [
             {
@@ -823,7 +925,7 @@
             }
         ],
         "iconIndex": 129,
-        "name": "ドラゴンバックラー",
+        "name": "Dragon Buckler",
         "note": "",
         "params": [
             0,
@@ -835,7 +937,11 @@
             0,
             0
         ],
-        "price": 5280
+        "price": 5280,
+        "_original": {
+            "name": "ドラゴンバックラー",
+            "description": "【小型盾】竜の鱗から作られた小型盾。"
+        }
     },
     {
         "id": 32,
@@ -867,7 +973,7 @@
     {
         "id": 33,
         "atypeId": 6,
-        "description": "【大型盾】ごく普通の木製の大きな盾。",
+        "description": "[Large Shield]A perfectly ordinary large wooden shield.",
         "etypeId": 2,
         "traits": [
             {
@@ -877,7 +983,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "ウッドシールド",
+        "name": "Wood Shield",
         "note": "",
         "params": [
             0,
@@ -889,12 +995,16 @@
             0,
             0
         ],
-        "price": 550
+        "price": 550,
+        "_original": {
+            "name": "ウッドシールド",
+            "description": "【大型盾】ごく普通の木製の大きな盾。"
+        }
     },
     {
         "id": 34,
         "atypeId": 6,
-        "description": "【大型盾】青銅の板で作られた大きな盾。",
+        "description": "[Large Shield]A large shield made of bronze plate.",
         "etypeId": 2,
         "traits": [
             {
@@ -904,7 +1014,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "ブロンズシールド",
+        "name": "Bronze Shield",
         "note": "",
         "params": [
             0,
@@ -916,12 +1026,16 @@
             0,
             0
         ],
-        "price": 960
+        "price": 960,
+        "_original": {
+            "name": "ブロンズシールド",
+            "description": "【大型盾】青銅の板で作られた大きな盾。"
+        }
     },
     {
         "id": 35,
         "atypeId": 6,
-        "description": "【大型盾】鋼鉄製の大きな盾。",
+        "description": "[Large Shield]A large shield made of steel.",
         "etypeId": 2,
         "traits": [
             {
@@ -931,7 +1045,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "アイアンシールド",
+        "name": "Iron Shield",
         "note": "",
         "params": [
             0,
@@ -943,12 +1057,16 @@
             0,
             0
         ],
-        "price": 1480
+        "price": 1480,
+        "_original": {
+            "name": "アイアンシールド",
+            "description": "【大型盾】鋼鉄製の大きな盾。"
+        }
     },
     {
         "id": 36,
         "atypeId": 6,
-        "description": "【大型盾】ミスリルで作られた大型の盾。",
+        "description": "[Large Shield]A large shield made of mithril.",
         "etypeId": 2,
         "traits": [
             {
@@ -958,7 +1076,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "ミスリルシールド",
+        "name": "Mithril Shield",
         "note": "",
         "params": [
             0,
@@ -970,12 +1088,16 @@
             0,
             0
         ],
-        "price": 2980
+        "price": 2980,
+        "_original": {
+            "name": "ミスリルシールド",
+            "description": "【大型盾】ミスリルで作られた大型の盾。"
+        }
     },
     {
         "id": 37,
         "atypeId": 6,
-        "description": "【大型盾】竜の鱗から作られた大型の盾。",
+        "description": "[Large Shield]A large shield made from dragon scales.",
         "etypeId": 2,
         "traits": [
             {
@@ -985,7 +1107,7 @@
             }
         ],
         "iconIndex": 128,
-        "name": "ドラゴンシールド",
+        "name": "Dragon Shield",
         "note": "",
         "params": [
             0,
@@ -997,7 +1119,11 @@
             0,
             0
         ],
-        "price": 6120
+        "price": 6120,
+        "_original": {
+            "name": "ドラゴンシールド",
+            "description": "【大型盾】竜の鱗から作られた大型の盾。"
+        }
     },
     {
         "id": 38,
@@ -1029,7 +1155,7 @@
     {
         "id": 39,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた腕輪。",
+        "description": "[Magic Equipment]A bracelet enchanted with protective magic.",
         "etypeId": 2,
         "traits": [
             {
@@ -1039,7 +1165,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ウッドバングル",
+        "name": "Wood Bangle",
         "note": "",
         "params": [
             0,
@@ -1051,12 +1177,16 @@
             0,
             0
         ],
-        "price": 300
+        "price": 300,
+        "_original": {
+            "name": "ウッドバングル",
+            "description": "【魔法装備】守護の魔法がかけられた腕輪。"
+        }
     },
     {
         "id": 40,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた腕輪。",
+        "description": "[Magic Equipment]A bracelet enchanted with protective magic.",
         "etypeId": 2,
         "traits": [
             {
@@ -1066,7 +1196,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ブロンズバングル",
+        "name": "Bronze Bangle",
         "note": "",
         "params": [
             0,
@@ -1078,12 +1208,16 @@
             0,
             0
         ],
-        "price": 650
+        "price": 650,
+        "_original": {
+            "name": "ブロンズバングル",
+            "description": "【魔法装備】守護の魔法がかけられた腕輪。"
+        }
     },
     {
         "id": 41,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた腕輪。",
+        "description": "[Magic Equipment]A bracelet enchanted with protective magic.",
         "etypeId": 2,
         "traits": [
             {
@@ -1093,7 +1227,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "アイアンバングル",
+        "name": "Iron Bangle",
         "note": "",
         "params": [
             0,
@@ -1105,12 +1239,16 @@
             0,
             0
         ],
-        "price": 1280
+        "price": 1280,
+        "_original": {
+            "name": "アイアンバングル",
+            "description": "【魔法装備】守護の魔法がかけられた腕輪。"
+        }
     },
     {
         "id": 42,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた腕輪。",
+        "description": "[Magic Equipment]A bracelet enchanted with protective magic.",
         "etypeId": 2,
         "traits": [
             {
@@ -1120,7 +1258,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ミスリルバングル",
+        "name": "Mithril Bangle",
         "note": "",
         "params": [
             0,
@@ -1132,12 +1270,16 @@
             0,
             0
         ],
-        "price": 2680
+        "price": 2680,
+        "_original": {
+            "name": "ミスリルバングル",
+            "description": "【魔法装備】守護の魔法がかけられた腕輪。"
+        }
     },
     {
         "id": 43,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた腕輪。",
+        "description": "[Magic Equipment]A bracelet enchanted with protective magic.",
         "etypeId": 2,
         "traits": [
             {
@@ -1147,7 +1289,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ドラゴンバングル",
+        "name": "Dragon Bangle",
         "note": "",
         "params": [
             0,
@@ -1159,7 +1301,11 @@
             0,
             0
         ],
-        "price": 4860
+        "price": 4860,
+        "_original": {
+            "name": "ドラゴンバングル",
+            "description": "【魔法装備】守護の魔法がかけられた腕輪。"
+        }
     },
     {
         "id": 44,
@@ -1201,7 +1347,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----兜系",
+        "name": "-----Helmets",
         "note": "",
         "params": [
             0,
@@ -1213,12 +1359,15 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "-----兜系"
+        }
     },
     {
         "id": 46,
         "atypeId": 1,
-        "description": "【一般装備】額を守る布製のハチマキ。",
+        "description": "[General Equipment]A cloth headband that protects the forehead.",
         "etypeId": 3,
         "traits": [
             {
@@ -1228,7 +1377,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "バンダナ",
+        "name": "Bandana",
         "note": "",
         "params": [
             0,
@@ -1240,12 +1389,16 @@
             0,
             0
         ],
-        "price": 50
+        "price": 50,
+        "_original": {
+            "name": "バンダナ",
+            "description": "【一般装備】額を守る布製のハチマキ。"
+        }
     },
     {
         "id": 47,
         "atypeId": 1,
-        "description": "【一般装備】額を守る皮製のハチマキ。",
+        "description": "[General Equipment]A leather headband that protects the forehead.",
         "etypeId": 3,
         "traits": [
             {
@@ -1255,7 +1408,7 @@
             }
         ],
         "iconIndex": 150,
-        "name": "レザーバンダナ",
+        "name": "Leather Bandana",
         "note": "",
         "params": [
             0,
@@ -1267,12 +1420,16 @@
             0,
             0
         ],
-        "price": 120
+        "price": 120,
+        "_original": {
+            "name": "レザーバンダナ",
+            "description": "【一般装備】額を守る皮製のハチマキ。"
+        }
     },
     {
         "id": 48,
         "atypeId": 1,
-        "description": "【一般装備】皮で作られた帽子。",
+        "description": "[General] A hat made of leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -1282,7 +1439,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "皮の帽子",
+        "name": "Leather Hat",
         "note": "",
         "params": [
             0,
@@ -1294,12 +1451,16 @@
             0,
             0
         ],
-        "price": 480
+        "price": 480,
+        "_original": {
+            "name": "皮の帽子",
+            "description": "【一般装備】皮で作られた帽子。"
+        }
     },
     {
         "id": 49,
         "atypeId": 1,
-        "description": "【一般装備】重ねて巻きつけて頭を守る厚手の布。",
+        "description": "[General] A thick cloth wrapped in layers to protect the head.",
         "etypeId": 3,
         "traits": [
             {
@@ -1309,7 +1470,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ターバン",
+        "name": "Turban",
         "note": "",
         "params": [
             0,
@@ -1321,12 +1482,16 @@
             0,
             0
         ],
-        "price": 980
+        "price": 980,
+        "_original": {
+            "name": "ターバン",
+            "description": "【一般装備】重ねて巻きつけて頭を守る厚手の布。"
+        }
     },
     {
         "id": 50,
         "atypeId": 1,
-        "description": "【一般装備】鳥の羽がついたオシャレな帽子。",
+        "description": "[General] A stylish hat adorned with a bird feather.",
         "etypeId": 3,
         "traits": [
             {
@@ -1336,7 +1501,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "羽根付き帽子",
+        "name": "Feathered Hat",
         "note": "",
         "params": [
             0,
@@ -1348,7 +1513,11 @@
             0,
             0
         ],
-        "price": 1890
+        "price": 1890,
+        "_original": {
+            "name": "羽根付き帽子",
+            "description": "【一般装備】鳥の羽がついたオシャレな帽子。"
+        }
     },
     {
         "id": 51,
@@ -1380,7 +1549,7 @@
     {
         "id": 52,
         "atypeId": 3,
-        "description": "【軽装備】なめし皮で作られた帽子。",
+        "description": "[Light] A hat made of tanned leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -1390,7 +1559,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "レザーキャップ",
+        "name": "Leather Cap",
         "note": "",
         "params": [
             0,
@@ -1402,12 +1571,16 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "レザーキャップ",
+            "description": "【軽装備】なめし皮で作られた帽子。"
+        }
     },
     {
         "id": 53,
         "atypeId": 3,
-        "description": "【軽装備】木で作られた軽量のヘルメット。",
+        "description": "[Light] A lightweight helmet made of wood.",
         "etypeId": 3,
         "traits": [
             {
@@ -1417,7 +1590,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ウッドキャップ",
+        "name": "Wood Cap",
         "note": "",
         "params": [
             0,
@@ -1429,12 +1602,16 @@
             0,
             0
         ],
-        "price": 300
+        "price": 300,
+        "_original": {
+            "name": "ウッドキャップ",
+            "description": "【軽装備】木で作られた軽量のヘルメット。"
+        }
     },
     {
         "id": 54,
         "atypeId": 3,
-        "description": "【軽装備】銅板で強化された軽量のヘルメット。",
+        "description": "[Light] A lightweight helmet reinforced with copper plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1444,7 +1621,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ブロンズキャップ",
+        "name": "Bronze Cap",
         "note": "",
         "params": [
             0,
@@ -1456,12 +1633,16 @@
             0,
             0
         ],
-        "price": 720
+        "price": 720,
+        "_original": {
+            "name": "ブロンズキャップ",
+            "description": "【軽装備】銅板で強化された軽量のヘルメット。"
+        }
     },
     {
         "id": 55,
         "atypeId": 3,
-        "description": "【軽装備】鉄板で強化された軽量のヘルメット。",
+        "description": "[Light] A lightweight helmet reinforced with iron plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1471,7 +1652,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "アイアンキャップ",
+        "name": "Iron Cap",
         "note": "",
         "params": [
             0,
@@ -1483,12 +1664,16 @@
             0,
             0
         ],
-        "price": 1680
+        "price": 1680,
+        "_original": {
+            "name": "アイアンキャップ",
+            "description": "【軽装備】鉄板で強化された軽量のヘルメット。"
+        }
     },
     {
         "id": 56,
         "atypeId": 3,
-        "description": "【軽装備】ミスリルで強化された軽量のヘルメット。",
+        "description": "[Light] A lightweight helmet reinforced with mithril.",
         "etypeId": 3,
         "traits": [
             {
@@ -1498,7 +1683,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ミスリルキャップ",
+        "name": "Mithril Cap",
         "note": "",
         "params": [
             0,
@@ -1510,12 +1695,16 @@
             0,
             0
         ],
-        "price": 3250
+        "price": 3250,
+        "_original": {
+            "name": "ミスリルキャップ",
+            "description": "【軽装備】ミスリルで強化された軽量のヘルメット。"
+        }
     },
     {
         "id": 57,
         "atypeId": 3,
-        "description": "【軽装備】ドラゴンの鱗で強化された軽量のヘルメット。",
+        "description": "[Light] A lightweight helmet reinforced with dragon scales.",
         "etypeId": 3,
         "traits": [
             {
@@ -1525,7 +1714,7 @@
             }
         ],
         "iconIndex": 130,
-        "name": "ドラゴンキャップ",
+        "name": "Dragon Cap",
         "note": "",
         "params": [
             0,
@@ -1537,7 +1726,11 @@
             0,
             0
         ],
-        "price": 5480
+        "price": 5480,
+        "_original": {
+            "name": "ドラゴンキャップ",
+            "description": "【軽装備】ドラゴンの鱗で強化された軽量のヘルメット。"
+        }
     },
     {
         "id": 58,
@@ -1569,7 +1762,7 @@
     {
         "id": 59,
         "atypeId": 4,
-        "description": "【重装備】細かい鎖を編んで作られた頭巾。",
+        "description": "[Heavy] A hood woven from fine chain links.",
         "etypeId": 3,
         "traits": [
             {
@@ -1579,7 +1772,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "チェインコイフ",
+        "name": "Chain Coif",
         "note": "",
         "params": [
             0,
@@ -1591,12 +1784,16 @@
             0,
             0
         ],
-        "price": 250
+        "price": 250,
+        "_original": {
+            "name": "チェインコイフ",
+            "description": "【重装備】細かい鎖を編んで作られた頭巾。"
+        }
     },
     {
         "id": 60,
         "atypeId": 4,
-        "description": "【重装備】厚い青銅の板で作られた兜。",
+        "description": "[Heavy] A helm made of thick bronze plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1606,7 +1803,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ブロンズヘルム",
+        "name": "Bronze Helm",
         "note": "",
         "params": [
             0,
@@ -1618,12 +1815,16 @@
             0,
             0
         ],
-        "price": 750
+        "price": 750,
+        "_original": {
+            "name": "ブロンズヘルム",
+            "description": "【重装備】厚い青銅の板で作られた兜。"
+        }
     },
     {
         "id": 61,
         "atypeId": 4,
-        "description": "【重装備】厚い鋼鉄の板で作られた兜。",
+        "description": "[Heavy] A helm made of thick steel plates.",
         "etypeId": 3,
         "traits": [
             {
@@ -1633,7 +1834,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "アイアンヘルム",
+        "name": "Iron Helm",
         "note": "",
         "params": [
             0,
@@ -1645,12 +1846,16 @@
             0,
             0
         ],
-        "price": 1580
+        "price": 1580,
+        "_original": {
+            "name": "アイアンヘルム",
+            "description": "【重装備】厚い鋼鉄の板で作られた兜。"
+        }
     },
     {
         "id": 62,
         "atypeId": 4,
-        "description": "【重装備】ミスリルで作られた兜。",
+        "description": "[Heavy] A helm made of mithril.",
         "etypeId": 3,
         "traits": [
             {
@@ -1660,7 +1865,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ミスリルヘルム",
+        "name": "Mithril Helm",
         "note": "",
         "params": [
             0,
@@ -1672,12 +1877,16 @@
             0,
             0
         ],
-        "price": 3480
+        "price": 3480,
+        "_original": {
+            "name": "ミスリルヘルム",
+            "description": "【重装備】ミスリルで作られた兜。"
+        }
     },
     {
         "id": 63,
         "atypeId": 4,
-        "description": "【重装備】ドラゴンの鱗で作られた兜。",
+        "description": "[Heavy] A helm made of dragon scales.",
         "etypeId": 3,
         "traits": [
             {
@@ -1687,7 +1896,7 @@
             }
         ],
         "iconIndex": 132,
-        "name": "ドラゴンヘルム",
+        "name": "Dragon Helm",
         "note": "",
         "params": [
             0,
@@ -1699,7 +1908,11 @@
             0,
             0
         ],
-        "price": 6780
+        "price": 6780,
+        "_original": {
+            "name": "ドラゴンヘルム",
+            "description": "【重装備】ドラゴンの鱗で作られた兜。"
+        }
     },
     {
         "id": 64,
@@ -1731,7 +1944,7 @@
     {
         "id": 65,
         "atypeId": 2,
-        "description": "【魔法装備】なめし皮で作られたつばの広い三角の帽子。",
+        "description": "[Magic] A wide-brimmed, three-cornered hat made of tanned leather.",
         "etypeId": 3,
         "traits": [
             {
@@ -1741,7 +1954,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "とんがり帽子",
+        "name": "Pointed Hat",
         "note": "",
         "params": [
             0,
@@ -1753,12 +1966,16 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "とんがり帽子",
+            "description": "【魔法装備】なめし皮で作られたつばの広い三角の帽子。"
+        }
     },
     {
         "id": 66,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた簡素な冠。",
+        "description": "[Magic] A simple crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1768,7 +1985,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "サークレット",
+        "name": "Circlet",
         "note": "",
         "params": [
             0,
@@ -1780,12 +1997,16 @@
             0,
             0
         ],
-        "price": 360
+        "price": 360,
+        "_original": {
+            "name": "サークレット",
+            "description": "【魔法装備】守護の魔法がかけられた簡素な冠。"
+        }
     },
     {
         "id": 67,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた銀細工の冠。",
+        "description": "[Magic] A silverwork crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1795,7 +2016,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "シルバーサークレット",
+        "name": "Silver Circlet",
         "note": "",
         "params": [
             0,
@@ -1807,12 +2028,16 @@
             0,
             0
         ],
-        "price": 980
+        "price": 980,
+        "_original": {
+            "name": "シルバーサークレット",
+            "description": "【魔法装備】守護の魔法がかけられた銀細工の冠。"
+        }
     },
     {
         "id": 68,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた純金の冠。",
+        "description": "[Magic] A pure gold crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1822,7 +2047,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "ゴールドサークレット",
+        "name": "Gold Circlet",
         "note": "",
         "params": [
             0,
@@ -1834,12 +2059,16 @@
             0,
             0
         ],
-        "price": 1980
+        "price": 1980,
+        "_original": {
+            "name": "ゴールドサークレット",
+            "description": "【魔法装備】守護の魔法がかけられた純金の冠。"
+        }
     },
     {
         "id": 69,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられたミスリルの冠。",
+        "description": "[Magic] A mithril crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1849,7 +2078,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "ミスリルサークレット",
+        "name": "Mithril Circlet",
         "note": "",
         "params": [
             0,
@@ -1861,12 +2090,16 @@
             0,
             0
         ],
-        "price": 3680
+        "price": 3680,
+        "_original": {
+            "name": "ミスリルサークレット",
+            "description": "【魔法装備】守護の魔法がかけられたミスリルの冠。"
+        }
     },
     {
         "id": 70,
         "atypeId": 2,
-        "description": "【魔法装備】守護の魔法がかけられた賢者の冠。",
+        "description": "[Magic] A sage's crown enchanted with protective magic.",
         "etypeId": 3,
         "traits": [
             {
@@ -1876,7 +2109,7 @@
             }
         ],
         "iconIndex": 133,
-        "name": "マスターサークレット",
+        "name": "Master Circlet",
         "note": "",
         "params": [
             0,
@@ -1888,7 +2121,11 @@
             0,
             0
         ],
-        "price": 5860
+        "price": 5860,
+        "_original": {
+            "name": "マスターサークレット",
+            "description": "【魔法装備】守護の魔法がかけられた賢者の冠。"
+        }
     },
     {
         "id": 71,
@@ -1930,7 +2167,7 @@
             }
         ],
         "iconIndex": 135,
-        "name": "-----装飾品系",
+        "name": "-----Accessories",
         "note": "",
         "params": [
             0,
@@ -1942,12 +2179,15 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "-----装飾品系"
+        }
     },
     {
         "id": 73,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises Defense.",
         "etypeId": 5,
         "traits": [
             {
@@ -1957,7 +2197,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ガードストーン",
+        "name": "Guard Stone",
         "note": "",
         "params": [
             0,
@@ -1969,12 +2209,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ガードストーン",
+            "description": "【装飾品】防御力を高めてくれるお守り。"
+        }
     },
     {
         "id": 74,
         "atypeId": 1,
-        "description": "【装飾品】防御力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that raises Defense.",
         "etypeId": 5,
         "traits": [
             {
@@ -1984,7 +2228,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガードリング",
+        "name": "Guard Ring",
         "note": "",
         "params": [
             0,
@@ -1996,12 +2240,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ガードリング",
+            "description": "【装飾品】防御力を高めてくれる指輪。"
+        }
     },
     {
         "id": 75,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises Attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2011,7 +2259,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "パワーストーン",
+        "name": "Power Stone",
         "note": "",
         "params": [
             0,
@@ -2023,12 +2271,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "パワーストーン",
+            "description": "【装飾品】攻撃力を高めてくれるお守り。"
+        }
     },
     {
         "id": 76,
         "atypeId": 1,
-        "description": "【装飾品】攻撃力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that raises Attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2038,7 +2290,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "パワーリング",
+        "name": "Power Ring",
         "note": "",
         "params": [
             0,
@@ -2050,12 +2302,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "パワーリング",
+            "description": "【装飾品】攻撃力を高めてくれる指輪。"
+        }
     },
     {
         "id": 77,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises Agility.",
         "etypeId": 5,
         "traits": [
             {
@@ -2065,7 +2321,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "スピードストーン",
+        "name": "Speed Stone",
         "note": "",
         "params": [
             0,
@@ -2077,12 +2333,16 @@
             5,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "スピードストーン",
+            "description": "【装飾品】敏捷性を高めてくれるお守り。"
+        }
     },
     {
         "id": 78,
         "atypeId": 1,
-        "description": "【装飾品】敏捷性を高めてくれる指輪。",
+        "description": "[Accessory] A ring that raises Agility.",
         "etypeId": 5,
         "traits": [
             {
@@ -2092,7 +2352,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "スピードリング",
+        "name": "Speed Ring",
         "note": "",
         "params": [
             0,
@@ -2104,12 +2364,16 @@
             5,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "スピードリング",
+            "description": "【装飾品】敏捷性を高めてくれる指輪。"
+        }
     },
     {
         "id": 79,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises Luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -2119,7 +2383,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "ラッキーストーン",
+        "name": "Lucky Stone",
         "note": "",
         "params": [
             0,
@@ -2131,12 +2395,16 @@
             0,
             5
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "ラッキーストーン",
+            "description": "【装飾品】運を高めてくれるお守り。"
+        }
     },
     {
         "id": 80,
         "atypeId": 1,
-        "description": "【装飾品】運を高めてくれる指輪。",
+        "description": "[Accessory] A ring that raises Luck.",
         "etypeId": 5,
         "traits": [
             {
@@ -2146,7 +2414,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ラッキーリング",
+        "name": "Lucky Ring",
         "note": "",
         "params": [
             0,
@@ -2158,12 +2426,16 @@
             0,
             10
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ラッキーリング",
+            "description": "【装飾品】運を高めてくれる指輪。"
+        }
     },
     {
         "id": 81,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises M. Power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2173,7 +2445,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "マジカルストーン",
+        "name": "Magical Stone",
         "note": "",
         "params": [
             0,
@@ -2185,12 +2457,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "マジカルストーン",
+            "description": "【装飾品】魔法力を高めてくれるお守り。"
+        }
     },
     {
         "id": 82,
         "atypeId": 1,
-        "description": "【装飾品】魔法力を高めてくれる指輪。",
+        "description": "[Accessory] A ring that raises M. Power.",
         "etypeId": 5,
         "traits": [
             {
@@ -2200,7 +2476,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マジカルリング",
+        "name": "Magical Ring",
         "note": "",
         "params": [
             0,
@@ -2212,12 +2488,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "マジカルリング",
+            "description": "【装飾品】魔法力を高めてくれる指輪。"
+        }
     },
     {
         "id": 83,
         "atypeId": 1,
-        "description": "【装飾品】攻撃の命中率を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises the Accuracy of attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2232,7 +2512,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "シューターストーン",
+        "name": "Shooter Stone",
         "note": "",
         "params": [
             0,
@@ -2244,12 +2524,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "シューターストーン",
+            "description": "【装飾品】攻撃の命中率を高めてくれるお守り。"
+        }
     },
     {
         "id": 84,
         "atypeId": 1,
-        "description": "【装飾品】攻撃の命中率を高めてくれるお守り。",
+        "description": "[Accessory] A charm that raises the Accuracy of attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2264,7 +2548,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "シューターリング",
+        "name": "Shooter Ring",
         "note": "",
         "params": [
             0,
@@ -2276,12 +2560,16 @@
             0,
             0
         ],
-        "price": 100
+        "price": 100,
+        "_original": {
+            "name": "シューターリング",
+            "description": "【装飾品】攻撃の命中率を高めてくれるお守り。"
+        }
     },
     {
         "id": 85,
         "atypeId": 1,
-        "description": "【装飾品】MPの消費を20％抑えてくれるお守り。",
+        "description": "[Accessory] A charm that reduces MP consumption by 20%.",
         "etypeId": 5,
         "traits": [
             {
@@ -2296,7 +2584,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "マスターストーン",
+        "name": "Master Stone",
         "note": "",
         "params": [
             0,
@@ -2308,12 +2596,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "マスターストーン",
+            "description": "【装飾品】MPの消費を20％抑えてくれるお守り。"
+        }
     },
     {
         "id": 86,
         "atypeId": 1,
-        "description": "【装飾品】MPの消費を50％抑えてくれる指輪。",
+        "description": "[Accessory] A ring that reduces MP consumption by 50%.",
         "etypeId": 5,
         "traits": [
             {
@@ -2328,7 +2620,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "マスターリング",
+        "name": "Master Ring",
         "note": "",
         "params": [
             0,
@@ -2340,7 +2632,11 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "マスターリング",
+            "description": "【装飾品】MPの消費を50％抑えてくれる指輪。"
+        }
     },
     {
         "id": 87,
@@ -2372,7 +2668,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "【装飾品】毒・麻痺に、かかりにくくなる指輪。",
+        "description": "[Accessory] A ring that makes you less susceptible to poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2397,7 +2693,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ポイズンガード",
+        "name": "Poison Guard",
         "note": "",
         "params": [
             0,
@@ -2409,12 +2705,16 @@
             0,
             0
         ],
-        "price": 300
+        "price": 300,
+        "_original": {
+            "name": "ポイズンガード",
+            "description": "【装飾品】毒・麻痺に、かかりにくくなる指輪。"
+        }
     },
     {
         "id": 89,
         "atypeId": 1,
-        "description": "【装飾品】毒・麻痺を完全に防ぐ指輪。",
+        "description": "[Accessory] A ring that completely prevents poison and paralysis.",
         "etypeId": 5,
         "traits": [
             {
@@ -2439,7 +2739,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ポイズンガードＳ",
+        "name": "Poison Guard S",
         "note": "",
         "params": [
             0,
@@ -2451,7 +2751,11 @@
             0,
             0
         ],
-        "price": 3000
+        "price": 3000,
+        "_original": {
+            "name": "ポイズンガードＳ",
+            "description": "【装飾品】毒・麻痺を完全に防ぐ指輪。"
+        }
     },
     {
         "id": 90,
@@ -2483,7 +2787,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂に\nかかりにくくなる指輪。",
+        "description": "[Accessory] A ring that makes you less susceptible to sleep, silence, confusion, charm, and rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -2518,7 +2822,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "メンタルガード",
+        "name": "Mental Guard",
         "note": "",
         "params": [
             0,
@@ -2530,12 +2834,16 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "メンタルガード",
+            "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂に\nかかりにくくなる指輪。"
+        }
     },
     {
         "id": 92,
         "atypeId": 1,
-        "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂を\n完全に防ぐ指輪。",
+        "description": "[Accessory] A ring that completely prevents sleep, silence, confusion, charm, and rage.",
         "etypeId": 5,
         "traits": [
             {
@@ -2570,7 +2878,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "メンタルガードＳ",
+        "name": "Mental Guard S",
         "note": "",
         "params": [
             0,
@@ -2582,7 +2890,11 @@
             0,
             0
         ],
-        "price": 5000
+        "price": 5000,
+        "_original": {
+            "name": "メンタルガードＳ",
+            "description": "【装飾品】睡眠・沈黙・混乱・魅了・激昂を\n完全に防ぐ指輪。"
+        }
     },
     {
         "id": 93,
@@ -2614,7 +2926,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "【装飾品】先制攻撃を行える確率を上げる装飾品。",
+        "description": "[Accessory] An accessory that raises the chance of a preemptive attack.",
         "etypeId": 5,
         "traits": [
             {
@@ -2629,7 +2941,7 @@
             }
         ],
         "iconIndex": 147,
-        "name": "エネミーレーダー",
+        "name": "Enemy Radar",
         "note": "",
         "params": [
             0,
@@ -2641,12 +2953,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "エネミーレーダー",
+            "description": "【装飾品】先制攻撃を行える確率を上げる装飾品。"
+        }
     },
     {
         "id": 95,
         "atypeId": 1,
-        "description": "【装飾品】不意打ち攻撃を受けなくなる装飾品。",
+        "description": "[Accessory] An accessory that prevents surprise attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2661,7 +2977,7 @@
             }
         ],
         "iconIndex": 205,
-        "name": "ワーニングベル",
+        "name": "Warning Bell",
         "note": "",
         "params": [
             0,
@@ -2673,12 +2989,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ワーニングベル",
+            "description": "【装飾品】不意打ち攻撃を受けなくなる装飾品。"
+        }
     },
     {
         "id": 96,
         "atypeId": 1,
-        "description": "【装飾品】ＴＰを次の戦闘に持ち越す装飾品。",
+        "description": "[Accessory] An accessory that carries TP over into the next battle.",
         "etypeId": 5,
         "traits": [
             {
@@ -2693,7 +3013,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ＴＰストッカー",
+        "name": "TP Stocker",
         "note": "",
         "params": [
             0,
@@ -2705,12 +3025,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ＴＰストッカー",
+            "description": "【装飾品】ＴＰを次の戦闘に持ち越す装飾品。"
+        }
     },
     {
         "id": 97,
         "atypeId": 1,
-        "description": "【装飾品】ＴＰのチャージ率が上がる指輪。",
+        "description": "[Accessory] A ring that raises the TP charge rate.",
         "etypeId": 5,
         "traits": [
             {
@@ -2725,7 +3049,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "ガッツリング",
+        "name": "Guts Ring",
         "note": "",
         "params": [
             0,
@@ -2737,12 +3061,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ガッツリング",
+            "description": "【装飾品】ＴＰのチャージ率が上がる指輪。"
+        }
     },
     {
         "id": 98,
         "atypeId": 1,
-        "description": "【装飾品】ＭＰの消費率を下げる腕輪。",
+        "description": "[Accessory] A bracelet that lowers MP consumption.",
         "etypeId": 5,
         "traits": [
             {
@@ -2757,7 +3085,7 @@
             }
         ],
         "iconIndex": 144,
-        "name": "ＭＰキーパー",
+        "name": "MP Keeper",
         "note": "",
         "params": [
             0,
@@ -2769,12 +3097,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "ＭＰキーパー",
+            "description": "【装飾品】ＭＰの消費率を下げる腕輪。"
+        }
     },
     {
         "id": 99,
         "atypeId": 1,
-        "description": "【装飾品】四大精霊の加護のもと\n火、水、風、土属性攻撃で受けるダメージを半減する。",
+        "description": "[Accessory] Under the blessing of the four great spirits, it halves damage taken from Fire, Water,\nWind, and Earth attacks.",
         "etypeId": 5,
         "traits": [
             {
@@ -2804,7 +3136,7 @@
             }
         ],
         "iconIndex": 145,
-        "name": "エレメンタルガード",
+        "name": "Elemental Guard",
         "note": "",
         "params": [
             0,
@@ -2816,12 +3148,16 @@
             0,
             0
         ],
-        "price": 1000
+        "price": 1000,
+        "_original": {
+            "name": "エレメンタルガード",
+            "description": "【装飾品】四大精霊の加護のもと\n火、水、風、土属性攻撃で受けるダメージを半減する。"
+        }
     },
     {
         "id": 100,
         "atypeId": 1,
-        "description": "【装飾品】命中率を上げる装飾品。",
+        "description": "[Accessory] An accessory that raises Accuracy.",
         "etypeId": 5,
         "traits": [
             {
@@ -2836,7 +3172,7 @@
             }
         ],
         "iconIndex": 151,
-        "name": "スペクタクル",
+        "name": "Spectacle",
         "note": "",
         "params": [
             0,
@@ -2848,6 +3184,10 @@
             0,
             0
         ],
-        "price": 500
+        "price": 500,
+        "_original": {
+            "name": "スペクタクル",
+            "description": "【装飾品】命中率を上げる装飾品。"
+        }
     }
 ]

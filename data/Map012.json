@@ -1410,13 +1410,17 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "プロローグを見る",
-                                    "スキップする"
+                                    "Watch the Prologue",
+                                    "Skip"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "プロローグを見る",
+                                "スキップする"
                             ]
                         },
                         {
@@ -1458,168 +1462,120 @@
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "『王都』。"
+                                "\"The Royal Capital.\" A vast metropolis seated at the heart"
+                            ],
+                            "_original": "『王都』。\n自然豊かな大陸の中心に鎮座する、巨大な都。\n安定した国内の治安とは対象的に、\n行商の要である街道では山賊や魔物たちが\n通行人を襲撃する事件が多発。\nその件数は年々増加し、民間の討伐隊や戦士ギルドでは\n対処が追いつかない状況が続いていた。\n国民の生活を脅かす悪に立ち向かうため、\n国王は直属の部隊「王宮騎士」を設立。\n戦闘や魔法の熟練者はもちろんのこと、\n薬学や考古学のエキスパートも参入し、\n抜本的な魔物対策に駆り出された。\n「王宮騎士ロレンチアに告ぐ。\n　東方のセセラギ村を襲う毒蛇魔人を討伐せよ！\n　これは王命である！」\n「御意に…」\nこの物語の主人公、女騎士のロレンチアも\nそんな名誉ある王宮騎士の一人である。"
+                        },
+                        {
+                            "code": 405,
+                            "indent": 1,
+                            "parameters": [
+                                "of a continent blessed with nature. In stark contrast to the"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "自然豊かな大陸の中心に鎮座する、巨大な都。"
+                                "stable peace within its borders, the highways that served as"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "lifelines for traveling merchants were plagued by frequent"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "安定した国内の治安とは対象的に、"
+                                "bandit and monster attacks on passersby. The number of"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "行商の要である街道では山賊や魔物たちが"
+                                "incidents grew year by year, and civilian subjugation squads"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "通行人を襲撃する事件が多発。"
+                                "and the Warriors' Guild could no longer keep up. To stand"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "against the evil threatening the people's lives, the King"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "その件数は年々増加し、民間の討伐隊や戦士ギルドでは"
+                                "established a unit under his direct command: the \"Royal"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "対処が追いつかない状況が続いていた。"
+                                "Knights.\" Skilled veterans of combat and magic were joined"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "by experts in pharmacology and archaeology, all pressed into"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "国民の生活を脅かす悪に立ち向かうため、"
+                                "service to devise sweeping countermeasures against monsters."
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "国王は直属の部隊「王宮騎士」を設立。"
+                                "\"Royal Knight Lorentia, heed this command. Slay the Viper"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                ""
+                                "Demon that assails Seseragi Village to the east! This is a"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "戦闘や魔法の熟練者はもちろんのこと、"
+                                "royal decree!\" \"As you command...\" The protagonist of this"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "薬学や考古学のエキスパートも参入し、"
+                                "tale, the lady knight Lorentia, is herself one of those"
                             ]
                         },
                         {
                             "code": 405,
                             "indent": 1,
                             "parameters": [
-                                "抜本的な魔物対策に駆り出された。"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "「王宮騎士ロレンチアに告ぐ。"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "　東方のセセラギ村を襲う毒蛇魔人を討伐せよ！"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "　これは王命である！」"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "「御意に…」"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "この物語の主人公、女騎士のロレンチアも"
-                            ]
-                        },
-                        {
-                            "code": 405,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな名誉ある王宮騎士の一人である。"
+                                "honored Royal Knights."
                             ]
                         },
                         {
@@ -1699,15 +1655,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "王宮騎士ロレンチアは毒蛇魔人討伐任務のため、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "王都からはるか東の地に遠征へ向かうことに。"
-                            ]
+                                "To carry out her mission to slay the Viper Demon, Royal\nKnight Lorentia set out on an expedition to a land far to\nthe east of the Royal Capital."
+                            ],
+                            "_original": "王宮騎士ロレンチアは毒蛇魔人討伐任務のため、\n王都からはるか東の地に遠征へ向かうことに。"
                         },
                         {
                             "code": 101,
@@ -1724,22 +1674,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "半月後、魔人の討伐は無事完遂されたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その際使用した毒耐性ポーションの副作用より、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "半年間\\C[17]避妊薬が効かない体\\C[0]になってしまった。"
-                            ]
+                                "Half a month later, the demon had been slain without\nincident―but as a side effect of the Poison Resistance\nPotion she used in the process, she was left with \\C[17]a body on\nwhich contraceptives no longer worked\\C[0] for the next six\nmonths."
+                            ],
+                            "_original": "半月後、魔人の討伐は無事完遂されたが、\nその際使用した毒耐性ポーションの副作用より、\n半年間\\C[17]避妊薬が効かない体\\C[0]になってしまった。"
                         },
                         {
                             "code": 122,

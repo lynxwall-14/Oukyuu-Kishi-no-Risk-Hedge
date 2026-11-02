@@ -11,12 +11,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "回復アイテムより上位に表示したいアイテム用の枠です。",
+        "description": "A slot for items you want displayed above recovery items.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----予備",
+        "name": "-----Spare",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -24,7 +24,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "-----予備",
+            "description": "回復アイテムより上位に表示したいアイテム用の枠です。"
+        }
     },
     {
         "id": 2,
@@ -146,7 +150,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----回復系",
+        "name": "-----Recovery",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -154,7 +158,10 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "-----回復系"
+        }
     },
     {
         "id": 7,
@@ -167,7 +174,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを５００ポイント回復する。",
+        "description": "Recovers 500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -179,7 +186,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ポーション",
+        "name": "Potion",
         "note": "",
         "occasion": 0,
         "price": 100,
@@ -187,7 +194,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ポーション",
+            "description": "ＨＰを５００ポイント回復する。"
+        }
     },
     {
         "id": 8,
@@ -200,7 +211,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを１５００ポイント回復する。",
+        "description": "Recovers 1500 HP.",
         "effects": [
             {
                 "code": 11,
@@ -212,7 +223,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ハイポーション",
+        "name": "Hi-Potion",
         "note": "",
         "occasion": 0,
         "price": 250,
@@ -220,7 +231,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ハイポーション",
+            "description": "ＨＰを１５００ポイント回復する。"
+        }
     },
     {
         "id": 9,
@@ -233,7 +248,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰを完全に回復する。",
+        "description": "Fully recovers HP.",
         "effects": [
             {
                 "code": 11,
@@ -245,7 +260,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "フルポーション",
+        "name": "Full Potion",
         "note": "",
         "occasion": 0,
         "price": 550,
@@ -253,7 +268,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "フルポーション",
+            "description": "ＨＰを完全に回復する。"
+        }
     },
     {
         "id": 10,
@@ -266,7 +285,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＭＰを３００ポイント回復する。",
+        "description": "Recovers 300 MP.",
         "effects": [
             {
                 "code": 12,
@@ -278,7 +297,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "マジックウォーター",
+        "name": "Magic Water",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -286,7 +305,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "マジックウォーター",
+            "description": "ＭＰを３００ポイント回復する。"
+        }
     },
     {
         "id": 11,
@@ -299,7 +322,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "戦闘不能から復活させる。（ＨＰ半分回復）",
+        "description": "Revives from incapacitation. (Recovers half HP)",
         "effects": [
             {
                 "code": 22,
@@ -311,7 +334,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "スティミュラント",
+        "name": "Stimulant",
         "note": "",
         "occasion": 0,
         "price": 500,
@@ -319,7 +342,11 @@
         "scope": 9,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "スティミュラント",
+            "description": "戦闘不能から復活させる。（ＨＰ半分回復）"
+        }
     },
     {
         "id": 12,
@@ -332,7 +359,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "戦闘不能以外の状態異常を回復する。",
+        "description": "Cures all status ailments except incapacitation.",
         "effects": [
             {
                 "code": 22,
@@ -392,7 +419,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ディスペルハーブ",
+        "name": "Dispel Herb",
         "note": "",
         "occasion": 0,
         "price": 200,
@@ -400,7 +427,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ディスペルハーブ",
+            "description": "戦闘不能以外の状態異常を回復する。"
+        }
     },
     {
         "id": 13,
@@ -413,7 +444,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "毒、麻痺状態を治療する。",
+        "description": "Cures poison and paralysis.",
         "effects": [
             {
                 "code": 22,
@@ -431,7 +462,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "アンチドーテ",
+        "name": "Antidote",
         "note": "",
         "occasion": 0,
         "price": 80,
@@ -439,7 +470,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "アンチドーテ",
+            "description": "毒、麻痺状態を治療する。"
+        }
     },
     {
         "id": 14,
@@ -452,7 +487,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを半分回復する。",
+        "description": "Recovers half HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -470,7 +505,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ミラクルドロップ",
+        "name": "Miracle Drop",
         "note": "",
         "occasion": 0,
         "price": 450,
@@ -478,7 +513,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ミラクルドロップ",
+            "description": "ＨＰとＭＰを半分回復する。"
+        }
     },
     {
         "id": 15,
@@ -491,7 +530,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "ＨＰとＭＰを完全に回復する。",
+        "description": "Fully recovers HP and MP.",
         "effects": [
             {
                 "code": 11,
@@ -509,7 +548,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エリクサー",
+        "name": "Elixir",
         "note": "",
         "occasion": 0,
         "price": 1200,
@@ -517,7 +556,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "エリクサー",
+            "description": "ＨＰとＭＰを完全に回復する。"
+        }
     },
     {
         "id": 16,
@@ -561,7 +604,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----特殊系",
+        "name": "-----Special",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -569,7 +612,10 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "-----特殊系"
+        }
     },
     {
         "id": 18,
@@ -582,7 +628,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間、敵との遭遇率を半減させる。",
+        "description": "Halves the enemy encounter rate for a while.",
         "effects": [
             {
                 "code": 21,
@@ -594,7 +640,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "エンカウントダウナー",
+        "name": "Encounter Downer",
         "note": "",
         "occasion": 2,
         "price": 100,
@@ -602,7 +648,11 @@
         "scope": 11,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "エンカウントダウナー",
+            "description": "しばらくの間、敵との遭遇率を半減させる。"
+        }
     },
     {
         "id": 19,
@@ -615,7 +665,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "しばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。",
+        "description": "Raises the acquisition rate of items and prize money from battles for a while.",
         "effects": [
             {
                 "code": 21,
@@ -627,7 +677,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "ドロップアッパー",
+        "name": "Drop Upper",
         "note": "",
         "occasion": 0,
         "price": 300,
@@ -635,7 +685,11 @@
         "scope": 11,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ドロップアッパー",
+            "description": "しばらくの間\n戦闘で得られるアイテムや賞金の獲得率を上げる。"
+        }
     },
     {
         "id": 20,
@@ -705,7 +759,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "-----強化系",
+        "name": "-----Boosts",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -713,7 +767,10 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "-----強化系"
+        }
     },
     {
         "id": 23,
@@ -726,7 +783,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＨＰを５０ポイント上げる。",
+        "description": "Raises Max HP by 50 points.",
         "effects": [
             {
                 "code": 42,
@@ -738,7 +795,7 @@
         "hitType": 0,
         "iconIndex": 32,
         "itypeId": 1,
-        "name": "ライフアップ",
+        "name": "Life Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -746,7 +803,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ライフアップ",
+            "description": "最大ＨＰを５０ポイント上げる。"
+        }
     },
     {
         "id": 24,
@@ -759,7 +820,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "最大ＭＰを１０ポイント上げる。",
+        "description": "Raises Max MP by 10 points.",
         "effects": [
             {
                 "code": 42,
@@ -771,7 +832,7 @@
         "hitType": 0,
         "iconIndex": 33,
         "itypeId": 1,
-        "name": "マナアップ",
+        "name": "Mana Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -779,7 +840,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "マナアップ",
+            "description": "最大ＭＰを１０ポイント上げる。"
+        }
     },
     {
         "id": 25,
@@ -792,7 +857,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "攻撃力を３ポイント上げる。",
+        "description": "Raises Attack by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -804,7 +869,7 @@
         "hitType": 0,
         "iconIndex": 34,
         "itypeId": 1,
-        "name": "パワーアップ",
+        "name": "Power Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -812,7 +877,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "パワーアップ",
+            "description": "攻撃力を３ポイント上げる。"
+        }
     },
     {
         "id": 26,
@@ -825,7 +894,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "防御力を３ポイント上げる。",
+        "description": "Raises Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -837,7 +906,7 @@
         "hitType": 0,
         "iconIndex": 35,
         "itypeId": 1,
-        "name": "ガードアップ",
+        "name": "Guard Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -845,7 +914,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ガードアップ",
+            "description": "防御力を３ポイント上げる。"
+        }
     },
     {
         "id": 27,
@@ -858,7 +931,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法力を３ポイント上げる。",
+        "description": "Raises M. Power by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -870,7 +943,7 @@
         "hitType": 0,
         "iconIndex": 36,
         "itypeId": 1,
-        "name": "マジックアップ",
+        "name": "Magic Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -878,7 +951,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "マジックアップ",
+            "description": "魔法力を３ポイント上げる。"
+        }
     },
     {
         "id": 28,
@@ -891,7 +968,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "魔法防御力を３ポイント上げる。",
+        "description": "Raises M. Defense by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -903,7 +980,7 @@
         "hitType": 0,
         "iconIndex": 37,
         "itypeId": 1,
-        "name": "レジストアップ",
+        "name": "Resist Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -911,7 +988,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "レジストアップ",
+            "description": "魔法防御力を３ポイント上げる。"
+        }
     },
     {
         "id": 29,
@@ -924,7 +1005,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "敏捷性を３ポイント上げる。",
+        "description": "Raises Agility by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -936,7 +1017,7 @@
         "hitType": 0,
         "iconIndex": 38,
         "itypeId": 1,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -944,7 +1025,11 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "スピードアップ",
+            "description": "敏捷性を３ポイント上げる。"
+        }
     },
     {
         "id": 30,
@@ -957,7 +1042,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "運を３ポイント上げる。",
+        "description": "Raises Luck by 3 points.",
         "effects": [
             {
                 "code": 42,
@@ -969,7 +1054,7 @@
         "hitType": 0,
         "iconIndex": 39,
         "itypeId": 1,
-        "name": "ラックアップ",
+        "name": "Luck Up",
         "note": "",
         "occasion": 2,
         "price": 3000,
@@ -977,6 +1062,10 @@
         "scope": 7,
         "speed": 0,
         "successRate": 100,
-        "tpGain": 0
+        "tpGain": 0,
+        "_original": {
+            "name": "ラックアップ",
+            "description": "運を３ポイント上げる。"
+        }
     }
 ]

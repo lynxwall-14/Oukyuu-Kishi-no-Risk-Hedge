@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "脱衣所",
+    "displayName": "Changing Room",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1593,8 +1593,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を着たままでは銭湯に立ち入ることができない。"
-                            ]
+                                "You cannot enter the bathhouse with your clothes on."
+                            ],
+                            "_original": "服を着たままでは銭湯に立ち入ることができない。"
                         },
                         {
                             "code": 205,
@@ -1755,8 +1756,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を着たままでは銭湯に立ち入ることができない。"
-                            ]
+                                "You cannot enter the bathhouse with your clothes on."
+                            ],
+                            "_original": "服を着たままでは銭湯に立ち入ることができない。"
                         },
                         {
                             "code": 205,
@@ -1883,21 +1885,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を脱ぎますか？"
-                            ]
+                                "Take off your clothes?"
+                            ],
+                            "_original": "服を脱ぎますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2104,21 +2111,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を着ますか？"
-                            ]
+                                "Put your clothes on?"
+                            ],
+                            "_original": "服を着ますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2289,21 +2301,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を脱ぎますか？"
-                            ]
+                                "Take off your clothes?"
+                            ],
+                            "_original": "服を脱ぎますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2423,21 +2440,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を着ますか？"
-                            ]
+                                "Put your clothes on?"
+                            ],
+                            "_original": "服を着ますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2608,21 +2630,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を脱ぎますか？"
-                            ]
+                                "Take off your clothes?"
+                            ],
+                            "_original": "服を脱ぎますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2742,21 +2769,26 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "服を着ますか？"
-                            ]
+                                "Put your clothes on?"
+                            ],
+                            "_original": "服を着ますか？"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "はい",
+                                "いいえ"
                             ]
                         },
                         {
@@ -2971,15 +3003,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いい湯じゃったー。"
-                            ]
+                                "Ahh, that was one fine bath."
+                            ],
+                            "_original": "いい湯じゃったー。"
                         },
                         {
                             "code": 0,
@@ -3040,29 +3074,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今この村にはすけべな男しかおらん、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのご立派なお乳は隠して入るんじゃぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？…ここのタオル、お前さんには小さすぎるようじゃ。"
-                            ]
+                                "This village is full of horny men right now, so you'd best\ncover up those fine tits of yours when you go in. Hm?\n...Looks like the towels here are too small for you, missy."
+                            ],
+                            "_original": "今この村にはすけべな男しかおらん、\nそのご立派なお乳は隠して入るんじゃぞ。\nん？…ここのタオル、お前さんには小さすぎるようじゃ。"
                         },
                         {
                             "code": 0,
@@ -3353,15 +3375,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "脱衣所は…よかった、そこまで人はいないようですね。"
-                            ]
+                                "The changing room... good, it doesn't seem too crowded."
+                            ],
+                            "_original": "脱衣所は…よかった、そこまで人はいないようですね。"
                         },
                         {
                             "code": 122,
@@ -3566,15 +3590,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや？"
-                            ]
+                                "Oh?"
+                            ],
+                            "_original": "おや？"
                         },
                         {
                             "code": 101,
@@ -3584,15 +3610,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ…"
-                            ]
+                                "Phew..."
+                            ],
+                            "_original": "ふぅ…"
                         },
                         {
                             "code": 205,
@@ -3684,15 +3712,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろ、ロレンチアさん！？"
-                            ]
+                                "L-Lorentia-san!?"
+                            ],
+                            "_original": "ろ、ロレンチアさん！？"
                         },
                         {
                             "code": 357,
@@ -3761,15 +3791,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんにちは、村長さんは今お上がりに？"
-                            ]
+                                "Hello. Are you just finishing your bath, Chief?"
+                            ],
+                            "_original": "こんにちは、村長さんは今お上がりに？"
                         },
                         {
                             "code": 101,
@@ -3779,29 +3811,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家にもお風呂はあるんですけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの大浴場はやはり格別ですので。"
-                            ]
+                                "Y-yes...! I do have a bath at home, but the main bath here\nreally is something special."
+                            ],
+                            "_original": "は、はい…！\n家にもお風呂はあるんですけど、\nここの大浴場はやはり格別ですので。"
                         },
                         {
                             "code": 101,
@@ -3818,15 +3838,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーい！村長さん待ってくれよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ話したいことが山程あるんだ！"
-                            ]
+                                "Hey! Wait for me, Chief! There's still a mountain of things\nI want to talk about!"
+                            ],
+                            "_original": "おーい！村長さん待ってくれよ！\nまだ話したいことが山程あるんだ！"
                         },
                         {
                             "code": 101,
@@ -3836,15 +3850,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろ、ロレンチアさんお話はまた今度！"
-                            ]
+                                "L-Lorentia-san, let's talk another time!"
+                            ],
+                            "_original": "ろ、ロレンチアさんお話はまた今度！"
                         },
                         {
                             "code": 357,
@@ -3913,22 +3929,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何者かに追われているのですか？"
-                            ]
+                                "? Is someone chasing you?"
+                            ],
+                            "_original": "？\n何者かに追われているのですか？"
                         },
                         {
                             "code": 101,
@@ -3938,29 +3949,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、普通の農家さんと村の今後について話をしていた"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だけなんですけど…お風呂のときくらい仕事の話は忘れたくて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げてきちゃいました…"
-                            ]
+                                "No, I was just talking with an ordinary farmer about the\nfuture of the village... but I wanted to forget about work\nat least while I'm in the bath, so I ran away..."
+                            ],
+                            "_original": "いえ、普通の農家さんと村の今後について話をしていた\nだけなんですけど…お風呂のときくらい仕事の話は忘れたくて、\n逃げてきちゃいました…"
                         },
                         {
                             "code": 101,
@@ -3977,15 +3976,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、脱衣所にいるのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれ、冷えた牛乳でも飲みながら語り合おうじゃないか！"
-                            ]
+                                "Ah, so you're in the changing room? Come on, let's have a\nnice long chat over some cold milk!"
+                            ],
+                            "_original": "ああ、脱衣所にいるのか？\nどれ、冷えた牛乳でも飲みながら語り合おうじゃないか！"
                         },
                         {
                             "code": 101,
@@ -3995,15 +3988,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わ！？もう来ちゃった！？"
-                            ]
+                                "Wah!? He's here already!?"
+                            ],
+                            "_original": "わ！？もう来ちゃった！？"
                         },
                         {
                             "code": 235,
@@ -4079,28 +4074,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(かなり困っていらっしゃる様子…どうすれば…)"
-                            ]
+                                "(He seems quite troubled... what should I do...)"
+                            ],
+                            "_original": "(かなり困っていらっしゃる様子…どうすれば…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "それも仕事の内だと諦めさせる",
-                                    "一緒に逃げる"
+                                    "Convince him it's part of the job",
+                                    "Escape with him"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "それも仕事の内だと諦めさせる",
+                                "一緒に逃げる"
                             ]
                         },
                         {
@@ -4178,29 +4179,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "がんばってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "村の皆さんの信頼を得るため、立派な村長さんになるため…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今は大変でも、すべてアナタの成長に繋がりますよ。"
-                            ]
+                                "Please do your best. To earn the trust of everyone in the\nvillage, to become a fine chief... Even if it's difficult\nnow, all of it will help you grow."
+                            ],
+                            "_original": "がんばってください。\n村の皆さんの信頼を得るため、立派な村長さんになるため…\n今は大変でも、すべてアナタの成長に繋がりますよ。"
                         },
                         {
                             "code": 101,
@@ -4210,15 +4199,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そう…ですよね、先代や先々代が悲しまないようにしないと！"
-                            ]
+                                "That's... right. I have to do this so my two predecessors\nwon't grieve!"
+                            ],
+                            "_original": "そう…ですよね、先代や先々代が悲しまないようにしないと！"
                         },
                         {
                             "code": 101,
@@ -4235,15 +4226,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "村長は着替え終わると、先程の農夫を連れて宿屋のバーへ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向かった。仕事熱心な彼らによって、村は再興されていくだろう。"
-                            ]
+                                "Once the Chief finished changing, he took the farmer from\nearlier along to the inn's bar. Thanks to those two\nhardworking men, the village will surely be rebuilt."
+                            ],
+                            "_original": "村長は着替え終わると、先程の農夫を連れて宿屋のバーへ\n向かった。仕事熱心な彼らによって、村は再興されていくだろう。"
                         },
                         {
                             "code": 221,
@@ -4353,22 +4338,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時には逃げることも大切です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何事にも臨機応変に対応しなければ。"
-                            ]
+                                "Sometimes running away is important, too. You must adapt to\nwhatever happens."
+                            ],
+                            "_original": "時には逃げることも大切です。\n何事にも臨機応変に対応しなければ。"
                         },
                         {
                             "code": 117,
@@ -4442,15 +4422,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Having completed her mission, Lorentia\nreturned to the Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -4525,15 +4499,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -4550,8 +4518,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング3 ロッカーで…"
-                            ]
+                                "Ending 3: In the Locker..."
+                            ],
+                            "_original": "エンディング3 ロッカーで…"
                         },
                         {
                             "code": 101,
@@ -4568,8 +4537,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,
@@ -4816,15 +4786,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "混浴っていっても、おっさんばかりだしな…"
-                            ]
+                                "They call it mixed bathing, but it's nothing but old guys in\nhere..."
+                            ],
+                            "_original": "混浴っていっても、おっさんばかりだしな…"
                         },
                         {
                             "code": 0,
@@ -4885,15 +4857,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…混浴最高！！"
-                            ]
+                                "...Mixed baths are the best!!"
+                            ],
+                            "_original": "…混浴最高！！"
                         },
                         {
                             "code": 0,
@@ -5063,15 +5037,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Having completed her mission, Lorentia\nreturned to the Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -5146,15 +5114,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "'Who on earth knocked up a lady knight that brilliant?' Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -5171,8 +5133,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング4 不審者に…"
-                            ]
+                                "Ending 4: By the Suspicious Person..."
+                            ],
+                            "_original": "エンディング4 不審者に…"
                         },
                         {
                             "code": 101,
@@ -5189,8 +5152,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,

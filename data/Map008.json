@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "銭湯",
+    "displayName": "Bathhouse",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1406,22 +1406,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サウナルームは整備中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "The Sauna Room is under maintenance. ―Bath Attendant"
+                            ],
+                            "_original": "サウナルームは整備中です。\n番台"
                         },
                         {
                             "code": 205,
@@ -1590,22 +1577,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "彼の精液を洗い落とさねば…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "変な誤解を生んでしまっては困ります。"
-                            ]
+                                "I must wash off his semen... It would be troublesome to\ncause any strange misunderstandings."
+                            ],
+                            "_original": "彼の精液を洗い落とさねば…\n変な誤解を生んでしまっては困ります。"
                         },
                         {
                             "code": 205,
@@ -1747,15 +1729,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先にシャワーを浴びましょう、マナーです。"
-                            ]
+                                "I'll shower first. ...It's proper etiquette."
+                            ],
+                            "_original": "先にシャワーを浴びましょう、マナーです。"
                         },
                         {
                             "code": 205,
@@ -1997,15 +1981,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(精液を付着させたまま服を着るのは、流石に…)"
-                            ]
+                                "(Putting my clothes back on with semen still clinging to me\nwould be a bit much, even for me...)"
+                            ],
+                            "_original": "(精液を付着させたまま服を着るのは、流石に…)"
                         },
                         {
                             "code": 205,
@@ -2115,35 +2101,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(皆さん驚いてらっしゃいますし、早々に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " 引き返すべきでしょうか？)"
-                            ]
+                                "(Everyone does seem startled. Perhaps I should turn back\nsoon?)"
+                            ],
+                            "_original": "(皆さん驚いてらっしゃいますし、早々に\n 引き返すべきでしょうか？)"
                         },
                         {
                             "code": 102,
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "脱衣所に戻る",
-                                    "入浴を続ける"
+                                    "Return to the Changing Room",
+                                    "Continue bathing"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "脱衣所に戻る",
+                                "入浴を続ける"
                             ]
                         },
                         {
@@ -2246,15 +2231,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "(あからさまに男性を意識するのも、失礼ですよね…)"
-                            ]
+                                "(Then again, openly minding the men would be rude of me...)"
+                            ],
+                            "_original": "(あからさまに男性を意識するのも、失礼ですよね…)"
                         },
                         {
                             "code": 205,
@@ -2513,22 +2500,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日は清掃員さんの件で落ち着いて過ごせませんでしたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改めて見ると、本当に立派な施設ですね。"
-                            ]
+                                "I couldn't quite settle in yesterday because of that\nbusiness with the cleaner... but looking at it again, this\ntruly is a splendid facility."
+                            ],
+                            "_original": "昨日は清掃員さんの件で落ち着いて過ごせませんでしたが…\n改めて見ると、本当に立派な施設ですね。"
                         },
                         {
                             "code": 101,
@@ -2545,22 +2527,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "大浴場には巨大な湯船はもちろんのこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "温水シャワーやサウナルームなど近代的なものまで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "備え付けられていた。"
-                            ]
+                                "The main bath housed not only an enormous tub, but even such\nmodern amenities as hot-water showers and a Sauna Room."
+                            ],
+                            "_original": "大浴場には巨大な湯船はもちろんのこと、\n温水シャワーやサウナルームなど近代的なものまで\n備え付けられていた。"
                         },
                         {
                             "code": 357,
@@ -2629,29 +2598,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまで入浴に特化した設備はまだ王都にすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "存在しないはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴重な貸し切り体験、最後まで楽しませてもらいましょう。"
-                            ]
+                                "Facilities this dedicated to bathing shouldn't exist even in\nthe Royal Capital yet. A rare private booking―let me enjoy\nit to the very end."
+                            ],
+                            "_original": "ここまで入浴に特化した設備はまだ王都にすら\n存在しないはずです。\n貴重な貸し切り体験、最後まで楽しませてもらいましょう。"
                         },
                         {
                             "code": 235,
@@ -2699,8 +2656,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアはのびのびと長風呂を楽しんだ。"
-                            ]
+                                "Lorentia enjoyed a long, leisurely soak."
+                            ],
+                            "_original": "ロレンチアはのびのびと長風呂を楽しんだ。"
                         },
                         {
                             "code": 250,
@@ -2740,8 +2698,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -2765,15 +2724,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "塀の向こう―"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村の大通り方面から、叫び声が聞こえた。"
-                            ]
+                                "From beyond the fence―from the direction of the village's\nmain street―came screams."
+                            ],
+                            "_original": "塀の向こう―\n村の大通り方面から、叫び声が聞こえた。"
                         },
                         {
                             "code": 250,
@@ -2802,29 +2755,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「どけどけ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「うわぁあ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「逃げろぉ！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ガハハハハ！」"
-                            ]
+                                "\"Outta the way!\" \"Uwaaah!\" \"Run for it!\" \"Gyahahaha!\""
+                            ],
+                            "_original": "「どけどけ！」\n「うわぁあ！」\n「逃げろぉ！」\n「ガハハハハ！」"
                         },
                         {
                             "code": 357,
@@ -2893,15 +2826,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何の騒ぎでしょう？"
-                            ]
+                                "What's all this commotion?"
+                            ],
+                            "_original": "何の騒ぎでしょう？"
                         },
                         {
                             "code": 250,
@@ -2923,22 +2858,17 @@
                                 0,
                                 0,
                                 2,
-                                "村民"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村民"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「助けてくれ！！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「山賊が来たぞぉ！！」"
-                            ]
+                                "\"Help!!\" \"Bandits! The bandits are here!!\""
+                            ],
+                            "_original": "「助けてくれ！！」\n「山賊が来たぞぉ！！」"
                         },
                         {
                             "code": 101,
@@ -2948,8 +2878,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -3134,29 +3065,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒蛇魔人の抜けた穴を山賊たちが埋めたというわけですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪党なりにパワーバランスがあるのですね。"
-                            ]
+                                "...I see. So the bandits have filled the void left by the\nViper Demon. It seems even villains have a power balance of\ntheir own."
+                            ],
+                            "_original": "…なるほど。\n毒蛇魔人の抜けた穴を山賊たちが埋めたというわけですか。\n悪党なりにパワーバランスがあるのですね。"
                         },
                         {
                             "code": 357,
@@ -3225,15 +3144,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともかく、一刻を争う事態です。撃退しなければ！"
-                            ]
+                                "In any case, this situation is urgent. I must drive them\noff!"
+                            ],
+                            "_original": "ともかく、一刻を争う事態です。撃退しなければ！"
                         },
                         {
                             "code": 235,
@@ -3489,28 +3410,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(塀を飛び越えれば、最短で救援に迎えます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " …当然、村中に裸体を晒す羽目になりますが。)"
-                            ]
+                                "(If I climb over the wall, I can head to the rescue as\nquickly as possible. …Though it will, of course, mean\nexposing my naked body to the entire village.)"
+                            ],
+                            "_original": "(塀を飛び越えれば、最短で救援に迎えます。\n …当然、村中に裸体を晒す羽目になりますが。)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "塀を飛び越える",
-                                    "考え直す"
+                                    "Jump over the wall",
+                                    "Think it over again"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "塀を飛び越える",
+                                "考え直す"
                             ]
                         },
                         {
@@ -3909,28 +3828,26 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(着替えてから向かうべきでしょうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 人質を取られてしまってからでは遅いですが…)"
-                            ]
+                                "(Should I change before I head out? It would be too late\nonce they've taken hostages, but...)"
+                            ],
+                            "_original": "(着替えてから向かうべきでしょうか？\n 人質を取られてしまってからでは遅いですが…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "着替えてから向かう",
-                                    "考え直す"
+                                    "Change clothes before heading out",
+                                    "Rethink this"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "着替えてから向かう",
+                                "考え直す"
                             ]
                         },
                         {
@@ -4219,8 +4136,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラガラ…"
-                            ]
+                                "Rattle, rattle..."
+                            ],
+                            "_original": "ガラガラ…"
                         },
                         {
                             "code": 101,
@@ -4237,8 +4155,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは意を決して、大浴場へと足を踏み入れた。"
-                            ]
+                                "Steeling her resolve, Lorentia stepped into the main bath."
+                            ],
+                            "_original": "ロレンチアは意を決して、大浴場へと足を踏み入れた。"
                         },
                         {
                             "code": 111,
@@ -4404,15 +4323,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…失礼します。"
-                            ]
+                                "...Pardon me."
+                            ],
+                            "_original": "…失礼します。"
                         },
                         {
                             "code": 101,
@@ -4422,29 +4343,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客たち"
-                            ]
+                                "Patrons"
+                            ],
+                            "_original": "利用客たち"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ろ、ロレンチア様…！？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「もしかしたら会えるかもって妄想してたけど…本当に…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「ゆ、ゆっくりくつろいでいってくだせぇ。」"
-                            ]
+                                "\"L-Lady Lorentia...!?\" \"I was fantasizing that I might get\nto see her, but... she's really...!\" \"P-please, make\nyourself at home.\""
+                            ],
+                            "_original": "「ろ、ロレンチア様…！？」\n「もしかしたら会えるかもって妄想してたけど…本当に…！」\n「ゆ、ゆっくりくつろいでいってくだせぇ。」"
                         },
                         {
                             "code": 357,
@@ -4513,15 +4422,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、どうか皆さんお構いなく。"
-                            ]
+                                "Yes. Please, everyone, don't mind me."
+                            ],
+                            "_original": "はい、どうか皆さんお構いなく。"
                         },
                         {
                             "code": 101,
@@ -4538,22 +4449,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアが所持しているのは、小さく頼りないタオルが一枚。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんとか女性器は隠せているが、その代償として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "2つの巨大な乳房が剥き出しで晒されていた。"
-                            ]
+                                "All Lorentia had on her was a single small, unreliable\ntowel. It just barely covered her genitals, but in exchange\nher two enormous breasts were laid completely bare."
+                            ],
+                            "_original": "ロレンチアが所持しているのは、小さく頼りないタオルが一枚。\nなんとか女性器は隠せているが、その代償として\n2つの巨大な乳房が剥き出しで晒されていた。"
                         },
                         {
                             "code": 101,
@@ -4570,15 +4468,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目の前の絶景を数秒視界に入れただけで、男たちの股間に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "稲妻が走る。"
-                            ]
+                                "A mere few seconds of the spectacle before them sent a bolt\nof lightning through every man's crotch."
+                            ],
+                            "_original": "目の前の絶景を数秒視界に入れただけで、男たちの股間に\n稲妻が走る。"
                         },
                         {
                             "code": 101,
@@ -4588,29 +4480,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客たち"
-                            ]
+                                "Patrons"
+                            ],
+                            "_original": "利用客たち"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「(ま、まずいって！もうバキバキになっちまってる…！)」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「(うーむ…ムスコが久々に…)」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「(あんな体見せられたらな…みんな同じか…)」"
-                            ]
+                                "\"(Oh, this is bad! I'm already rock hard...!)\" \"(Hm... it's\nbeen a while since little me has...)\" \"(Well, show anyone a\nbody like that... we're all the same...)\""
+                            ],
+                            "_original": "「(ま、まずいって！もうバキバキになっちまってる…！)」\n「(うーむ…ムスコが久々に…)」\n「(あんな体見せられたらな…みんな同じか…)」"
                         },
                         {
                             "code": 101,
@@ -4627,15 +4507,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアに向かって敬礼するように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男たちの象徴が一斉にそそり立った。"
-                            ]
+                                "As if saluting Lorentia, the men's symbols rose to attention\nin unison."
+                            ],
+                            "_original": "ロレンチアに向かって敬礼するように\n男たちの象徴が一斉にそそり立った。"
                         },
                         {
                             "code": 357,
@@ -4704,15 +4578,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(皆さん、私の体で？生理現象ですし、責められませんが…)"
-                            ]
+                                "(Everyone, from my body? It's a physiological response, so I\ncan hardly blame them...)"
+                            ],
+                            "_original": "(皆さん、私の体で？生理現象ですし、責められませんが…)"
                         },
                         {
                             "code": 235,
@@ -4788,15 +4664,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先ずはシャワーを浴びましょう、マナーです。"
-                            ]
+                                "First, I'll take a shower. It's proper etiquette."
+                            ],
+                            "_original": "先ずはシャワーを浴びましょう、マナーです。"
                         },
                         {
                             "code": 201,
@@ -4987,8 +4865,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは体を洗うため、シャワー前の椅子に腰を下ろした。"
-                            ]
+                                "Lorentia sat down on the chair in front of the showers to\nwash herself."
+                            ],
+                            "_original": "ロレンチアは体を洗うため、シャワー前の椅子に腰を下ろした。"
                         },
                         {
                             "code": 111,
@@ -5114,8 +4993,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギシシ…"
-                            ]
+                                "Creeeak..."
+                            ],
+                            "_original": "ギシシ…"
                         },
                         {
                             "code": 101,
@@ -5132,8 +5012,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "木製の椅子は彼女の体重で悲鳴を上げた。"
-                            ]
+                                "The wooden chair groaned under her weight."
+                            ],
+                            "_original": "木製の椅子は彼女の体重で悲鳴を上げた。"
                         },
                         {
                             "code": 101,
@@ -5143,15 +5024,17 @@
                                 0,
                                 0,
                                 2,
-                                "シャワー中の利用客"
-                            ]
+                                "Showering Patron"
+                            ],
+                            "_original": "シャワー中の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(え！？な、何の音…！？)"
-                            ]
+                                "(Huh!? Wh-what was that noise...!?)"
+                            ],
+                            "_original": "(え！？な、何の音…！？)"
                         },
                         {
                             "code": 357,
@@ -5220,15 +5103,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(…随分失礼な椅子ですね。それに―)"
-                            ]
+                                "(...What a rude chair. And besides―)"
+                            ],
+                            "_original": "(…随分失礼な椅子ですね。それに―)"
                         },
                         {
                             "code": 101,
@@ -5245,8 +5130,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "座面からは豪快に尻肉がはみ出てしまっている。"
-                            ]
+                                "Her buttocks spilled generously over the edges of the seat."
+                            ],
+                            "_original": "座面からは豪快に尻肉がはみ出てしまっている。"
                         },
                         {
                             "code": 101,
@@ -5256,15 +5142,17 @@
                                 0,
                                 0,
                                 2,
-                                "後方の利用客　"
-                            ]
+                                "Patron Behind　"
+                            ],
+                            "_original": "後方の利用客　"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(なんという力強い美尻…撫で回したいのう…)"
-                            ]
+                                "(What a magnificent, powerful ass... I want to stroke it all\nover...)"
+                            ],
+                            "_original": "(なんという力強い美尻…撫で回したいのう…)"
                         },
                         {
                             "code": 357,
@@ -5333,22 +5221,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(背後からお尻を見られ続けるのはあまりいい気分では"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " ありません。さっさとシャワーを終わらせましょう。)"
-                            ]
+                                "(Having my rear stared at from behind is not especially\npleasant. Let's finish this shower quickly.)"
+                            ],
+                            "_original": "(背後からお尻を見られ続けるのはあまりいい気分では\n ありません。さっさとシャワーを終わらせましょう。)"
                         },
                         {
                             "code": 111,
@@ -5538,15 +5421,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん…"
-                            ]
+                                "Mmh..."
+                            ],
+                            "_original": "ん…"
                         },
                         {
                             "code": 101,
@@ -5563,22 +5448,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "全身に石鹸泡をまとい、タオルでゴシゴシと洗っていく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "王宮ではサザンナから「雑な洗い方だ」と注意されたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロレンチアの肌は常に白く美しいままだ。"
-                            ]
+                                "She lathered her whole body in soap suds and scrubbed away\nwith a towel. At the palace, Sazanna had scolded her for her\n\"sloppy washing,\" but Lorentia's skin remained white and\nbeautiful as ever."
+                            ],
+                            "_original": "全身に石鹸泡をまとい、タオルでゴシゴシと洗っていく。\n王宮ではサザンナから「雑な洗い方だ」と注意されたが、\nロレンチアの肌は常に白く美しいままだ。"
                         },
                         {
                             "code": 101,
@@ -5595,15 +5467,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分からは見えにくい乳房の裏も念入りに洗う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "重さもあって、持ち上げ続ける作業は重労働だ。"
-                            ]
+                                "She washed carefully even under her breasts, where she could\nbarely see. With their weight, holding them up the whole\ntime was hard work."
+                            ],
+                            "_original": "自分からは見えにくい乳房の裏も念入りに洗う。\n重さもあって、持ち上げ続ける作業は重労働だ。"
                         },
                         {
                             "code": 101,
@@ -5613,15 +5479,17 @@
                                 0,
                                 0,
                                 2,
-                                "シャワー中の利用客"
-                            ]
+                                "Showering Patron"
+                            ],
+                            "_original": "シャワー中の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(うっわ…あんなに脚開いたら…見えてる見えてる！)"
-                            ]
+                                "(Daaamn...spreading her legs that wide... I can see it, I\ncan totally see it!)"
+                            ],
+                            "_original": "(うっわ…あんなに脚開いたら…見えてる見えてる！)"
                         },
                         {
                             "code": 101,
@@ -5638,22 +5506,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洗うのに夢中になっていたロレンチアは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大胆に開かれた股の間の秘所が鏡越しに見られていることに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く気づいていなかった。"
-                            ]
+                                "So absorbed was Lorentia in washing that she never noticed\nthe secret place between her boldly parted thighs being\nwatched through the mirror."
+                            ],
+                            "_original": "洗うのに夢中になっていたロレンチアは、\n大胆に開かれた股の間の秘所が鏡越しに見られていることに\n全く気づいていなかった。"
                         },
                         {
                             "code": 357,
@@ -5722,15 +5577,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(隣の男性、私が来る前からずっと座っていますね…)"
-                            ]
+                                "(The man beside me has been sitting there since before I\narrived...)"
+                            ],
+                            "_original": "(隣の男性、私が来る前からずっと座っていますね…)"
                         },
                         {
                             "code": 235,
@@ -5818,15 +5675,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…さて、次は髪を結いましょう。これもまたマナーです。"
-                            ]
+                                "...Now then, next I'll tie up my hair. This, too, is proper\netiquette."
+                            ],
+                            "_original": "…さて、次は髪を結いましょう。これもまたマナーです。"
                         },
                         {
                             "code": 111,
@@ -5940,8 +5799,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ベンチに腰掛け、白く長い髪をお団子状に結っていく。"
-                            ]
+                                "Sitting on the bench, she tied her long white hair up into a\nbun."
+                            ],
+                            "_original": "ベンチに腰掛け、白く長い髪をお団子状に結っていく。"
                         },
                         {
                             "code": 357,
@@ -6010,15 +5870,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あら、毛量が多いせいかまた解けて…)"
-                            ]
+                                "(Oh? It's come undone again, perhaps because I have so much\nhair...)"
+                            ],
+                            "_original": "(あら、毛量が多いせいかまた解けて…)"
                         },
                         {
                             "code": 101,
@@ -6028,65 +5890,17 @@
                                 0,
                                 0,
                                 2,
-                                "涼んでいる利用客"
-                            ]
+                                "Patron Cooling Off"
+                            ],
+                            "_original": "涼んでいる利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おお…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "髪の処理に手間取っているロレンチアは今、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "両腕を頭の後ろに回している状態だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然、ピンと勃った乳首やつるりとした性器を隠すものはない。"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 0,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                "涼んでいる利用客"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "(何度見てもすごい体だ…まずい、チンコが…)"
-                            ]
+                                "Ooh..."
+                            ],
+                            "_original": "おお…"
                         },
                         {
                             "code": 101,
@@ -6103,8 +5917,48 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ムクムク…"
+                                "As Lorentia fussed with her hair, both arms were raised\nbehind her head. Naturally, nothing concealed her stiff,\nerect nipples or her smooth genitals."
+                            ],
+                            "_original": "髪の処理に手間取っているロレンチアは今、\n両腕を頭の後ろに回している状態だ。\n当然、ピンと勃った乳首やつるりとした性器を隠すものはない。"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                "Patron Cooling Off"
+                            ],
+                            "_original": "涼んでいる利用客"
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "(That body is incredible no matter how many times I see\nit... Oh no, my cock's...)"
+                            ],
+                            "_original": "(何度見てもすごい体だ…まずい、チンコが…)"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 0,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
                             ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 0,
+                            "parameters": [
+                                "Swelling..."
+                            ],
+                            "_original": "ムクムク…"
                         },
                         {
                             "code": 357,
@@ -6173,15 +6027,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(またあんなに勃起を…男性は大変なんですね…)"
-                            ]
+                                "(Getting erect like that again... Men really have it\nhard...)"
+                            ],
+                            "_original": "(またあんなに勃起を…男性は大変なんですね…)"
                         },
                         {
                             "code": 235,
@@ -6437,8 +6293,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ザザー。"
-                            ]
+                                "Shaaa."
+                            ],
+                            "_original": "ザザー。"
                         },
                         {
                             "code": 101,
@@ -6455,8 +6312,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは再びシャワーを浴びる羽目になった。"
-                            ]
+                                "Lorentia found herself taking yet another shower."
+                            ],
+                            "_original": "ロレンチアは再びシャワーを浴びる羽目になった。"
                         },
                         {
                             "code": 357,
@@ -6525,15 +6383,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(…？これはどうしたことでしょう…)"
-                            ]
+                                "(...? Why would this be happening...?)"
+                            ],
+                            "_original": "(…？これはどうしたことでしょう…)"
                         },
                         {
                             "code": 101,
@@ -6550,15 +6410,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "彼女は乳房や髪に絡みついた精液を熱湯で"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗い流そうとしたが、余計に固着してしまい困り果てていた。"
-                            ]
+                                "She tried to wash the semen clinging to her breasts and hair\noff with hot water, but it only stuck faster, leaving her at\nher wits' end."
+                            ],
+                            "_original": "彼女は乳房や髪に絡みついた精液を熱湯で\n洗い流そうとしたが、余計に固着してしまい困り果てていた。"
                         },
                         {
                             "code": 357,
@@ -6627,15 +6481,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(…全く落ちませんね。)"
-                            ]
+                                "(...It won't come off at all.)"
+                            ],
+                            "_original": "(…全く落ちませんね。)"
                         },
                         {
                             "code": 101,
@@ -6645,8 +6501,9 @@
                                 0,
                                 0,
                                 2,
-                                "シャワー中の利用客"
-                            ]
+                                "Showering Patron"
+                            ],
+                            "_original": "シャワー中の利用客"
                         },
                         {
                             "code": 401,
@@ -6663,22 +6520,17 @@
                                 0,
                                 0,
                                 2,
-                                "シャワー中の利用客"
-                            ]
+                                "Showering Patron"
+                            ],
+                            "_original": "シャワー中の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(うげ、あれザーメン！？ぶっかけされてる！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " どこの命知らずだその変態は!)"
-                            ]
+                                "(Ugh, is that cum!? She got splattered with it!? What kind\nof death-wish pervert did that?!)"
+                            ],
+                            "_original": "(うげ、あれザーメン！？ぶっかけされてる！？\n どこの命知らずだその変態は!)"
                         },
                         {
                             "code": 101,
@@ -6695,8 +6547,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "利用客は見かねて声をかけた。"
-                            ]
+                                "Unable to just watch, the patron spoke up."
+                            ],
+                            "_original": "利用客は見かねて声をかけた。"
                         },
                         {
                             "code": 101,
@@ -6706,22 +6559,17 @@
                                 0,
                                 0,
                                 2,
-                                "シャワー中の利用客"
-                            ]
+                                "Showering Patron"
+                            ],
+                            "_original": "シャワー中の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの…失礼を承知で申し上げます…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "石鹸とかつけると、楽に溶け落ちますよ…多分…"
-                            ]
+                                "Um... forgive me for intruding... If you use some soap or\nsomething, it should dissolve and come off more easily...\nprobably..."
+                            ],
+                            "_original": "あの…失礼を承知で申し上げます…\n石鹸とかつけると、楽に溶け落ちますよ…多分…"
                         },
                         {
                             "code": 357,
@@ -6790,15 +6638,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…お気遣い、ありがとうございます。"
-                            ]
+                                "...Thank you for your concern."
+                            ],
+                            "_original": "…お気遣い、ありがとうございます。"
                         },
                         {
                             "code": 101,
@@ -6815,8 +6665,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こうして、散々な混浴体験が幕を閉じた。"
-                            ]
+                                "And so, her miserable mixed-bathing experience came to a\nclose."
+                            ],
+                            "_original": "こうして、散々な混浴体験が幕を閉じた。"
                         },
                         {
                             "code": 355,
@@ -6934,22 +6785,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お風呂に来たというのにどっと疲れました…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はもう宿で休むことにしましょう。"
-                            ]
+                                "I came to the baths, only to end up utterly exhausted... I\nshall retire to the inn for the rest of the day."
+                            ],
+                            "_original": "お風呂に来たというのにどっと疲れました…\n今日はもう宿で休むことにしましょう。"
                         },
                         {
                             "code": 121,
@@ -7139,15 +6985,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(今立ち上がったら確実に勃起バレる…！)"
-                            ]
+                                "(If I stand up now, everyone will definitely see my\nhard-on...!)"
+                            ],
+                            "_original": "(今立ち上がったら確実に勃起バレる…！)"
                         },
                         {
                             "code": 0,
@@ -7268,22 +7116,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様が公衆浴場を利用なさるとは…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鮮やかな乳首もこんな至近距離で…ごくり…"
-                            ]
+                                "To think a Lady Knight would use a public bath... and those\nlovely nipples, this up close... gulp..."
+                            ],
+                            "_original": "騎士様が公衆浴場を利用なさるとは…\n鮮やかな乳首もこんな至近距離で…ごくり…"
                         },
                         {
                             "code": 0,
@@ -7404,15 +7247,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サウナルームは…お前さんにはちと狭いかもしれんのう。"
-                            ]
+                                "The Sauna Room... might be a bit cramped for you, miss."
+                            ],
+                            "_original": "サウナルームは…お前さんにはちと狭いかもしれんのう。"
                         },
                         {
                             "code": 0,
@@ -7533,15 +7378,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ…騎士サマ、本当は露出癖があるだけなんじゃねーか？"
-                            ]
+                                "Hehe... Miss Royal Knight, aren't you really just an\nexhibitionist?"
+                            ],
+                            "_original": "へへ…騎士サマ、本当は露出癖があるだけなんじゃねーか？"
                         },
                         {
                             "code": 0,
@@ -7662,15 +7509,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんなデケェ乳ぶらぶら揺らして…まさか誘ってんのかな…"
-                            ]
+                                "Swingin' those huge tits around like that... don't tell me\nshe's askin' for it..."
+                            ],
+                            "_original": "あんなデケェ乳ぶらぶら揺らして…まさか誘ってんのかな…"
                         },
                         {
                             "code": 0,
@@ -7791,22 +7640,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風呂の中でマスをかくのは厳禁じゃ…厳禁なんじゃが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんなおま◯こを堂々と見せられるとのう…"
-                            ]
+                                "Jerking off in the bath is strictly forbidden...strictly\nforbidden, but...when she shows off a p*ssy like that so\nopenly..."
+                            ],
+                            "_original": "風呂の中でマスをかくのは厳禁じゃ…厳禁なんじゃが…\nあんなおま◯こを堂々と見せられるとのう…"
                         },
                         {
                             "code": 0,
@@ -7943,15 +7787,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "湯船には既に多くの男性客がおり、ロレンチアが座れる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "スペースは限られていた。"
-                            ]
+                                "The tub was already crowded with male patrons, and space for\nLorentia to sit was limited."
+                            ],
+                            "_original": "湯船には既に多くの男性客がおり、ロレンチアが座れる\nスペースは限られていた。"
                         },
                         {
                             "code": 357,
@@ -8020,15 +7858,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お隣、失礼します…"
-                            ]
+                                "Excuse me... pardon the intrusion."
+                            ],
+                            "_original": "お隣、失礼します…"
                         },
                         {
                             "code": 101,
@@ -8038,15 +7878,17 @@
                                 0,
                                 0,
                                 2,
-                                "隣の利用客"
-                            ]
+                                "Neighboring Patron"
+                            ],
+                            "_original": "隣の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "騎士様！？ど、どうぞどうぞ…"
-                            ]
+                                "Lady Knight!? P-please, right this way..."
+                            ],
+                            "_original": "騎士様！？ど、どうぞどうぞ…"
                         },
                         {
                             "code": 250,
@@ -8172,8 +8014,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お湯の熱さを確かめながら、水底へ片脚を沈めていく。"
-                            ]
+                                "Checking the heat of the water, she lowered one leg toward\nthe bottom of the tub."
+                            ],
+                            "_original": "お湯の熱さを確かめながら、水底へ片脚を沈めていく。"
                         },
                         {
                             "code": 357,
@@ -8242,15 +8085,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(うん…いい温度です。)"
-                            ]
+                                "(Mm... What a pleasant temperature.)"
+                            ],
+                            "_original": "(うん…いい温度です。)"
                         },
                         {
                             "code": 101,
@@ -8267,15 +8112,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼女が片脚を開いた瞬間を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "湯船に座っている男たちは見逃さなかった。"
-                            ]
+                                "The men seated in the tub did not miss the moment she parted\nher legs."
+                            ],
+                            "_original": "彼女が片脚を開いた瞬間を、\n湯船に座っている男たちは見逃さなかった。"
                         },
                         {
                             "code": 101,
@@ -8285,22 +8124,17 @@
                                 0,
                                 0,
                                 2,
-                                "隣の利用客"
-                            ]
+                                "Neighboring Patron"
+                            ],
+                            "_original": "隣の利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(こんな至近距離で騎士様のオメコが…お乳もあんなに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " ブラブラ揺らして…良い冥土の土産になったわい！)"
-                            ]
+                                "(The Lady Knight's cunt, this close up... and her tits\nswaying so freely... What a fine sight to take with me to\nthe grave!)"
+                            ],
+                            "_original": "(こんな至近距離で騎士様のオメコが…お乳もあんなに\n ブラブラ揺らして…良い冥土の土産になったわい！)"
                         },
                         {
                             "code": 111,
@@ -8466,15 +8300,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぅ…"
-                            ]
+                                "Fwhew..."
+                            ],
+                            "_original": "ふぅ…"
                         },
                         {
                             "code": 101,
@@ -8491,8 +8327,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "時折汗を拭いながら、ロレンチアは入浴を楽しんでいた。"
-                            ]
+                                "Wiping away the occasional sweat, Lorentia enjoyed her bath."
+                            ],
+                            "_original": "時折汗を拭いながら、ロレンチアは入浴を楽しんでいた。"
                         },
                         {
                             "code": 101,
@@ -8502,33 +8339,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ふぃいい…"
-                            ]
-                        },
-                        {
-                            "code": 101,
-                            "indent": 1,
-                            "parameters": [
-                                "",
-                                0,
-                                0,
-                                2,
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、落ち着いたバスタイムは長くは続かなかった。"
-                            ]
+                                "Fwheew..."
+                            ],
+                            "_original": "ふぃいい…"
                         },
                         {
                             "code": 101,
@@ -8545,8 +8366,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シコシコシコシコ…"
-                            ]
+                                "However, her peaceful bath time did not last long."
+                            ],
+                            "_original": "しかし、落ち着いたバスタイムは長くは続かなかった。"
                         },
                         {
                             "code": 101,
@@ -8563,8 +8385,28 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "眼の前の男が自慰行為を始めたのである。"
+                                "Fap, fap, fap, fap..."
+                            ],
+                            "_original": "シコシコシコシコ…"
+                        },
+                        {
+                            "code": 101,
+                            "indent": 1,
+                            "parameters": [
+                                "",
+                                0,
+                                0,
+                                2,
+                                ""
                             ]
+                        },
+                        {
+                            "code": 401,
+                            "indent": 1,
+                            "parameters": [
+                                "The man right before her eyes had begun to masturbate."
+                            ],
+                            "_original": "眼の前の男が自慰行為を始めたのである。"
                         },
                         {
                             "code": 357,
@@ -8633,15 +8475,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(バレていないと思って…？やめて欲しいものですね。)"
-                            ]
+                                "(Does he think he hasn't been noticed...? I would rather he\nstopped.)"
+                            ],
+                            "_original": "(バレていないと思って…？やめて欲しいものですね。)"
                         },
                         {
                             "code": 101,
@@ -8658,8 +8502,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "シコシコシコシコ…"
-                            ]
+                                "Fap, fap, fap, fap..."
+                            ],
+                            "_original": "シコシコシコシコ…"
                         },
                         {
                             "code": 101,
@@ -8669,22 +8514,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(あんな風にぷかぷかエロ乳浮かべられちゃあよう…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " シコらんほうが失礼ってもんだろ！)"
-                            ]
+                                "(Bobbing those lewd tits right in front of me like that...!\nNot stroking it would be the real insult!)"
+                            ],
+                            "_original": "(あんな風にぷかぷかエロ乳浮かべられちゃあよう…！\n シコらんほうが失礼ってもんだろ！)"
                         },
                         {
                             "code": 357,
@@ -8753,15 +8593,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(注意したほうがいいでしょうか…まさか湯船の中で吐精を…？)"
-                            ]
+                                "(Should I say something...? Surely he isn't planning to\nejaculate in the tub...?)"
+                            ],
+                            "_original": "(注意したほうがいいでしょうか…まさか湯船の中で吐精を…？)"
                         },
                         {
                             "code": 357,
@@ -8830,15 +8672,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…コホン。"
-                            ]
+                                "...*Ahem*."
+                            ],
+                            "_original": "…コホン。"
                         },
                         {
                             "code": 101,
@@ -8848,15 +8692,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "い！？"
-                            ]
+                                "Eep!?"
+                            ],
+                            "_original": "い！？"
                         },
                         {
                             "code": 101,
@@ -8873,15 +8719,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男はロレンチアの挙動から、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "彼女が気づいていないフリをしていたことを察した。"
-                            ]
+                                "From Lorentia's reaction, the man realized she had only been\npretending not to notice."
+                            ],
+                            "_original": "男はロレンチアの挙動から、\n彼女が気づいていないフリをしていたことを察した。"
                         },
                         {
                             "code": 101,
@@ -8891,15 +8731,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(まずい見られたか！？くぅ！もう射精そうってときに！)"
-                            ]
+                                "(Shit, did she see me!? Damn it! Right when I was about to\ncum!)"
+                            ],
+                            "_original": "(まずい見られたか！？くぅ！もう射精そうってときに！)"
                         },
                         {
                             "code": 250,
@@ -9025,15 +8867,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男は湯船から飛び出すと、赤黒く膨張した肉棒を揺らしながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "湯船の縁へ駆け寄った。ロレンチアの真横だ。"
-                            ]
+                                "The man leapt out of the tub and scrambled to its edge, his\nswollen, reddish-black shaft swinging. Right beside\nLorentia."
+                            ],
+                            "_original": "男は湯船から飛び出すと、赤黒く膨張した肉棒を揺らしながら\n湯船の縁へ駆け寄った。ロレンチアの真横だ。"
                         },
                         {
                             "code": 357,
@@ -9102,8 +8938,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -9179,22 +9016,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(眼の前に勃起した性器を…もう隠そうともしないのですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " 反省してくれればいいのですが。)"
-                            ]
+                                "(An erect genital, right before my eyes... He is not even\ntrying to hide it anymore. I only hope he feels some\nremorse.)"
+                            ],
+                            "_original": "(眼の前に勃起した性器を…もう隠そうともしないのですね。\n 反省してくれればいいのですが。)"
                         },
                         {
                             "code": 101,
@@ -9204,15 +9036,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(いそげ！！いそげ！！いそげ！！)"
-                            ]
+                                "(Hurry!! Hurry!! Hurry!!)"
+                            ],
+                            "_original": "(いそげ！！いそげ！！いそげ！！)"
                         },
                         {
                             "code": 101,
@@ -9222,15 +9056,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "へへ、お先に失礼を…うぅ！？"
-                            ]
+                                "Hehe, if you'll excuse me... Ngh!?"
+                            ],
+                            "_original": "へへ、お先に失礼を…うぅ！？"
                         },
                         {
                             "code": 101,
@@ -9247,8 +9083,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "だが湯船から上がろうと、片足を踏ん張った瞬間―"
-                            ]
+                                "But the moment he planted his foot to climb out of the tub―"
+                            ],
+                            "_original": "だが湯船から上がろうと、片足を踏ん張った瞬間―"
                         },
                         {
                             "code": 250,
@@ -9393,8 +9230,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ブッ、ブビュ！タパパ…"
-                            ]
+                                "Spurt, spuuurt! Drip, drip, drip..."
+                            ],
+                            "_original": "ブッ、ブビュ！タパパ…"
                         },
                         {
                             "code": 101,
@@ -9411,8 +9249,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼の緊張の糸が途切れてしまった。"
-                            ]
+                                "The thread of his restraint had snapped."
+                            ],
+                            "_original": "彼の緊張の糸が途切れてしまった。"
                         },
                         {
                             "code": 357,
@@ -9481,15 +9320,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…ッ！"
-                            ]
+                                "...!"
+                            ],
+                            "_original": "…ッ！"
                         },
                         {
                             "code": 101,
@@ -9499,15 +9340,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(ぶ、ぶっかけちまったぁあああ！！！！)"
-                            ]
+                                "(I-I came all over heeerrrr!!!!)"
+                            ],
+                            "_original": "(ぶ、ぶっかけちまったぁあああ！！！！)"
                         },
                         {
                             "code": 101,
@@ -9524,22 +9367,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "ロレンチアの美しい顔や妖艶な体に、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "粘り気のあるオスの体液がまとわりついた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "洗ったはずの体から漂う異臭に、彼女は眉をひそめる。"
-                            ]
+                                "Sticky male fluid clung to Lorentia's beautiful face and\nbewitching body. She frowned at the foul odor drifting from\nher freshly washed skin."
+                            ],
+                            "_original": "ロレンチアの美しい顔や妖艶な体に、\n粘り気のあるオスの体液がまとわりついた。\n洗ったはずの体から漂う異臭に、彼女は眉をひそめる。"
                         },
                         {
                             "code": 357,
@@ -9608,15 +9438,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(公衆の面前で精液を浴びせられるなんて…)"
-                            ]
+                                "(To be showered with semen in front of all these people...)"
+                            ],
+                            "_original": "(公衆の面前で精液を浴びせられるなんて…)"
                         },
                         {
                             "code": 357,
@@ -9685,15 +9517,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あの、これはどういう…"
-                            ]
+                                "Um, what is the meaning of this..."
+                            ],
+                            "_original": "あの、これはどういう…"
                         },
                         {
                             "code": 235,
@@ -9710,15 +9544,17 @@
                                 0,
                                 0,
                                 2,
-                                "がさつな利用客"
-                            ]
+                                "Crude Patron"
+                            ],
+                            "_original": "がさつな利用客"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁぁ！？お、お許しを！！！！"
-                            ]
+                                "Aaaah!? P-please forgive me!!!!"
+                            ],
+                            "_original": "あぁぁ！？お、お許しを！！！！"
                         },
                         {
                             "code": 101,
@@ -9735,22 +9571,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "男は転びながら脱衣所へ駆けていった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ロレンチアは当然追うつもりであったが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分の今の状態を鑑みて断念した。"
-                            ]
+                                "The man stumbled his way toward the Changing Room. Lorentia\nhad every intention of giving chase, but in light of her\ncurrent state, she abandoned the idea."
+                            ],
+                            "_original": "男は転びながら脱衣所へ駆けていった。\nロレンチアは当然追うつもりであったが、\n自分の今の状態を鑑みて断念した。"
                         },
                         {
                             "code": 357,
@@ -9819,22 +9642,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "彼の精液を洗い落とさねば…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変な誤解を生んでしまっては困ります。"
-                            ]
+                                "I must wash off his semen... It would be troublesome if this\ncaused any strange misunderstandings."
+                            ],
+                            "_original": "彼の精液を洗い落とさねば…\n変な誤解を生んでしまっては困ります。"
                         },
                         {
                             "code": 205,
@@ -9953,15 +9771,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "先にシャワーを浴びましょう、マナーです。"
-                            ]
+                                "I'll take a shower first. ...It's proper etiquette."
+                            ],
+                            "_original": "先にシャワーを浴びましょう、マナーです。"
                         },
                         {
                             "code": 205,
@@ -10225,22 +10045,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(騎士様、今日もエロ過ぎる…うぉ危ね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " 勃ちすぎてチンコが騎士様にぶつかるところだった…！！)"
-                            ]
+                                "(The Lady Knight's just too damn sexy today... Whoa, close!\nI got so hard my dick almost bumped right into her...!!)"
+                            ],
+                            "_original": "(騎士様、今日もエロ過ぎる…うぉ危ね！\n 勃ちすぎてチンコが騎士様にぶつかるところだった…！！)"
                         },
                         {
                             "code": 357,
@@ -10309,35 +10124,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(あの方…男性器が完全に勃起していますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " この距離なら…最終手段ですが…)"
-                            ]
+                                "(That man... his genitals are fully erect. At this\ndistance... it's a last resort, but...)"
+                            ],
+                            "_original": "(あの方…男性器が完全に勃起していますね。\n この距離なら…最終手段ですが…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "利用客を押し倒す",
-                                    "考え直す"
+                                    "Push the patron down",
+                                    "Think better of it"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "利用客を押し倒す",
+                                "考え直す"
                             ]
                         },
                         {
@@ -10431,15 +10245,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あぁ、なんだか頭が～…"
-                            ]
+                                "Aah, my head feels all funny～..."
+                            ],
+                            "_original": "あぁ、なんだか頭が～…"
                         },
                         {
                             "code": 230,
@@ -10505,15 +10321,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -10588,15 +10398,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -10613,8 +10417,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング10 強引に…"
-                            ]
+                                "Ending 10: By Force..."
+                            ],
+                            "_original": "エンディング10 強引に…"
                         },
                         {
                             "code": 101,
@@ -10631,8 +10436,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,

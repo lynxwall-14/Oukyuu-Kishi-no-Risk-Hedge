@@ -1,42 +1,419 @@
 # Game Characters
-毒蛇 (Viper)
-ロレンチア (Lorentia)
-村長 (Village Chief)
-鍛冶屋 (Blacksmith)
-清掃員 (Cleaner)
-族長 (Chieftain)
-村人 (Villager)
-山賊たち (Bandits)
-村人たち (Villagers)
-山賊 (Bandit)
-利用客 (Customer)
-利用客たち (Customers)
-不審者 (Suspicious Person)
-シャワー中の利用客 (Showering Customer)
-後方の利用客 (Customer In Back)
-涼んでいる利用客 (Customer Cooling Off)
-おしゃべりな利用客 (Chatty Customer)
-鼻息の荒い利用客 (Heavy-Breathing Customer)
-隣の利用客 (Neighboring Customer)
-がさつな利用客 (Rowdy Customer)
-覗き魔 (Peeping Tom)
-浮浪者 (Drifter)
-外の利用客 (Customer Outside)
-倒れた利用客 (Collapsed Customer)
-サザンナ (Suzanna)
-衛兵 (Guard)
-村民 (Villager)
-毒蛇魔人 (Viper Demon)
-看板 (Sign)
-挙動不審な男 (Suspicious Man)
-農夫 (Farmer)
-張り紙 (Notice)
-番台 (Front Desk)
-宿屋の主人 (Innkeeper)
-警備員 (Security Guard)
-近衛兵 (Royal Guard)
+ロレンチア (Lorentia) - Female, 26, human (status screen). Protagonist and Actor 1, with a fixed name. A Royal Knight specialised in combat, sent to slay the Viper Demon. Voice: formal, courteous, very even. Short declarative sentences, polite to everyone including the bandits. Dry, deadpan understatement ("...What a rude chair." CE9). Never uses the men's slang: in sex scenes and anatomy she stays clinical (breasts, genitals, intercourse, ejaculate inside, fertilization). Terse mission calls: 任務遂行。 -> "Mission accomplished." (Map002), 確保！ -> "Secured!" (CE8), 掃討完了 -> "Sweep complete." なさい commands are stern: 覚悟なさい -> "Prepare yourself." (Map002). Interjections: おや -> "Oh?", …コホン -> "*Ahem*". Her only laugh is …ふふ -> "...Fufu." (CE17). Parenthesised inner thoughts stay polite. Sazanna calls her 鉄仮面 ("stone-faced", CE17). The personality toggle (bashful vs unflappable) changes only a few narration and thought lines; her voice stays the same in both modes.
+サザンナ (Sazanna) - Female; Royal Knight and pharmacology/potion specialist. Lorentia's colleague and close friend; she brewed the poison-resistance potion. Labelled ？？？ before her first prologue line. Voice: teasing, theatrical, ladylike big-sister speech (わよ/わね/かしら/ではなくて), bubbly exclamations, drawn-out vowels. Interjections: あーら -> "Oh my~", ああん -> "Aww~", あらあら -> "My, my", あらら -> "Oh dear", でもでも -> "But, but". Example: "My, my, isn't that a serious problem!?" (Map011 EV3). Calls Lorentia ロレンチアちゃん as a tease. Keep the CE17 win/lose pair: 私の勝ちね！ -> "Then I win!" answered by 私の負けでいいですよ -> "Fine, I lose."
+村長 (Village Chief) - Male; chief of Seseragi Village, newly in office after the Viper Demon killed his two predecessors. The source says only that he looks young (お若く見えた); his age is never stated, so do not add age or youth descriptors beyond the source. Pronoun ボク. Voice: earnest, flustered, polite. Stammers his greetings (ろ、ロレンチアさん！？ -> "L-Lorentia-san!?"), apologises a lot. Interjections: うぁ！？, ふぇ！？, あいたた -> "Ow, ow...". Does not know what ejaculation is and calls it おしっこ (see quirks).
+族長 (Bandit Boss) - Male; leader of the bandits who raid the village (narration: 山賊の長らしき大男). His men address him as お頭 / 親分 / 族長 -> "Boss". Voice: coarse, swaggering, mocking (俺/俺サマ, アンタ/お前, ～ぜ/じゃねーか). Sneers 王宮騎士サマ -> "Miss Royal Knight". Laugh ガハハ -> "Gahaha!"; the offscreen ？？？ 「ガハハハハ！」 in Map008 EV3 is him. Syllable-split taunt ひ・と・じ・ち -> "Hos-ta-ges."
+山賊 (Bandit) - Male bandit underlings. Rowdy; laughs ギャハハ -> "Gyahaha!", ゲヘヘ -> "Gehehe". One talks like a flunky (ッス) and garbles 王宮騎士 as おーきゅうきし -> "Roy-ull Knight-thingy?" (Map003 EV15).
+山賊たち (Bandits) - Group nameplate for the bandit underlings.
+毒蛇魔人 (Viper Demon) - Gender unknown. The demon that poisoned and razed the village; summons vipers; slain in its temple (Map002). Voice: polite, smug villain (私, ふむ, ～ようです, いかがでしょう？) that collapses into comic panic: そ、そんな馬鹿なー！！！！ -> "Th-this can't be!!!!"
+毒蛇魔神 (Viper Demon) - Source slip for 毒蛇魔人, seen only in the Map002 display name. Same entity.
+毒蛇 (Viper) - The Viper Demon's summoned venomous snakes (also 蛇達, 下級の毒蛇 "lesser vipers", 警備用の蛇達 "guard snakes"). Their lines are only growls (ガルルア！, グガガ！).
+鍛冶屋 (Blacksmith) - Male; village blacksmith and shop owner (Lorentia addresses him as 店主さん). Voice: nervous, over-polite merchant speech out loud (申し訳ございません), crude inner thoughts in parentheses. Recurring 一生分 -> "a lifetime's worth" (CE2, CE14).
+浮浪者 (Vagrant) - Male old man who lost everything to the vipers; lecherous. Voice: folksy old-man speech (ワシ, じゃ/のう/かの/ぞい) -> grumbling, rustic English. Laughs: ふへへ -> "Fuhehe", ふひひ -> "Fuhihi", へっへ -> "Heh heh". 絶景かな -> "What a view, what a view!" (kabuki quote, CE13).
+覗き魔 (Peeping Tom) - Male; follows and spies on Lorentia (CE10, CE11, Map001 EV24). Voice: servile and cringing (ですぜ, へい, えへへ) -> "Y-yes, ma'am!". The source wavers between the pronouns ワシ and 俺; use a plain "I" throughout.
+挙動不審な男 (Shifty Man) - Male; the Map001 EV6 man who claims to be "just picking wild vegetables". Possibly the later Peeping Tom (unconfirmed); keep a separate label, and do not reuse "Suspicious" (reserved for 不審者).
+不審者 (Suspicious Person) - Male prowler in the changing room (CE8).
+清掃員 (Cleaner) - Male bathhouse cleaner (CE3), labelled ？？？ until named. Old-fashioned polite speech: ～ましてな…ハハハ, 失敬 -> "Pardon me!"
+衛兵 (Guard) - Male village guards (衛兵団, the guard corps). Eager but openly cowardly, with loud exclamations: うぉおお！, では出発！！！ -> "Move out!!!"
+村人 (Villager) - Male villagers; the women and children have been evacuated. Older ones use じゃ/のう.
+村人たち (Villagers) - Group nameplate; one 「」 per voice, and 「(…)」 for muttered thoughts.
+村民 (Villager) - Villagers shouting during the bandit raid (Map008 EV3).
+農夫 (Farmer) - Male farmer; appears as ？？？ when he chases the Village Chief into the changing room.
+利用客 (Patron) - Male bathhouse and inn patrons.
+利用客たち (Patrons) - Group nameplate for patrons.
+がさつな利用客 (Crude Patron) - Bath patron (CE9).
+おしゃべりな利用客 (Chatty Patron) - Polite (私), cheerful sauna regular (CE9, CE15).
+鼻息の荒い利用客 (Heavy-Breathing Patron) - Pronoun オイラ; panting フゥー -> "Hff..." (CE9, CE15). The Map009 EV4 利用客 line (荒い鼻息) is the same man.
+シャワー中の利用客 (Showering Patron) - Bath patron (CE9).
+涼んでいる利用客 (Patron Cooling Off) - Bath patron.
+隣の利用客 (Neighboring Patron) - Old bath patron (じゃ/わい).
+後方の利用客 (Patron Behind) - Bath patron; the source nameplate has a trailing full-width space.
+外の利用客 (Patron Outside) - Bath patron.
+倒れた利用客 (Fallen Patron) - The patron Lorentia "falls" onto in CE16.
+番台 (Bath Attendant) - Bathhouse front-desk attendant; also signs the bathhouse notices.
+宿屋の主人 (Innkeeper) - Inn owner (Map007).
+警備員 (Security Guard) - The inn's boastful "guard" (Map007 EV13). On a later page it is labelled ？？？？？ ("I'm just a suit of armor!") and turns out to be a decorative suit of armor all along. Keep "Security Guard" and the five-mark "?????".
+近衛兵 (Royal Guard) - Palace guards in the Palace Garden (Map011); distinct from Royal Knights.
+看板 (Sign) - Nameplate for signposts.
+張り紙 (Notice) - Nameplate for posted bathhouse notices.
 
-# Add character glossary entries here
+# Worldbuilding
+王宮騎士のリスクヘッジ (The Royal Knight's Risk Hedge) - Game title.
+王宮騎士 (Royal Knight) - The King's direct-command unit of specialists, founded to fight bandits and monsters ("the Royal Knights"). Also each member's title, and Lorentia's class.
+女騎士 (lady knight) - Generic description of Lorentia, used in the ending gossip line.
+王都 (Royal Capital) - The capital at the centre of the continent.
+王宮 (palace) - The royal palace.
+王宮の庭園 (Palace Garden) - Prologue map.
+王命 (royal decree) - Lorentia's orders.
+衛兵団 (Guard Corps) - Seseragi Village's guard unit.
+医療研究班 (Medical Research Unit) - The capital's research team that can test for monster eggs.
+戦士ギルド (Warriors' Guild)
+セセラギ村 (Seseragi Village) - The eastern village with the bathhouse. Seseragi means "babbling brook", but no line plays on the meaning, so keep the transliteration.
+西の林 (West Woods) - Lorentia's patrol woods; keep distinct from 東の森.
+東の森 (East Forest) - Where the guard corps goes on Day 2, leaving the village open to the bandits.
+毒蛇魔神の神殿 (Temple of the Viper Demon) - Map002 display name. The dialogue says 毒蛇魔人の神殿; do not render 魔神 as "Devil" here.
+スケルトンワーム (Skeleton Worm) - Translucent, worm-like water monster that lays eggs inside females. The eggs are expelled without implanting if the host is already pregnant: this is the "risk hedge" of the title.
+毒耐性ポーション (Poison Resistance Potion) - Sazanna's potion. It grants full poison and corrosion immunity for "about six months", but also stops contraceptives from working.
+腐食液 (corrosive fluid) - The vipers' spit, which dissolves armor.
+避妊薬 (contraceptive)
+銭湯 (bathhouse) - The inn's bathhouse.
+公衆浴場 (public bath)
+大浴場 (main bath)
+混浴 (mixed bathing)
+壺湯 (pot bath) - The Village Chief's tall one-person tub.
+サウナルーム (Sauna Room)
+脱衣所 (Changing Room)
+鑑賞ルーム (Gallery Room) - Post-game event and CG gallery.
+性格変更 (Personality) - Menu command that toggles Lorentia's bashful or unflappable mode.
+貞操 (Chastity) - Status screen label.
+生理周期 (Menstrual Cycle) - Status screen label.
+特記事項 (Special Notes) - Status screen label.
+体験した出来事 (Experiences) - Status screen header for the list of events she has been through.
+卵胞期 (Follicular Phase) - Status screen value.
+排卵期 (Ovulation Phase) - Status screen value.
+妊娠中期 (Second Trimester) - Status screen value after an ending (six months later).
+0日目：終わらぬ任務 (Day 0: An Unending Mission) - Day title; also a save-slot label.
+1日目：思わぬ油断 (Day 1: An Unforeseen Lapse) - Day title; also a save-slot label.
+2日目：尽きぬ襲来 (Day 2: Unceasing Assaults) - Day title; also a save-slot label.
+3日目：冷めやらぬ興奮 (Day 3: Unabating Excitement) - Day title; also a save-slot label.
+4日目：拭えぬ懸念 (Day 4: Unshakable Misgivings) - Day title; also a save-slot label.
+
+# Enemies
+ゴブリン (Goblin)
+ノーム (Gnome)
+クロウ (Crow)
+トレント (Treant)
+魔獣 (Demon Beast)
+
+# MapInfos
+西の林 (West Woods)
+毒蛇魔神 (Viper Demon)
+セセラギ村 (Seseragi Village)
+村長の家 (Village Chief's House)
+鍛冶屋 (Blacksmith)
+ロレンチアの部屋 (Lorentia's Room)
+宿屋 (Inn)
+銭湯 (Bathhouse)
+サウナルーム (Sauna Room)
+脱衣所 (Changing Room)
+王宮の庭園 (Palace Garden)
+王都 (Royal Capital)
+鑑賞ルーム (Gallery Room)
+王都のバスルーム (Royal Capital Bathroom)
+
+# Classes
+王宮騎士 (Royal Knight)
+魔法使い (Mage)
+僧侶 (Priest)
+騎士 (Knight)
+格闘家 (Martial Artist)
+魔法剣士 (Magic Swordsman)
+狩人 (Hunter)
+盗賊 (Thief)
+
+# Items
+-----予備 (-----Spare)
+-----回復系 (-----Recovery)
+ポーション (Potion)
+ハイポーション (Hi-Potion)
+フルポーション (Full Potion)
+マジックウォーター (Magic Water)
+スティミュラント (Stimulant)
+ディスペルハーブ (Dispel Herb)
+アンチドーテ (Antidote)
+ミラクルドロップ (Miracle Drop)
+エリクサー (Elixir)
+-----特殊系 (-----Special)
+エンカウントダウナー (Encounter Downer)
+ドロップアッパー (Drop Upper)
+-----強化系 (-----Boosts)
+ライフアップ (Life Up)
+マナアップ (Mana Up)
+パワーアップ (Power Up)
+ガードアップ (Guard Up)
+マジックアップ (Magic Up)
+レジストアップ (Resist Up)
+スピードアップ (Speed Up)
+ラックアップ (Luck Up)
+
+# Weapons
+ショートソード (Short Sword)
+ロングソード (Long Sword)
+ファルシオン (Falchion)
+ミスリルソード (Mithril Sword)
+ドラゴンブレード (Dragon Blade)
+ウッドスタッフ (Wood Staff)
+マジックワンド (Magic Wand)
+フォースワンド (Force Wand)
+ミスリルロッド (Mithril Rod)
+ドラゴンスタッフ (Dragon Staff)
+ストーンフレイル (Stone Flail)
+ブロンズフレイル (Bronze Flail)
+モーニングスター (Morning Star)
+ミスリルフレイル (Mithril Flail)
+ドラゴンフレイル (Dragon Flail)
+ハンドアクス (Hand Axe)
+バトルアクス (Battle Axe)
+バルディッシュ (Bardiche)
+ミスリルアクス (Mithril Axe)
+ドラゴンアクス (Dragon Axe)
+ショートスピア (Short Spear)
+ロングスピア (Long Spear)
+ハルバード (Halberd)
+ミスリルスピア (Mithril Spear)
+ドラゴンスピア (Dragon Spear)
+セスタス (Cestus)
+バグナウ (Bagh Nakh)
+アイアンクロウ (Iron Claw)
+ミスリルクロウ (Mithril Claw)
+ドラゴンクロウ (Dragon Claw)
+ショートボウ (Short Bow)
+ロングボウ (Long Bow)
+クロスボウ (Crossbow)
+ミスリルボウ (Mithril Bow)
+ドラゴンボウ (Dragon Bow)
+ナイフ (Knife)
+ダガー (Dagger)
+マシェット (Machete)
+ミスリルダガー (Mithril Dagger)
+ドラゴンダガー (Dragon Dagger)
+
+# Armors
+-----鎧系 (-----Armor)
+布の服 (Cloth Clothes)
+レザーベスト (Leather Vest)
+冒険者の服 (Adventurer's Clothes)
+ハードレザー (Hard Leather)
+ブリガンダイン (Brigandine)
+クロースアーマー (Cloth Armor)
+レザーアーマー (Leather Armor)
+ブロンズブレスト (Bronze Breastplate)
+アイアンブレスト (Iron Breastplate)
+ミスリルブレスト (Mithril Breastplate)
+ドラゴンブレスト (Dragon Breastplate)
+ブロンズアーマー (Bronze Armor)
+アイアンアーマー (Iron Armor)
+ミスリルアーマー (Mithril Armor)
+ドラゴンアーマー (Dragon Armor)
+木綿のローブ (Cotton Robe)
+絹のマント (Silk Mantle)
+術士のローブ (Sorcerer's Robe)
+賢者のローブ (Sage's Robe)
+エレメンタルマント (Elemental Mantle)
+-----盾系 (-----Shields)
+バックラー (Buckler)
+ラウンドバックラー (Round Buckler)
+スパイクバックラー (Spike Buckler)
+ミスリルバックラー (Mithril Buckler)
+ドラゴンバックラー (Dragon Buckler)
+ウッドシールド (Wood Shield)
+ブロンズシールド (Bronze Shield)
+アイアンシールド (Iron Shield)
+ミスリルシールド (Mithril Shield)
+ドラゴンシールド (Dragon Shield)
+ウッドバングル (Wood Bangle)
+ブロンズバングル (Bronze Bangle)
+アイアンバングル (Iron Bangle)
+ミスリルバングル (Mithril Bangle)
+ドラゴンバングル (Dragon Bangle)
+-----兜系 (-----Helmets)
+バンダナ (Bandana)
+レザーバンダナ (Leather Bandana)
+皮の帽子 (Leather Hat)
+ターバン (Turban)
+羽根付き帽子 (Feathered Hat)
+レザーキャップ (Leather Cap)
+ウッドキャップ (Wood Cap)
+ブロンズキャップ (Bronze Cap)
+アイアンキャップ (Iron Cap)
+ミスリルキャップ (Mithril Cap)
+ドラゴンキャップ (Dragon Cap)
+チェインコイフ (Chain Coif)
+ブロンズヘルム (Bronze Helm)
+アイアンヘルム (Iron Helm)
+ミスリルヘルム (Mithril Helm)
+ドラゴンヘルム (Dragon Helm)
+とんがり帽子 (Pointed Hat)
+サークレット (Circlet)
+シルバーサークレット (Silver Circlet)
+ゴールドサークレット (Gold Circlet)
+ミスリルサークレット (Mithril Circlet)
+マスターサークレット (Master Circlet)
+-----装飾品系 (-----Accessories)
+ガードストーン (Guard Stone)
+ガードリング (Guard Ring)
+パワーストーン (Power Stone)
+パワーリング (Power Ring)
+スピードストーン (Speed Stone)
+スピードリング (Speed Ring)
+ラッキーストーン (Lucky Stone)
+ラッキーリング (Lucky Ring)
+マジカルストーン (Magical Stone)
+マジカルリング (Magical Ring)
+シューターストーン (Shooter Stone)
+シューターリング (Shooter Ring)
+マスターストーン (Master Stone)
+マスターリング (Master Ring)
+ポイズンガード (Poison Guard)
+ポイズンガードＳ (Poison Guard S)
+メンタルガード (Mental Guard)
+メンタルガードＳ (Mental Guard S)
+エネミーレーダー (Enemy Radar)
+ワーニングベル (Warning Bell)
+ＴＰストッカー (TP Stocker)
+ガッツリング (Guts Ring)
+ＭＰキーパー (MP Keeper)
+エレメンタルガード (Elemental Guard)
+スペクタクル (Spectacle)
+
+# Skills
+攻撃 (Attack)
+防御 (Defend)
+-----予備 (-----Reserve)
+-----エネミー (-----Enemy)
+連続攻撃 (Multi-Strike)
+２回攻撃 (Double Attack)
+３回攻撃 (Triple Attack)
+逃げる (Escape)
+様子を見る (Observe)
+吸血 (Life Drain)
+瞑想 (Meditation)
+痺れ針 (Numbing Needle)
+体当たり (Body Slam)
+電撃 (Electric Shock)
+粘液 (Mucus)
+毒液 (Venom)
+咆哮 (Roar)
+奇妙なダンス (Strange Dance)
+麻痺睨み (Paralyzing Glare)
+目潰し (Blind)
+砂けむり (Sand Cloud)
+閃光 (Flash)
+猛毒の霧 (Deadly Poison Mist)
+子守唄 (Lullaby)
+誘惑の歌 (Song of Temptation)
+沈黙の歌 (Song of Silence)
+超音波 (Ultrasound)
+石つぶて (Stone Pellet)
+鎌いたち (Wind Scythe)
+ファイアブレス (Fire Breath)
+アイスブレス (Ice Breath)
+地震 (Earthquake)
+津波 (Tsunami)
+ひっかく (Scratch)
+-----基本の魔法 (-----Basic Magic)
+ヒールⅠ (Heal I)
+ヒールⅡ (Heal II)
+ヒールⅢ (Heal III)
+リカバーⅠ (Recover I)
+リカバーⅡ (Recover II)
+リカバーⅢ (Recover III)
+キュアーⅠ (Cure I)
+キュアーⅡ (Cure II)
+キュアーⅢ (Cure III)
+レイズⅠ (Raise I)
+レイズⅡ (Raise II)
+ポイズン (Poison)
+ブラインド (Blind)
+コンフューズ (Confuse)
+サイレンス (Silence)
+スリープ (Sleep)
+パラライズ (Paralyze)
+ウェポンブレス (Weapon Bless)
+ウェポンカース (Weapon Curse)
+アーマーブレス (Armor Bless)
+アーマーカース (Armor Curse)
+スピリットブレス (Spirit Bless)
+スピリットカース (Spirit Curse)
+ディバインブレス (Divine Bless)
+ディバインカース (Divine Curse)
+クイックムーブ (Quick Move)
+スロームーブ (Slow Move)
+ライフドレイン (Life Drain)
+マナドレイン (Mana Drain)
+ファイアⅠ (Fire I)
+ファイアⅡ (Fire II)
+ファイアⅢ (Fire III)
+フレイムⅠ (Flame I)
+フレイムⅡ (Flame II)
+フレイムⅢ (Flame III)
+アイスⅠ (Ice I)
+アイスⅡ (Ice II)
+アイスⅢ (Ice III)
+ブリザードⅠ (Blizzard I)
+ブリザードⅡ (Blizzard II)
+ブリザードⅢ (Blizzard III)
+サンダーⅠ (Thunder I)
+サンダーⅡ (Thunder II)
+サンダーⅢ (Thunder III)
+スパークⅠ (Spark I)
+スパークⅡ (Spark II)
+スパークⅢ (Spark III)
+ウォーターⅠ (Water I)
+ウォーターⅡ (Water II)
+ウェーブⅠ (Wave I)
+ウェーブⅡ (Wave II)
+ストーンⅠ (Stone I)
+ストーンⅡ (Stone II)
+クェイクⅠ (Quake I)
+クェイクⅡ (Quake II)
+ウインドⅠ (Wind I)
+ウインドⅡ (Wind II)
+トルネードⅠ (Tornado I)
+トルネードⅡ (Tornado II)
+セイントⅠ (Saint I)
+セイントⅡ (Saint II)
+スターライトⅠ (Starlight I)
+スターライトⅡ (Starlight II)
+シェイドⅠ (Shade I)
+シェイドⅡ (Shade II)
+ダークネスⅠ (Darkness I)
+ダークネスⅡ (Darkness II)
+バーストⅠ (Burst I)
+バーストⅡ (Burst II)
+ニュークリアⅠ (Nuclear I)
+ニュークリアⅡ (Nuclear II)
+-----剣士系スキル (-----Swordsman-Type Skills)
+強撃 (Power Strike)
+薙ぎ払い (Sweep)
+気合い (Battle Cry)
+応急処置 (First Aid)
+乙女の構え (Maiden's Stance)
+スピンクラッシュ (Spin Crush)
+-----僧侶・魔法使い系スキル (-----Priest/Mage-Type Skills)
+マジックバリア (Magic Barrier)
+スペルエンハンス (Spell Enhance)
+エール (Cheer)
+メテオ (Meteor)
+ファイアウェポン (Fire Weapon)
+アイスウェポン (Ice Weapon)
+サンダーウェポン (Thunder Weapon)
+マジックミラー (Magic Mirror)
+-----騎士系スキル (-----Knight Skills)
+かばう (Cover)
+隼突き (Falcon Thrust)
+二段突き (Double Thrust)
+鎧通し (Armor Pierce)
+一喝 (Shout)
+風車 (Windmill)
+心頭滅却 (Clear Mind)
+乱れ突き (Wild Thrust)
+-----盗賊系スキル (-----Thief Skills)
+準備運動 (Warm-Up)
+閃光弾 (Flashbang)
+隙をうかがう (Watch for an Opening)
+風呼び (Wind Call)
+隠れる (Hide)
+-----格闘家系スキル (-----Martial Artist Skills)
+足払い (Foot Sweep)
+気孔術 (Breathing Technique)
+回し蹴り (Roundhouse Kick)
+猛虎乱舞 (Raging Tiger Fury)
+-----狩人系スキル (-----Hunter Skills)
+ポイントショット (Point Shot)
+スタンショット (Stun Shot)
+チームショット (Team Shot)
+レインショット (Rain Shot)
 
 # ── Base Glossary (auto-appended from glossary_base.txt — do not edit below) ──
 # Honorifics

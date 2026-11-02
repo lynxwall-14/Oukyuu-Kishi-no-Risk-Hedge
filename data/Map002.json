@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "毒蛇魔神の神殿",
+    "displayName": "Temple of the Viper Demon",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4510,8 +4510,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それから半月後、毒蛇魔人の神殿にて。"
-                            ]
+                                "Half a month later, at the Viper Demon's temple."
+                            ],
+                            "_original": "それから半月後、毒蛇魔人の神殿にて。"
                         },
                         {
                             "code": 205,
@@ -4801,15 +4802,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようやく見つけましたよ、毒蛇魔人。"
-                            ]
+                                "I've finally found you, Viper Demon."
+                            ],
+                            "_original": "ようやく見つけましたよ、毒蛇魔人。"
                         },
                         {
                             "code": 101,
@@ -4819,15 +4822,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふむ、まさかこの神殿までたどり着くとは…"
-                            ]
+                                "Hmm, to think you would make it all the way to this\ntemple..."
+                            ],
+                            "_original": "ふむ、まさかこの神殿までたどり着くとは…"
                         },
                         {
                             "code": 357,
@@ -4896,22 +4901,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの程度の毒蛇では足止めにもなりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…人々の安寧を脅かす魔物よ、覚悟なさい。"
-                            ]
+                                "Vipers of that caliber couldn't even slow me down. ...Fiend\nwho threatens the people's peace, prepare yourself."
+                            ],
+                            "_original": "あの程度の毒蛇では足止めにもなりません。\n…人々の安寧を脅かす魔物よ、覚悟なさい。"
                         },
                         {
                             "code": 235,
@@ -4928,15 +4928,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これが王宮騎士、少々侮っていたようです。"
-                            ]
+                                "So this is a Royal Knight. It seems I underestimated you\nsomewhat."
+                            ],
+                            "_original": "これが王宮騎士、少々侮っていたようです。"
                         },
                         {
                             "code": 101,
@@ -4946,22 +4948,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "確かに、警備用の蛇達では相手にならない様子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では…"
-                            ]
+                                "Indeed, my guard snakes appear to be no match for you. Well\nthen..."
+                            ],
+                            "_original": "確かに、警備用の蛇達では相手にならない様子。\nでは…"
                         },
                         {
                             "code": 250,
@@ -5003,15 +5000,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私が直々に召喚した精鋭であれば、いかがでしょう？"
-                            ]
+                                "How would you fare against elite troops summoned by my own\nhand?"
+                            ],
+                            "_original": "私が直々に召喚した精鋭であれば、いかがでしょう？"
                         },
                         {
                             "code": 122,
@@ -5257,15 +5256,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ありえない…あの数を一瞬で…！"
-                            ]
+                                "Impossible...that many, wiped out in an instant...!"
+                            ],
+                            "_original": "ありえない…あの数を一瞬で…！"
                         },
                         {
                             "code": 357,
@@ -5334,22 +5335,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今のが奥の手ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "であれば、これで終わりです。"
-                            ]
+                                "Was that your trump card? If so, then this ends here."
+                            ],
+                            "_original": "今のが奥の手ですか？\nであれば、これで終わりです。"
                         },
                         {
                             "code": 101,
@@ -5359,15 +5355,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふ、油断しましたね！この距離ならば！"
-                            ]
+                                "Hmph, you let your guard down! At this distance...!"
+                            ],
+                            "_original": "ふ、油断しましたね！この距離ならば！"
                         },
                         {
                             "code": 101,
@@ -5377,8 +5375,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -5404,15 +5403,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…はぁ…"
-                            ]
+                                "Hah...hah..."
+                            ],
+                            "_original": "はぁ…はぁ…"
                         },
                         {
                             "code": 101,
@@ -5422,29 +5423,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ど、どうです！最大濃度の毒霧！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒に耐性のある私の肉体ごと腐食させるほどの威力！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら王宮騎士といえど所詮は人間、骨の髄までグズグズに…！"
-                            ]
+                                "W-what do you think!? My maximum-concentration poison mist!\nPotent enough to corrode even my own poison-resistant flesh!\nRoyal Knight or not, you're still only human―melted to the\nvery marrow...!"
+                            ],
+                            "_original": "ど、どうです！最大濃度の毒霧！\n毒に耐性のある私の肉体ごと腐食させるほどの威力！\nいくら王宮騎士といえど所詮は人間、骨の髄までグズグズに…！"
                         },
                         {
                             "code": 101,
@@ -5454,8 +5443,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -5531,15 +5521,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "グズグズというか…ヌメヌメして少々気持ち悪いですね。"
-                            ]
+                                "Rather than melted...it's more slimy, which is somewhat\nunpleasant."
+                            ],
+                            "_original": "グズグズというか…ヌメヌメして少々気持ち悪いですね。"
                         },
                         {
                             "code": 101,
@@ -5549,15 +5541,17 @@
                                 0,
                                 0,
                                 2,
-                                "毒蛇魔人"
-                            ]
+                                "Viper Demon"
+                            ],
+                            "_original": "毒蛇魔人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、そんな馬鹿なー！！！！"
-                            ]
+                                "Th-this can't be!!!!"
+                            ],
+                            "_original": "そ、そんな馬鹿なー！！！！"
                         },
                         {
                             "code": 205,
@@ -5705,15 +5699,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "任務遂行。"
-                            ]
+                                "Mission accomplished."
+                            ],
+                            "_original": "任務遂行。"
                         },
                         {
                             "code": 357,
@@ -5782,22 +5778,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(毒を無効化できなければ、苦戦していたかもしれません…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " サザンナに感謝しなければ。)"
-                            ]
+                                "(Had I been unable to nullify the poison, this might have\nbeen a difficult battle... I must thank Sazanna.)"
+                            ],
+                            "_original": "(毒を無効化できなければ、苦戦していたかもしれません…\n サザンナに感謝しなければ。)"
                         },
                         {
                             "code": 122,

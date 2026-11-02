@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "村長の家",
+    "displayName": "Village Chief's House",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1543,22 +1543,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアさん、村の危機を救っていただき本当に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありがとうございます。感謝してもしきれません…！"
-                            ]
+                                "Lorentia-san, thank you so much for saving the village. I\ncan't thank you enough...!"
+                            ],
+                            "_original": "ロレンチアさん、村の危機を救っていただき本当に\nありがとうございます。感謝してもしきれません…！"
                         },
                         {
                             "code": 0,
@@ -1640,8 +1635,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、村長の家で山菜の天ぷらをご馳走になった。"
-                            ]
+                                "Afterwards, the Village Chief treated her to wild vegetable\ntempura at his house."
+                            ],
+                            "_original": "その後、村長の家で山菜の天ぷらをご馳走になった。"
                         },
                         {
                             "code": 231,
@@ -1726,22 +1722,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても美味しかったです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どのお野菜からも、自然な甘みが感じられました。"
-                            ]
+                                "It was truly delicious. Every vegetable had a natural\nsweetness to it."
+                            ],
+                            "_original": "とても美味しかったです。\nどのお野菜からも、自然な甘みが感じられました。"
                         },
                         {
                             "code": 101,
@@ -1751,22 +1742,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お口に合ったようで良かったです…！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また機会があればご馳走しますね。"
-                            ]
+                                "I'm so glad it suited your taste...! I'll treat you again if\nthe chance comes up."
+                            ],
+                            "_original": "お口に合ったようで良かったです…！\nまた機会があればご馳走しますね。"
                         },
                         {
                             "code": 101,
@@ -1776,29 +1762,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、言い忘れていました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿屋の公衆浴場の整備が終わりましたので、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日の夕方より自由にご入浴いただけるんです。"
-                            ]
+                                "Ah, I forgot to mention! The maintenance on the inn's public\nbath is finished, so you'll be free to use it starting\ntomorrow evening."
+                            ],
+                            "_original": "あ、言い忘れていました！\n宿屋の公衆浴場の整備が終わりましたので、\n明日の夕方より自由にご入浴いただけるんです。"
                         },
                         {
                             "code": 357,
@@ -1867,15 +1841,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "公衆浴場、ですか…？"
-                            ]
+                                "A public bath, you say...?"
+                            ],
+                            "_original": "公衆浴場、ですか…？"
                         },
                         {
                             "code": 357,
@@ -1944,15 +1920,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お風呂はありがたいのですが、その…"
-                            ]
+                                "A bath would be most welcome, but, well..."
+                            ],
+                            "_original": "お風呂はありがたいのですが、その…"
                         },
                         {
                             "code": 101,
@@ -1969,22 +1947,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは、男性しかいない村の様子を思い出した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女性や子供は毒蛇魔人の影響が落ち着く間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "麓の集落へ避難しているのだろう。つまり―"
-                            ]
+                                "Lorentia recalled the state of the village, where only men\nremained. The women and children must have evacuated to the\nsettlement at the foot of the mountain until the Viper\nDemon's influence died down. In other words―"
+                            ],
+                            "_original": "ロレンチアは、男性しかいない村の様子を思い出した。\n女性や子供は毒蛇魔人の影響が落ち着く間、\n麓の集落へ避難しているのだろう。つまり―"
                         },
                         {
                             "code": 101,
@@ -1994,29 +1959,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい…大変申し訳ないのですが、今は混浴なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒蛇魔人が来る前は、女性専用の銭湯もあったんですが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "破壊されてしまって…"
-                            ]
+                                "Yes... I'm terribly sorry, but for now it's mixed bathing.\nBefore the Viper Demon came, there was a women-only\nbathhouse, but it was destroyed..."
+                            ],
+                            "_original": "はい…大変申し訳ないのですが、今は混浴なんです。\n毒蛇魔人が来る前は、女性専用の銭湯もあったんですが\n破壊されてしまって…"
                         },
                         {
                             "code": 101,
@@ -2026,29 +1979,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そうだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実のところ、水質や設備の点検は既に完了していて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残すは備品の補充だけなんです。"
-                            ]
+                                "...That's right! As it happens, the water quality and\nfacility inspections are already complete. All that's left\nis restocking the supplies."
+                            ],
+                            "_original": "…そうだ！\n実のところ、水質や設備の点検は既に完了していて、\n残すは備品の補充だけなんです。"
                         },
                         {
                             "code": 101,
@@ -2058,29 +1999,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "明日の正午までの間、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロレンチアさんが貸し切りで使用できるよう手配しますが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかがでしょう？"
-                            ]
+                                "I can arrange for you to have the bath all to yourself until\nnoon tomorrow, Lorentia-san. How does that sound?"
+                            ],
+                            "_original": "明日の正午までの間、\nロレンチアさんが貸し切りで使用できるよう手配しますが、\nいかがでしょう？"
                         },
                         {
                             "code": 357,
@@ -2149,15 +2078,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貸し切り…"
-                            ]
+                                "All to myself..."
+                            ],
+                            "_original": "貸し切り…"
                         },
                         {
                             "code": 357,
@@ -2226,15 +2157,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…確かに魅力的ですね。リラックスできそうです。"
-                            ]
+                                "...That is certainly appealing. It sounds like I could\nrelax."
+                            ],
+                            "_original": "…確かに魅力的ですね。リラックスできそうです。"
                         },
                         {
                             "code": 235,
@@ -2251,22 +2184,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい！遠慮せずご利用ください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台に伝えておきますね！"
-                            ]
+                                "Yes! Please don't hold back―make full use of it! I'll let\nthe bath attendant know!"
+                            ],
+                            "_original": "はい！遠慮せずご利用ください！\n番台に伝えておきますね！"
                         },
                         {
                             "code": 122,
@@ -2338,22 +2266,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…いたた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒蛇に襲われた時、足を挫いちゃったかも…"
-                            ]
+                                "...Ow, ow. I think I twisted my ankle when the vipers\nattacked..."
+                            ],
+                            "_original": "…いたた。\n毒蛇に襲われた時、足を挫いちゃったかも…"
                         },
                         {
                             "code": 0,
@@ -2465,22 +2388,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアさん、山賊の件は大変でしたね…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんなの前で…は、裸に…うぅ、想像するとおちんちんが…"
-                            ]
+                                "Lorentia-san, that whole business with the bandits must have\nbeen awful... in front of everyone... you were stripped\nn-naked... ugh, just picturing it makes my willy..."
+                            ],
+                            "_original": "ロレンチアさん、山賊の件は大変でしたね…\nみんなの前で…は、裸に…うぅ、想像するとおちんちんが…"
                         },
                         {
                             "code": 0,
@@ -2541,15 +2459,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアさん？どうしました？"
-                            ]
+                                "Lorentia-san? What's the matter?"
+                            ],
+                            "_original": "ロレンチアさん？どうしました？"
                         },
                         {
                             "code": 357,
@@ -2618,28 +2538,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(彼であれば、どうにか…)"
-                            ]
+                                "(If it's him, maybe I can manage somehow...)"
+                            ],
+                            "_original": "(彼であれば、どうにか…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "村長を騙す",
-                                    "考え直す"
+                                    "Trick the Village Chief",
+                                    "Rethink it"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "村長を騙す",
+                                "考え直す"
                             ]
                         },
                         {
@@ -2733,22 +2659,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "村長さんに折り行ってご相談が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実は先ほど、毒蛇の猛毒を浴びてしまって…"
-                            ]
+                                "Chief, I have a private matter to discuss with you. The\ntruth is, just earlier I was splashed with the Viper's\ndeadly venom..."
+                            ],
+                            "_original": "村長さんに折り行ってご相談が。\n実は先ほど、毒蛇の猛毒を浴びてしまって…"
                         },
                         {
                             "code": 101,
@@ -2758,22 +2679,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "え？…え！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんで服を脱いで…あぁ…！？"
-                            ]
+                                "Huh? ...Huh!? Why are you taking off your clothes...\naah...!?"
+                            ],
+                            "_original": "え？…え！？\nなんで服を脱いで…あぁ…！？"
                         },
                         {
                             "code": 230,
@@ -2839,15 +2755,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -2922,15 +2832,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -2947,8 +2851,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング5 村長に…"
-                            ]
+                                "Ending 5: By the Village Chief..."
+                            ],
+                            "_original": "エンディング5 村長に…"
                         },
                         {
                             "code": 101,
@@ -2965,8 +2870,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,
@@ -3105,8 +3011,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中庭へ向かう扉の前で、立ち尽くす村長の姿があった。"
-                            ]
+                                "In front of the door leading to the courtyard stood the\nVillage Chief, rooted to the spot."
+                            ],
+                            "_original": "中庭へ向かう扉の前で、立ち尽くす村長の姿があった。"
                         },
                         {
                             "code": 231,
@@ -3191,15 +3098,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長さん、大丈夫ですか？"
-                            ]
+                                "Chief, are you alright?"
+                            ],
+                            "_original": "村長さん、大丈夫ですか？"
                         },
                         {
                             "code": 101,
@@ -3209,29 +3118,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ろ、ロレンチアさん！？何でしょう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクはただお風呂に入ろうか悩んでただけで…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいたた…"
-                            ]
+                                "L-Lorentia-san!? What is it! I was just debating whether to\ntake a bath or not... Ow, ow..."
+                            ],
+                            "_original": "ろ、ロレンチアさん！？何でしょう！\nボクはただお風呂に入ろうか悩んでただけで…\nあいたた…"
                         },
                         {
                             "code": 101,
@@ -3241,15 +3138,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村長の細い足首がわずかに赤く腫れていた。"
-                            ]
+                                "The chief's slender ankle was faintly red and swollen."
+                            ],
+                            "_original": "村長の細い足首がわずかに赤く腫れていた。"
                         },
                         {
                             "code": 357,
@@ -3318,15 +3217,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その腫れ…もしかして昨日の朝に？"
-                            ]
+                                "That swelling... could it be from yesterday morning?"
+                            ],
+                            "_original": "その腫れ…もしかして昨日の朝に？"
                         },
                         {
                             "code": 101,
@@ -3336,15 +3237,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "は、はい。毒蛇に追われてる最中に捻ってしまい…"
-                            ]
+                                "Y-yes. I twisted it while I was being chased by the\nvipers..."
+                            ],
+                            "_original": "は、はい。毒蛇に追われてる最中に捻ってしまい…"
                         },
                         {
                             "code": 101,
@@ -3354,22 +3257,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから公衆浴場へ向かおうとしたのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまで歩く自信がありませんでした。"
-                            ]
+                                "I've been meaning to make my way to the public bath since\nthen, but I wasn't confident I could walk that far."
+                            ],
+                            "_original": "あれから公衆浴場へ向かおうとしたのですが、\nそこまで歩く自信がありませんでした。"
                         },
                         {
                             "code": 101,
@@ -3379,22 +3277,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ウチのお風呂に入ろうと思っても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中庭にあるのは高さのある壺湯で、よじ登ることもできず…"
-                            ]
+                                "And even when I think about using our own bath, the one in\nthe courtyard is a tall pot bath, and I can't climb up into\nit..."
+                            ],
+                            "_original": "ウチのお風呂に入ろうと思っても\n中庭にあるのは高さのある壺湯で、よじ登ることもできず…"
                         },
                         {
                             "code": 235,
@@ -3470,35 +3363,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すみません、もっと早く気づくべきでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かお手伝いを―"
-                            ]
+                                "I'm sorry, I should have noticed sooner. Let me help you\nwith―"
+                            ],
+                            "_original": "すみません、もっと早く気づくべきでした。\n何かお手伝いを―"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入浴補助を申し出る",
-                                    "やめておく"
+                                    "Offer to help him bathe",
+                                    "Better not"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "入浴補助を申し出る",
+                                "やめておく"
                             ]
                         },
                         {
@@ -3576,15 +3468,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "お風呂、お手伝いしましょうか？"
-                            ]
+                                "Shall I help you with your bath?"
+                            ],
+                            "_original": "お風呂、お手伝いしましょうか？"
                         },
                         {
                             "code": 357,
@@ -3653,15 +3547,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "一緒に入れば、転倒してしまう危険性を減らせます。"
-                            ]
+                                "If we go in together, it will reduce the risk of you\nfalling."
+                            ],
+                            "_original": "一緒に入れば、転倒してしまう危険性を減らせます。"
                         },
                         {
                             "code": 101,
@@ -3671,22 +3567,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "えぇ…！？そんな、悪いですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そもそもアレは一人用のお風呂ですので…！"
-                            ]
+                                "Whaaat...!? I couldn't let you do that! Besides, that's a\none-person bath to begin with...!"
+                            ],
+                            "_original": "えぇ…！？そんな、悪いですよ！\nそもそもアレは一人用のお風呂ですので…！"
                         },
                         {
                             "code": 357,
@@ -3755,22 +3646,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "遠慮なさらず。一宿一飯の恩義というものです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ご安心を、私がしっかり身体を支えます。"
-                            ]
+                                "No need to hold back. It's my debt of gratitude for room and\nboard. Rest assured, I'll support your body firmly."
+                            ],
+                            "_original": "遠慮なさらず。一宿一飯の恩義というものです。\nご安心を、私がしっかり身体を支えます。"
                         },
                         {
                             "code": 117,
@@ -3844,15 +3730,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -3927,15 +3807,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"'Who on earth knocked up a lady knight that brilliant?'\nEven today, it's all anyone at the palace talks about.\""
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -3952,8 +3826,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング1 介助中に…"
-                            ]
+                                "Ending 1 While Assisting..."
+                            ],
+                            "_original": "エンディング1 介助中に…"
                         },
                         {
                             "code": 101,
@@ -3970,8 +3845,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,
@@ -4092,22 +3968,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "(異性に入浴を補助されるのは、変に気を遣わせてしまうかも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                " しれませんね。)"
-                            ]
+                                "(Being helped in the bath by someone of the opposite sex\nmight make him feel self-conscious.)"
+                            ],
+                            "_original": "(異性に入浴を補助されるのは、変に気を遣わせてしまうかも\n しれませんね。)"
                         },
                         {
                             "code": 101,
@@ -4117,29 +3988,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "大丈夫ですよ、そこまでひどい怪我じゃないので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "数日すれば公衆浴場へ通えるくらいには回復してるはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とはいえ、ご心配いただきありがとうございます！"
-                            ]
+                                "I'm fine, it's not that bad an injury. In a few days I\nshould be recovered enough to get to the public bath. Still,\nthank you so much for worrying about me!"
+                            ],
+                            "_original": "大丈夫ですよ、そこまでひどい怪我じゃないので。\n数日すれば公衆浴場へ通えるくらいには回復してるはずです。\nとはいえ、ご心配いただきありがとうございます！"
                         },
                         {
                             "code": 0,

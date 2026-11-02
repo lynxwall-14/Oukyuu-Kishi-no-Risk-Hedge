@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "宿屋",
+    "displayName": "Inn",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1687,36 +1687,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒の影響が無いか、お湯の成分を検査中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご不便をおかけしますがご理解の程よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are currently testing the water for any lingering poison\ncontamination. We apologize for the inconvenience and\nappreciate your understanding. Bath Attendant"
+                            ],
+                            "_original": "毒の影響が無いか、お湯の成分を検査中です。\nご不便をおかけしますがご理解の程よろしくお願いします。\n番台"
                         },
                         {
                             "code": 205,
@@ -1871,29 +1852,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まもなく営業再開です。ご協力ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We will be reopening shortly. Thank you for your\ncooperation. Bath Attendant"
+                            ],
+                            "_original": "まもなく営業再開です。ご協力ありがとうございました。\n番台"
                         },
                         {
                             "code": 205,
@@ -2048,29 +2017,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正午まで清掃中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "Closed for cleaning until noon. -Bath Attendant"
+                            ],
+                            "_original": "正午まで清掃中。\n番台"
                         },
                         {
                             "code": 205,
@@ -2225,36 +2182,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒の影響が無いか、お湯の成分を検査中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご不便をおかけしますがご理解の程よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are currently testing the water for any lingering poison\ncontamination. We apologize for the inconvenience and\nappreciate your understanding. Bath Attendant"
+                            ],
+                            "_original": "毒の影響が無いか、お湯の成分を検査中です。\nご不便をおかけしますがご理解の程よろしくお願いします。\n番台"
                         },
                         {
                             "code": 205,
@@ -2346,29 +2284,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本日は営業終了です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are closed for the day. -Bath Attendant"
+                            ],
+                            "_original": "本日は営業終了です。\n番台"
                         },
                         {
                             "code": 205,
@@ -2460,29 +2386,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正午まで清掃中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "Closed for cleaning until noon. -Bath Attendant"
+                            ],
+                            "_original": "正午まで清掃中。\n番台"
                         },
                         {
                             "code": 205,
@@ -2646,36 +2560,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒の影響が無いか、お湯の成分を検査中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご不便をおかけしますがご理解の程よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are currently testing the water for any lingering poison\ncontamination. We apologize for the inconvenience and\nappreciate your understanding. Bath Attendant"
+                            ],
+                            "_original": "毒の影響が無いか、お湯の成分を検査中です。\nご不便をおかけしますがご理解の程よろしくお願いします。\n番台"
                         },
                         {
                             "code": 205,
@@ -2830,29 +2725,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "まもなく営業再開です。ご協力ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We will be reopening shortly. Thank you for your\ncooperation. Bath Attendant"
+                            ],
+                            "_original": "まもなく営業再開です。ご協力ありがとうございました。\n番台"
                         },
                         {
                             "code": 205,
@@ -3007,29 +2890,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正午まで清掃中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "Closed for cleaning until noon. -Bath Attendant"
+                            ],
+                            "_original": "正午まで清掃中。\n番台"
                         },
                         {
                             "code": 205,
@@ -3184,36 +3055,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒の影響が無いか、お湯の成分を検査中です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご不便をおかけしますがご理解の程よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are currently testing the water for any lingering poison\ncontamination. We apologize for the inconvenience and\nappreciate your understanding. Bath Attendant"
+                            ],
+                            "_original": "毒の影響が無いか、お湯の成分を検査中です。\nご不便をおかけしますがご理解の程よろしくお願いします。\n番台"
                         },
                         {
                             "code": 205,
@@ -3305,29 +3157,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本日は営業終了です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "We are closed for the day. -Bath Attendant"
+                            ],
+                            "_original": "本日は営業終了です。\n番台"
                         },
                         {
                             "code": 205,
@@ -3419,29 +3259,17 @@
                                 0,
                                 0,
                                 2,
-                                "張り紙"
-                            ]
+                                "Notice"
+                            ],
+                            "_original": "張り紙"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "正午まで清掃中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "番台"
-                            ]
+                                "Closed for cleaning until noon. -Bath Attendant"
+                            ],
+                            "_original": "正午まで清掃中。\n番台"
                         },
                         {
                             "code": 205,
@@ -3656,22 +3484,17 @@
                                 0,
                                 0,
                                 2,
-                                "番台"
-                            ]
+                                "Bath Attendant"
+                            ],
+                            "_original": "番台"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ騎士様！向かって右手が当館自慢の大浴場です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お気軽にご利用ください。…ああ、お代はいりませんよ！"
-                            ]
+                                "Welcome, Lady Knight! The main bath, our pride and joy, is\non your right. Feel free to use it as you please. ...Oh, and\nthere's no charge!"
+                            ],
+                            "_original": "ようこそ騎士様！向かって右手が当館自慢の大浴場です。\nお気軽にご利用ください。…ああ、お代はいりませんよ！"
                         },
                         {
                             "code": 0,
@@ -3805,22 +3628,17 @@
                                 0,
                                 0,
                                 2,
-                                "番台"
-                            ]
+                                "Bath Attendant"
+                            ],
+                            "_original": "番台"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、騎士様…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのお姿でロビーまで出てこられては困ります！"
-                            ]
+                                "L-Lady Knight...!? You can't come out to the lobby looking\nlike that!"
+                            ],
+                            "_original": "き、騎士様…！？\nそのお姿でロビーまで出てこられては困ります！"
                         },
                         {
                             "code": 201,
@@ -4012,15 +3830,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日村長さんを襲った毒蛇の数…気がかりですね。"
-                            ]
+                                "The number of vipers that attacked the Chief yesterday...\nit's a cause for concern."
+                            ],
+                            "_original": "昨日村長さんを襲った毒蛇の数…気がかりですね。"
                         },
                         {
                             "code": 357,
@@ -4089,15 +3909,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も西の林を見に行きましょう。"
-                            ]
+                                "Let's go check the West Woods again today."
+                            ],
+                            "_original": "今日も西の林を見に行きましょう。"
                         },
                         {
                             "code": 122,
@@ -4279,29 +4101,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事山賊は捕らえられましたが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの姿で戦ったせいか、村人の皆さんの態度が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わってしまったような気がしますね。"
-                            ]
+                                "The bandits were captured without incident... But perhaps\nbecause I fought in that state, I get the feeling the\nvillagers' attitudes toward me have changed."
+                            ],
+                            "_original": "無事山賊は捕らえられましたが…\nあの姿で戦ったせいか、村人の皆さんの態度が\n変わってしまったような気がしますね。"
                         },
                         {
                             "code": 357,
@@ -4370,15 +4180,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…今日はもう遅いですし、休むことにしましょう。"
-                            ]
+                                "...It's already late today, so I'll turn in for the night."
+                            ],
+                            "_original": "…今日はもう遅いですし、休むことにしましょう。"
                         },
                         {
                             "code": 122,
@@ -4510,22 +4322,17 @@
                                 0,
                                 0,
                                 2,
-                                "宿屋の主人"
-                            ]
+                                "Innkeeper"
+                            ],
+                            "_original": "宿屋の主人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ようこそ騎士様！向かって左手がロレンチア様のお部屋です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごゆるりとおくつろぎを。…ああ、お代は結構ですよ！"
-                            ]
+                                "Welcome, Lady Knight! Your room is on the left as you head\nin, Lady Lorentia. Please, make yourself at home. ...Oh, and\nno charge, of course!"
+                            ],
+                            "_original": "ようこそ騎士様！向かって左手がロレンチア様のお部屋です。\nごゆるりとおくつろぎを。…ああ、お代は結構ですよ！"
                         },
                         {
                             "code": 0,
@@ -4659,22 +4466,17 @@
                                 0,
                                 0,
                                 2,
-                                "番台"
-                            ]
+                                "Bath Attendant"
+                            ],
+                            "_original": "番台"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "き、騎士様…！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのお姿でロビーまで出てこられては困ります！"
-                            ]
+                                "L-Lady Knight...!? You can't come out to the lobby looking\nlike that!"
+                            ],
+                            "_original": "き、騎士様…！？\nそのお姿でロビーまで出てこられては困ります！"
                         },
                         {
                             "code": 201,
@@ -4815,22 +4617,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も林を巡回しましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒蛇の数が減ってくれているといいのですが。"
-                            ]
+                                "Let's patrol the forest again today. I do hope the vipers'\nnumbers have thinned."
+                            ],
+                            "_original": "今日も林を巡回しましょう。\n毒蛇の数が減ってくれているといいのですが。"
                         },
                         {
                             "code": 122,
@@ -5149,22 +4946,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サウナはいいのう…意識がふーっとして…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世のものとは思えぬ良い心地での…"
-                            ]
+                                "Ahh, the sauna's a fine thing... It makes your head go all\nfloaty... Feels so good you'd swear you weren't in this\nworld anymore..."
+                            ],
+                            "_original": "サウナはいいのう…意識がふーっとして…\nこの世のものとは思えぬ良い心地での…"
                         },
                         {
                             "code": 0,
@@ -5336,22 +5128,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅ、風呂上がりの一杯は最高だな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明日の畑仕事も頑張れそうだ！"
-                            ]
+                                "Phew, nothing beats a drink after a bath! Now I'm ready to\ngive the fields my all tomorrow!"
+                            ],
+                            "_original": "ふぅ、風呂上がりの一杯は最高だな！\n明日の畑仕事も頑張れそうだ！"
                         },
                         {
                             "code": 0,
@@ -5472,22 +5259,17 @@
                                 0,
                                 0,
                                 2,
-                                "警備員"
-                            ]
+                                "Security Guard"
+                            ],
+                            "_original": "警備員"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "私がいる限りこの宿屋の安全は保証されているも同然！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ…騎士様はご自身で身の安全を守ることができますね…"
-                            ]
+                                "As long as I'm here, this inn's safety is as good as\nguaranteed! Ah... but a Lady Knight can protect herself,\ncan't she..."
+                            ],
+                            "_original": "私がいる限りこの宿屋の安全は保証されているも同然！\nあ…騎士様はご自身で身の安全を守ることができますね…"
                         },
                         {
                             "code": 0,
@@ -5577,15 +5359,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お風呂？入りませんよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって私、タダの鎧ですから！"
-                            ]
+                                "A bath? Count me out! I'm just a suit of armor, after all!"
+                            ],
+                            "_original": "お風呂？入りませんよ！\nだって私、タダの鎧ですから！"
                         },
                         {
                             "code": 123,
@@ -5661,15 +5437,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鎧は何も語らない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは最初からただの調度品だ。"
-                            ]
+                                "The armor said nothing. It had been a mere furnishing from\nthe start."
+                            ],
+                            "_original": "鎧は何も語らない。\nこれは最初からただの調度品だ。"
                         },
                         {
                             "code": 0,
@@ -5739,22 +5509,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こんな辺鄙な土地の宿屋なんてすぐ潰れちまいそうなもんだが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体どうやって経営してるんだ？"
-                            ]
+                                "An inn out in the sticks like this oughta go under in no\ntime. How the heck do they even keep the place running?"
+                            ],
+                            "_original": "こんな辺鄙な土地の宿屋なんてすぐ潰れちまいそうなもんだが、\n一体どうやって経営してるんだ？"
                         },
                         {
                             "code": 0,
@@ -5815,15 +5580,17 @@
                                 0,
                                 0,
                                 2,
-                                "利用客"
-                            ]
+                                "Patron"
+                            ],
+                            "_original": "利用客"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様がいれば、山賊も毒蛇も怖くないね。"
-                            ]
+                                "With a Lady Knight around, we've got nothing to fear from\nbandits or vipers."
+                            ],
+                            "_original": "騎士様がいれば、山賊も毒蛇も怖くないね。"
                         },
                         {
                             "code": 0,
@@ -6003,22 +5770,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昨日見た限りでは、西の林の毒蛇はかなり減ってきたように"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "思えます。今はどうなっているでしょうか。"
-                            ]
+                                "From what I saw yesterday, the vipers in the West Woods\nseemed to have thinned out considerably. How are they faring\nnow?"
+                            ],
+                            "_original": "昨日見た限りでは、西の林の毒蛇はかなり減ってきたように\n思えます。今はどうなっているでしょうか。"
                         },
                         {
                             "code": 122,

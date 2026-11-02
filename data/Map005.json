@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "鍛冶屋",
+    "displayName": "Blacksmith",
     "encounterList": [],
     "encounterStep": 30,
     "height": 13,
@@ -1543,29 +1543,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりご覧になってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と言っても、王宮騎士様のお眼鏡にかなう品は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分無いでしょうね…"
-                            ]
+                                "Please, take your time looking! Though I doubt we have\nanything that would meet a Royal Knight's standards..."
+                            ],
+                            "_original": "ゆっくりご覧になってください！\nと言っても、王宮騎士様のお眼鏡にかなう品は\n多分無いでしょうね…"
                         },
                         {
                             "code": 0,
@@ -1626,29 +1614,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ゆっくりご覧になってください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "と言っても、王宮騎士様のお眼鏡にかなう品は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分無いでしょうね…"
-                            ]
+                                "Please, take your time looking around! Though I doubt\nthere's anything here that would meet a Royal Knight's\nstandards..."
+                            ],
+                            "_original": "ゆっくりご覧になってください！\nと言っても、王宮騎士様のお眼鏡にかなう品は\n多分無いでしょうね…"
                         },
                         {
                             "code": 231,
@@ -1733,15 +1709,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(そういえば、替えの防具には毒耐性を付与していませんでした。)"
-                            ]
+                                "(Come to think of it, I never applied poison resistance to\nmy spare armor.)"
+                            ],
+                            "_original": "(そういえば、替えの防具には毒耐性を付与していませんでした。)"
                         },
                         {
                             "code": 357,
@@ -1810,22 +1788,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(村長さんを守ったときのように、不意に毒蛇の腐食液を浴びて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                " しまう可能性は否定できません…)"
-                            ]
+                                "(Just as when I protected the Chief, I can't rule out the\npossibility of being doused in viper corrosive fluid without\nwarning...)"
+                            ],
+                            "_original": "(村長さんを守ったときのように、不意に毒蛇の腐食液を浴びて\n しまう可能性は否定できません…)"
                         },
                         {
                             "code": 357,
@@ -1894,15 +1867,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こちらで防具の毒耐性エンチャントは可能ですか？"
-                            ]
+                                "Is it possible to apply a poison-resistance enchantment to\narmor here?"
+                            ],
+                            "_original": "こちらで防具の毒耐性エンチャントは可能ですか？"
                         },
                         {
                             "code": 101,
@@ -1912,22 +1887,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "えっと…可能ですが、持ち込みですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どちらの装備に付与しましょう？"
-                            ]
+                                "Um...it is, but is this a piece you've brought in? Which\nequipment should I apply it to?"
+                            ],
+                            "_original": "えっと…可能ですが、持ち込みですか？\nどちらの装備に付与しましょう？"
                         },
                         {
                             "code": 357,
@@ -1996,15 +1966,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今装備している上着です。"
-                            ]
+                                "The top I'm wearing right now."
+                            ],
+                            "_original": "今装備している上着です。"
                         },
                         {
                             "code": 101,
@@ -2021,15 +1993,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鍛冶屋は王宮騎士の豊満な体を包む生地の薄い防具を見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息を呑んだ。"
-                            ]
+                                "The blacksmith caught his breath at the sight of the\nthin-fabric armor wrapping the Royal Knight's voluptuous\nbody."
+                            ],
+                            "_original": "鍛冶屋は王宮騎士の豊満な体を包む生地の薄い防具を見て\n息を呑んだ。"
                         },
                         {
                             "code": 101,
@@ -2039,15 +2005,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(上着って…これ素肌に直接着てるよな！？)"
-                            ]
+                                "(That top...she's wearing it directly against her bare skin,\nisn't she!?)"
+                            ],
+                            "_original": "(上着って…これ素肌に直接着てるよな！？)"
                         },
                         {
                             "code": 101,
@@ -2057,22 +2025,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "も、申し訳ございません騎士様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当店、女性従業員がおりません。"
-                            ]
+                                "I-I'm terribly sorry, Lady Knight. This shop has no female\nemployees."
+                            ],
+                            "_original": "も、申し訳ございません騎士様。\n当店、女性従業員がおりません。"
                         },
                         {
                             "code": 101,
@@ -2082,29 +2045,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その、大変申し上げにくいのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バストの測量などは私が担当することになりまして…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士様のお肌に触れることもご承諾いただかないと…"
-                            ]
+                                "Well, this is very difficult for me to say, but measuring\nyour bust and the like would fall to me... I would need your\nconsent to touch your skin, Lady Knight..."
+                            ],
+                            "_original": "その、大変申し上げにくいのですが、\nバストの測量などは私が担当することになりまして…\n騎士様のお肌に触れることもご承諾いただかないと…"
                         },
                         {
                             "code": 235,
@@ -2180,28 +2131,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(業務上必要な行為とはいえ、男性に体を…)"
-                            ]
+                                "(It's a professionally necessary act, and yet...a man,\ntouching my body...)"
+                            ],
+                            "_original": "(業務上必要な行為とはいえ、男性に体を…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "承諾する",
-                                    "やめておく"
+                                    "Consent",
+                                    "Decline"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "承諾する",
+                                "やめておく"
                             ]
                         },
                         {
@@ -2279,15 +2236,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…構いません。すべてお任せします。"
-                            ]
+                                "...That's fine. I leave everything in your hands."
+                            ],
+                            "_original": "…構いません。すべてお任せします。"
                         },
                         {
                             "code": 101,
@@ -2297,15 +2256,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よろしいので！？で、では奥の腰掛けへ…"
-                            ]
+                                "It's alright!? Th-Then, please, take a seat in the back..."
+                            ],
+                            "_original": "よろしいので！？で、では奥の腰掛けへ…"
                         },
                         {
                             "code": 117,
@@ -2415,22 +2376,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そうですね…ではまた別の機会に。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ご配慮いただきありがとうございます。"
-                            ]
+                                "I see... Then perhaps another time. Thank you for your\nconsideration."
+                            ],
+                            "_original": "そうですね…ではまた別の機会に。\nご配慮いただきありがとうございます。"
                         },
                         {
                             "code": 0,
@@ -2501,22 +2457,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装備の調子はいかがでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調整が必要な場合はいつでもお声がけくださいね！"
-                            ]
+                                "How is your equipment holding up? If it needs any\nadjustments, please don't hesitate to let me know!"
+                            ],
+                            "_original": "装備の調子はいかがでしょう？\n調整が必要な場合はいつでもお声がけくださいね！"
                         },
                         {
                             "code": 0,
@@ -2577,22 +2528,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『王宮騎士、おっぱい丸出しで村民を救う』…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "セセラギ村じゃ末代まで語り継がれるだろうぜ。"
-                            ]
+                                "\"Royal Knight saves the villagers with her tits hanging\nout\"... That story'll be passed down in Seseragi Village for\ngenerations."
+                            ],
+                            "_original": "『王宮騎士、おっぱい丸出しで村民を救う』…\nセセラギ村じゃ末代まで語り継がれるだろうぜ。"
                         },
                         {
                             "code": 0,
@@ -2653,15 +2599,17 @@
                                 0,
                                 0,
                                 2,
-                                "鍛冶屋"
-                            ]
+                                "Blacksmith"
+                            ],
+                            "_original": "鍛冶屋"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おや騎士様！何かお探しでしょうか？"
-                            ]
+                                "Oh, Lady Knight! Are you looking for something?"
+                            ],
+                            "_original": "おや騎士様！何かお探しでしょうか？"
                         },
                         {
                             "code": 357,
@@ -2730,28 +2678,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(店主さんであれば、まだ信用できるでしょうか…)"
-                            ]
+                                "(If it's the Shopkeeper, perhaps I can still trust him...)"
+                            ],
+                            "_original": "(店主さんであれば、まだ信用できるでしょうか…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "鍛冶屋に性交渉を持ちかける",
-                                    "考え直す"
+                                    "Propose intercourse to the blacksmith",
+                                    "Reconsider"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "鍛冶屋に性交渉を持ちかける",
+                                "考え直す"
                             ]
                         },
                         {
@@ -2845,15 +2799,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "店主さん、少し特殊なご依頼なんですが…よろしいでしょうか。"
-                            ]
+                                "Shopkeeper, I have a rather unusual request...if you\nwouldn't mind."
+                            ],
+                            "_original": "店主さん、少し特殊なご依頼なんですが…よろしいでしょうか。"
                         },
                         {
                             "code": 230,
@@ -2919,15 +2875,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -3002,15 +2952,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -3027,8 +2971,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング7 鍛冶屋に…"
-                            ]
+                                "Ending 7 By the Blacksmith..."
+                            ],
+                            "_original": "エンディング7 鍛冶屋に…"
                         },
                         {
                             "code": 101,
@@ -3045,8 +2990,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,

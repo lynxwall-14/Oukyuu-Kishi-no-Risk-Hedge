@@ -11,7 +11,7 @@ var $plugins = [{
   "description": "メニューからコモンイベント呼び出しプラグイン (v.1.2.0)",
   "parameters": {
     "base": "",
-    "baseItems": "[\"{\\\"name\\\":\\\"ステータス\\\",\\\"commonEvent\\\":\\\"21\\\",\\\"switchId\\\":\\\"0\\\",\\\"visibility\\\":\\\"true\\\",\\\"note\\\":\\\"\\\"}\",\"{\\\"name\\\":\\\"性格変更\\\",\\\"commonEvent\\\":\\\"22\\\",\\\"switchId\\\":\\\"0\\\",\\\"visibility\\\":\\\"true\\\",\\\"note\\\":\\\"\\\"}\"]"
+    "baseItems": "[\"{\\\"name\\\":\\\"Status\\\",\\\"commonEvent\\\":\\\"21\\\",\\\"switchId\\\":\\\"0\\\",\\\"visibility\\\":\\\"true\\\",\\\"note\\\":\\\"\\\"}\",\"{\\\"name\\\":\\\"Personality\\\",\\\"commonEvent\\\":\\\"22\\\",\\\"switchId\\\":\\\"0\\\",\\\"visibility\\\":\\\"true\\\",\\\"note\\\":\\\"\\\"}\"]"
   }
 }, {
   "name": "DTextPicture",
@@ -71,11 +71,11 @@ var $plugins = [{
     "menuWindowPictureScale": "100",
     "menuHelpSettings": "",
     "menuHelpWindowEnable": "false",
-    "menuHelpTexts": "[\"{\\\"symbol\\\":\\\"アイテム\\\",\\\"helpText\\\":\\\"入手したアイテムを使用します。\\\"}\",\"{\\\"symbol\\\":\\\"スキル\\\",\\\"helpText\\\":\\\"習得したスキルを使用します。\\\"}\",\"{\\\"symbol\\\":\\\"装備\\\",\\\"helpText\\\":\\\"装備を変更します。\\\"}\",\"{\\\"symbol\\\":\\\"ステータス\\\",\\\"helpText\\\":\\\"ステータスを確認します。\\\"}\",\"{\\\"symbol\\\":\\\"並び替え\\\",\\\"helpText\\\":\\\"パーティの並び順を変更します。\\\"}\",\"{\\\"symbol\\\":\\\"オプション\\\",\\\"helpText\\\":\\\"オプション画面を開きます。\\\"}\",\"{\\\"symbol\\\":\\\"セーブ\\\",\\\"helpText\\\":\\\"セーブ画面を開きます。\\\"}\",\"{\\\"symbol\\\":\\\"ゲーム終了\\\",\\\"helpText\\\":\\\"ゲームを終了します。\\\"}\"]",
-    "leftBlockLabel": "現在地：",
+    "menuHelpTexts": "[\"{\\\"symbol\\\":\\\"アイテム\\\",\\\"helpText\\\":\\\"Use items you have obtained.\\\"}\",\"{\\\"symbol\\\":\\\"スキル\\\",\\\"helpText\\\":\\\"Use learned skills.\\\"}\",\"{\\\"symbol\\\":\\\"装備\\\",\\\"helpText\\\":\\\"Change equipment.\\\"}\",\"{\\\"symbol\\\":\\\"ステータス\\\",\\\"helpText\\\":\\\"Check status.\\\"}\",\"{\\\"symbol\\\":\\\"並び替え\\\",\\\"helpText\\\":\\\"Change party order.\\\"}\",\"{\\\"symbol\\\":\\\"オプション\\\",\\\"helpText\\\":\\\"Open the options screen.\\\"}\",\"{\\\"symbol\\\":\\\"セーブ\\\",\\\"helpText\\\":\\\"Open the save screen.\\\"}\",\"{\\\"symbol\\\":\\\"ゲーム終了\\\",\\\"helpText\\\":\\\"Quit the game.\\\"}\"]",
+    "leftBlockLabel": "Location:",
     "leftBlockValue": "$gameMap.displayName()",
     "leftBlockAlign": "left",
-    "rightBlockLabel": "プレイ時間：",
+    "rightBlockLabel": "Play Time:",
     "rightBlockValue": "$gameSystem.playtimeText()",
     "rightBlockAlign": "right",
     "rightBottomBlockLabel": "",
@@ -127,7 +127,7 @@ var $plugins = [{
   "description": "ストーリーの進行度に応じてセーブスロットの表示をカスタマイズします。",
   "parameters": {
     "progressVariableId": "3",
-    "slotSettings": "[\"{\\\"variableValue\\\":\\\"0\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"0日目：終わらぬ任務\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"1\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"1日目：思わぬ油断\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"2\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"2日目：尽きぬ襲来\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"3\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"3日目：冷めやらぬ興奮\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"4\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"4日目：拭えぬ懸念\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\"]",
+    "slotSettings": "[\"{\\\"variableValue\\\":\\\"0\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"Day 0: An Unending Mission\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"1\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"Day 1: An Unforeseen Lapse\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"2\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"Day 2: Unceasing Assaults\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"3\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"Day 3: Unabating Excitement\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\",\"{\\\"variableValue\\\":\\\"4\\\",\\\"pictureName\\\":\\\"\\\",\\\"text\\\":\\\"Day 4: Unshakable Misgivings\\\",\\\"textX\\\":\\\"144\\\",\\\"textY\\\":\\\"48\\\"}\"]",
     "drawPartyCharacters": "false"
   }
 }, {
@@ -193,32 +193,32 @@ var $plugins = [{
     "switchABButtons": "",
     "useSwitchABButtons": "true",
     "hideSwitchABButtonsIfGamepadUnconnected": "true",
-    "switchABButtonsName": "A/Bボタン入れ替え",
+    "switchABButtonsName": "Swap A/B Buttons",
     "defaultSwitchABButtons": "false",
     "fastMessage": "",
     "useFastMessage": "true",
     "waitTimeForFastMessage": "1",
     "buttonWaitForFastMessage": "true",
-    "fastMessageName": "メッセージ瞬間表示",
+    "fastMessageName": "Instant Message Display",
     "defaultFastMessage": "false",
     "dashSpeed": "",
     "useDashSpeed": "true",
-    "dashSpeedName": "ダッシュ速度",
+    "dashSpeedName": "Dash Speed",
     "defaultDashSpeed": "0",
     "windowskin": "",
     "useWindowskin": "true",
-    "windowskinName": "ウィンドウスキン",
+    "windowskinName": "Windowskin",
     "windowskins": "[\"Window\"]",
     "windowTone": "",
     "useWindowTone": "true",
-    "windowToneRedName": "ウィンドウカラーR",
-    "windowToneGreenName": "ウィンドウカラーG",
-    "windowToneBlueName": "ウィンドウカラーB",
+    "windowToneRedName": "Window Color R",
+    "windowToneGreenName": "Window Color G",
+    "windowToneBlueName": "Window Color B",
     "windowOpacity": "",
     "useWindowOpacity": "true",
-    "windowOpacityName": "ウィンドウ透明度",
+    "windowOpacityName": "Window Opacity",
     "defaultWindowOpacity": "195",
-    "defaultCommandName": "すべてデフォルトに戻す"
+    "defaultCommandName": "Reset All to Default"
   }
 }, {
   "name": "CustomizeConfigDefault",
@@ -245,7 +245,7 @@ var $plugins = [{
   "status": true,
   "description": "簡易ボイスプラグイン",
   "parameters": {
-    "optionName": "ボイス 音量",
+    "optionName": "Voice Volume",
     "optionValue": "100"
   }
 }, {

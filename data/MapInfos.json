@@ -3,138 +3,180 @@
     {
         "id": 1,
         "expanded": true,
-        "name": "西の林",
+        "name": "West Woods",
         "order": 13,
         "parentId": 0,
         "scrollX": 768.5,
-        "scrollY": 614
+        "scrollY": 614,
+        "_original": {
+            "name": "西の林"
+        }
     },
     {
         "id": 2,
         "expanded": true,
-        "name": "毒蛇魔神",
+        "name": "Viper Demon",
         "order": 12,
         "parentId": 0,
         "scrollX": 768.5,
-        "scrollY": 614
+        "scrollY": 614,
+        "_original": {
+            "name": "毒蛇魔神"
+        }
     },
     {
         "id": 3,
         "expanded": true,
-        "name": "セセラギ村",
+        "name": "Seseragi Village",
         "order": 4,
         "parentId": 0,
         "scrollX": 768.5,
-        "scrollY": 614
+        "scrollY": 614,
+        "_original": {
+            "name": "セセラギ村"
+        }
     },
     {
         "id": 4,
         "expanded": true,
-        "name": "村長の家",
+        "name": "Village Chief's House",
         "order": 5,
         "parentId": 3,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "村長の家"
+        }
     },
     {
         "id": 5,
         "expanded": true,
-        "name": "鍛冶屋",
+        "name": "Blacksmith",
         "order": 7,
         "parentId": 3,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "鍛冶屋"
+        }
     },
     {
         "id": 6,
         "expanded": true,
-        "name": "ロレンチアの部屋",
+        "name": "Lorentia's Room",
         "order": 6,
         "parentId": 3,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "ロレンチアの部屋"
+        }
     },
     {
         "id": 7,
         "expanded": false,
-        "name": "宿屋",
+        "name": "Inn",
         "order": 8,
         "parentId": 3,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "宿屋"
+        }
     },
     {
         "id": 8,
         "expanded": true,
-        "name": "銭湯",
+        "name": "Bathhouse",
         "order": 9,
         "parentId": 3,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "銭湯"
+        }
     },
     {
         "id": 9,
         "expanded": true,
-        "name": "サウナルーム",
+        "name": "Sauna Room",
         "order": 10,
         "parentId": 8,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "サウナルーム"
+        }
     },
     {
         "id": 10,
         "expanded": true,
-        "name": "脱衣所",
+        "name": "Changing Room",
         "order": 11,
         "parentId": 8,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "脱衣所"
+        }
     },
     {
         "id": 11,
         "expanded": true,
-        "name": "王宮の庭園",
+        "name": "Palace Garden",
         "order": 2,
         "parentId": 12,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "王宮の庭園"
+        }
     },
     {
         "id": 12,
         "expanded": true,
-        "name": "王都",
+        "name": "Royal Capital",
         "order": 1,
         "parentId": 0,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "王都"
+        }
     },
     {
         "id": 13,
         "expanded": true,
-        "name": "鑑賞ルーム",
+        "name": "Gallery Room",
         "order": 14,
         "parentId": 0,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "鑑賞ルーム"
+        }
     },
     {
         "id": 14,
         "expanded": false,
-        "name": "王都のバスルーム",
+        "name": "Royal Capital Bathroom",
         "order": 3,
         "parentId": 12,
         "scrollX": 767.5,
         "scrollY": 606,
-        "quick": false
+        "quick": false,
+        "_original": {
+            "name": "王都のバスルーム"
+        }
     }
 ]

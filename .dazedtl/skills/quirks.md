@@ -1,0 +1,35 @@
+# Translation quirks - 王宮騎士のリスクヘッジ
+
+- Narration is a wry, deadpan third-person past-tense narrator. Render dry asides about the absurd situation straight; never wink at the reader with added jokes.
+- Play the comedy on contrast: Lorentia stays clinical and composed while the men and the narration get crude or purple. Keep each side in its own register; don't soften the crude side or coarsen hers.
+- Title addresses: 騎士様 -> "Lady Knight", and 王宮騎士様 -> "Royal Knight" as a respectful address (do not render either as "-sama"). The katakana 騎士サマ / 王宮騎士サマ (Bandit Boss, one rude patron) is sarcastic -> "Miss Royal Knight"; keep it distinct from the respectful form.
+- Lorentia attaches さん to job titles (村長さん, 店主さん, 清掃員さん). Render these as plain polite title addresses ("Chief", "Shopkeeper", "the cleaner"), not "Chief-san". She addresses Sazanna by her bare name. Name honorifics follow the base policy.
+- 王宮騎士 is always "Royal Knight" and 任務 always "mission", so these callbacks connect:
+  - 王宮騎士の存在を知らない方がいるとは (Map003 EV13) pays off in 私の存在を知らない男性であれば…後腐れなく… (her reason for picking the Vagrant).
+  - The bandit's garbled おーきゅうきし？ (Map003 EV15).
+  - The prologue's 名誉ある王宮騎士の一人 is echoed in the final line 名誉ある王宮騎士として― (CE17).
+- Lorentia's bath-etiquette deadpan uses one fixed tag. 先にシャワーを浴びましょう、マナーです / 先ずはシャワーを浴びましょう、マナーです -> "...It's proper etiquette."; これもまたマナーです -> "This, too, is proper etiquette." Its siblings 随分失礼な椅子ですね and 失礼ですよね/失礼ですし keep 失礼 as "rude".
+- The Village Chief's 「おしっこ」 misunderstanding is a setup-and-payoff family (CE4, CE7, CE12). Always render おしっこ as "pee", never "cum" or "semen", and keep the quotation marks wherever the source has 「おしっこ」. Lorentia later lies that 解毒には男性のおしっこが必要; render it as a mock medical cure ("detox"), and keep her slip これで子作…解毒完了です as a cut-off self-correction ("baby-mak— detox complete").
+- 「アクシデント」 (prologue: アナタの想像しているような「アクシデント」は発生しません) and 事故 / 偶然 (CE8 これは事故のようなもの, CE16 これは事故で / 本当に偶然) are the same running joke. Use "accident" for both, and keep the prologue's scare quotes.
+- CE16 deliberately restages the CE8 accident (CE16 自作自演, 過剰に演技). Reuse the CE8 wording ("when I fell", "an accident") in CE16, and make her CE16 acting lines (あぁ、なんだか頭が～…, ああ…私、処女だったのに…) audibly hammy.
+- Render the discovery beat …はい？ (CE7, CE8) identically both times: "...Pardon?"
+- Ending epilogue lines are fixed text; reuse one rendering verbatim in every ending:
+  - あれから半年後。 -> "Six months later."
+  - 「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」 -> "'Who on earth knocked up a lady knight that brilliant?'"
+  - 今日も王宮内はその話題で持ちきりだ。 -> "Even today, it's all anyone at the palace talks about."
+  - 直前に戻ります。 -> "Returning to just before the scene."
+- Ending titles (エンディングN 介助中に… / 山賊に… / ロッカーで… / 覗き魔に… / 強引に…) are teasing fragments ending in an ellipsis. で -> "In/At the X...", a person + に -> "By the X...", 中に -> "While X...". Keep 鍛冶屋で… (CE2) distinct from 鍛冶屋に… (ending 7). Keep the source numbers as written (see the project notes on the duplicate 5).
+- Day titles are a parallel 〜ぬ series (終わらぬ任務 / 思わぬ油断 / 尽きぬ襲来 / 冷めやらぬ興奮 / 拭えぬ懸念). Keep them all in one "Un-" adjective pattern, exactly as glossed. The same strings also appear in the SaveSlotCustom plugin parameters and must match the in-dialogue text character for character.
+- The status screen's chastity lines encode the game's two halves. 〜に奪われた -> "Taken by X" (accidents and coercion), 〜に捧げた -> "Given to X" (her deliberate choice), 〜で処女喪失 / 〜ながら喪失 -> "Lost ...". Never merge these verbs.
+- The title pun lives on リスク. Translate every リスク / ハイリスク as "risk" / "high-risk" (妊娠につながるリスク, どんなリスクを背負わされても), never as "danger" or "gamble".
+- 半年 is always "six months", including Sazanna's 「半年くらい」 -> "'about six months'" with the quotes kept.
+- The source censors only ま◯こ / おま◯こ. Render it as a censored "p*ssy" every time, and leave every other vulgar word (ちんこ, ちんぽこ, オメコ, ザーメン) uncensored, as the source does.
+- Keep each line that is only a sound effect (ボルルン！, ぎゅむん。, ガサッ…, ぶらり。, パンパン！) as a standalone English sound effect, with no narration added. Use one rendering per root: ぎゅむ/ぎゅむん/ギュム -> "Squish", ボルン/ボルルン/ドブルン -> "Boing!" (bigger for ドブルン).
+- Keep the two personality choices parallel wherever they appear (CE22, Map006 EV6): 王宮騎士といえど裸を見られるのは人並みに恥ずかしい -> "Even a Royal Knight is as embarrassed as anyone to be seen naked." / 王宮騎士たるもの裸を晒した程度で動じることはない -> "A Royal Knight is not shaken by mere nudity."
+- The source has a few homophone typos that would mislead a literal reading; translate the intended word:
+  - 人質を開放 means 解放, "release the hostages" (CE6).
+  - 救援に迎えます means 向かえます, "head to the rescue" (Map008 EV4).
+  - 図って means 測って, "measuring" (CE2).
+  - 捕まって means 掴まって, "hold on" (CE4).
+  - 付き出そう means 突き出そう, "turn him in" (CE11).
+  - 折り行って means 折り入って, "a private matter" (Map004 EV3).

@@ -16,7 +16,7 @@
         "volume": 90
     },
     "disableDashing": false,
-    "displayName": "セセラギ村",
+    "displayName": "Seseragi Village",
     "encounterList": [],
     "encounterStep": 30,
     "height": 23,
@@ -4712,22 +4712,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご用の方はまた今度。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長"
-                            ]
+                                "If you need me, come back another time. ― Village Chief"
+                            ],
+                            "_original": "ご用の方はまた今度。\n村長"
                         },
                         {
                             "code": 205,
@@ -4889,22 +4876,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご用の方はまた今度。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長"
-                            ]
+                                "If you need me, come back another time. ― Village Chief"
+                            ],
+                            "_original": "ご用の方はまた今度。\n村長"
                         },
                         {
                             "code": 205,
@@ -5066,22 +5040,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご用の方はまた今度。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村長"
-                            ]
+                                "If you need me, come back another time. ― Village Chief"
+                            ],
+                            "_original": "ご用の方はまた今度。\n村長"
                         },
                         {
                             "code": 205,
@@ -5189,22 +5150,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "営業準備中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍛冶屋"
-                            ]
+                                "Preparing to open. Blacksmith"
+                            ],
+                            "_original": "営業準備中。\n鍛冶屋"
                         },
                         {
                             "code": 205,
@@ -5366,22 +5314,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "営業準備中。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍛冶屋"
-                            ]
+                                "Preparing to open. Blacksmith"
+                            ],
+                            "_original": "営業準備中。\n鍛冶屋"
                         },
                         {
                             "code": 205,
@@ -5482,22 +5417,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物とは戦いたくないので村で警備をしています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぉおお！"
-                            ]
+                                "I don't want to fight monsters, so I do guard duty here in\nthe village! Uwoooh!"
+                            ],
+                            "_original": "魔物とは戦いたくないので村で警備をしています！\nうぉおお！"
                         },
                         {
                             "code": 0,
@@ -5707,29 +5637,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様、おはようございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は村長さんが魔人の討伐祝として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山菜の天ぷらを振る舞ってくれるそうですよ。"
-                            ]
+                                "Good morning, Lady Knight! I hear the Chief is treating us\nall to mountain vegetable tempura today, to celebrate the\ndemon's defeat."
+                            ],
+                            "_original": "騎士様、おはようございます！\n今日は村長さんが魔人の討伐祝として\n山菜の天ぷらを振る舞ってくれるそうですよ。"
                         },
                         {
                             "code": 231,
@@ -5814,15 +5732,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは楽しみです。"
-                            ]
+                                "I'm looking forward to it."
+                            ],
+                            "_original": "それは楽しみです。"
                         },
                         {
                             "code": 357,
@@ -5891,15 +5811,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…では今、村長さんは林に？"
-                            ]
+                                "...So the Chief is in the woods right now?"
+                            ],
+                            "_original": "…では今、村長さんは林に？"
                         },
                         {
                             "code": 101,
@@ -5909,36 +5831,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ、「朝一番の採れたての山菜をロレンチアさんに」と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "張り切って出発しましたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんせもう毒蛇は増えないんですから山菜なんて採り放題！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、こんな日が来るなんて！"
-                            ]
+                                "Yes, he set off in high spirits, saying, \"The freshest\nmountain greens of the morning, for Lorentia-san.\" After\nall, the vipers won't be multiplying anymore, so the greens\nare ours for the taking! Ah, to think a day like this would\ncome!"
+                            ],
+                            "_original": "ええ、「朝一番の採れたての山菜をロレンチアさんに」と\n張り切って出発しましたよ。\nなんせもう毒蛇は増えないんですから山菜なんて採り放題！\nああ、こんな日が来るなんて！"
                         },
                         {
                             "code": 357,
@@ -6007,15 +5910,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(毒蛇はまだ完全には駆逐できていません…少し心配ですね。)"
-                            ]
+                                "(The vipers haven't been completely exterminated yet... It\nworries me a little.)"
+                            ],
+                            "_original": "(毒蛇はまだ完全には駆逐できていません…少し心配ですね。)"
                         },
                         {
                             "code": 357,
@@ -6084,15 +5989,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "折角なので、私も山菜の収穫を手伝ってきますね。"
-                            ]
+                                "Since the occasion calls for it, I'll go help with the\nmountain vegetable harvest."
+                            ],
+                            "_original": "折角なので、私も山菜の収穫を手伝ってきますね。"
                         },
                         {
                             "code": 235,
@@ -6109,15 +6016,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい、お気をつけて！"
-                            ]
+                                "Yes, take care!"
+                            ],
+                            "_original": "はい、お気をつけて！"
                         },
                         {
                             "code": 205,
@@ -6338,22 +6247,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物とは戦いたくないので村で警備をしています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぉおお！"
-                            ]
+                                "I don't want to fight monsters, so I do guard duty here in\nthe village! Uwoooh!"
+                            ],
+                            "_original": "魔物とは戦いたくないので村で警備をしています！\nうぉおお！"
                         },
                         {
                             "code": 0,
@@ -6563,29 +6467,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様、おはようございます！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本日衛兵団一同は早朝から東の森へ毒蛇の掃討に向かいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "夕方ごろには帰還する予定です。"
-                            ]
+                                "Good morning, Lady Knight! Today the entire guard corps\nheads out at dawn to exterminate the vipers in the East\nForest. We expect to return around evening."
+                            ],
+                            "_original": "騎士様、おはようございます！\n本日衛兵団一同は早朝から東の森へ毒蛇の掃討に向かいます。\n夕方ごろには帰還する予定です。"
                         },
                         {
                             "code": 231,
@@ -6670,15 +6562,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "了解しました。私は引き続き西の林を巡回します。"
-                            ]
+                                "Understood. I will continue patrolling the West Woods."
+                            ],
+                            "_original": "了解しました。私は引き続き西の林を巡回します。"
                         },
                         {
                             "code": 101,
@@ -6688,15 +6582,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "では出発！！！"
-                            ]
+                                "Move out!!!"
+                            ],
+                            "_original": "では出発！！！"
                         },
                         {
                             "code": 235,
@@ -7056,22 +6952,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様はすごい！全裸でも山賊を全滅させられるんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も精進しなければ！"
-                            ]
+                                "The Lady Knight is incredible! She wiped out the bandits\neven while stark naked! I have to train harder!"
+                            ],
+                            "_original": "騎士様はすごい！全裸でも山賊を全滅させられるんだ！\n私も精進しなければ！"
                         },
                         {
                             "code": 0,
@@ -7189,22 +7080,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様のおかげで毒蛇魔人は討たれましたが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴が召喚した毒蛇はまだこの村の周囲に蔓延っています。"
-                            ]
+                                "The Viper Demon has been slain thanks to you, Lady Knight,\nbut the vipers it summoned still infest the area around our\nvillage."
+                            ],
+                            "_original": "騎士様のおかげで毒蛇魔人は討たれましたが、\n奴が召喚した毒蛇はまだこの村の周囲に蔓延っています。"
                         },
                         {
                             "code": 101,
@@ -7214,22 +7100,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "しかしご安心を！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残党狩りであれば我々でもお手伝いできますから！"
-                            ]
+                                "But fear not! We can at least help you hunt down the\nstragglers!"
+                            ],
+                            "_original": "しかしご安心を！\n残党狩りであれば我々でもお手伝いできますから！"
                         },
                         {
                             "code": 0,
@@ -7389,15 +7270,17 @@
                                 0,
                                 0,
                                 2,
-                                "衛兵"
-                            ]
+                                "Guard"
+                            ],
+                            "_original": "衛兵"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自分も見たかったな…騎士様の生乳…"
-                            ]
+                                "Man, I wish I could've seen them too... the Lady Knight's\nbare breasts..."
+                            ],
+                            "_original": "自分も見たかったな…騎士様の生乳…"
                         },
                         {
                             "code": 0,
@@ -7515,22 +7398,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様のおかげで、毒蛇の数がかなり減ったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少しの辛抱だ！"
-                            ]
+                                "Thanks to the Lady Knight, the vipers' numbers have dropped\nquite a bit. Just hang in there a little longer!"
+                            ],
+                            "_original": "騎士様のおかげで、毒蛇の数がかなり減ったらしい。\nもう少しの辛抱だ！"
                         },
                         {
                             "code": 0,
@@ -7639,22 +7517,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すごかったな、ホントに…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士様をお見かけするたび勃起が止まらん、どうしよう。"
-                            ]
+                                "That was incredible, seriously... Every time I catch sight\nof the Lady Knight I get a hard-on that won't quit. What am\nI gonna do."
+                            ],
+                            "_original": "すごかったな、ホントに…\n騎士様をお見かけするたび勃起が止まらん、どうしよう。"
                         },
                         {
                             "code": 0,
@@ -7823,29 +7696,17 @@
                                 0,
                                 0,
                                 2,
-                                "農夫"
-                            ]
+                                "Farmer"
+                            ],
+                            "_original": "農夫"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "毒の影響が落ち着いたのか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "野菜が元気に育つようになったんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう少ししたら、妻や娘も帰って来られるかな。"
-                            ]
+                                "Maybe it's because the poison's effects have settled down,\nbut the vegetables are growing healthy again. Just a little\nlonger, and my wife and daughter might be able to come home."
+                            ],
+                            "_original": "毒の影響が落ち着いたのか、\n野菜が元気に育つようになったんです。\nもう少ししたら、妻や娘も帰って来られるかな。"
                         },
                         {
                             "code": 0,
@@ -7954,15 +7815,17 @@
                                 0,
                                 0,
                                 2,
-                                "農夫"
-                            ]
+                                "Farmer"
+                            ],
+                            "_original": "農夫"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様のおっぱい、ウチで育ったかぼちゃよりでかかったな…"
-                            ]
+                                "The Lady Knight's tits were bigger than the pumpkins I grow\nback home..."
+                            ],
+                            "_original": "騎士様のおっぱい、ウチで育ったかぼちゃよりでかかったな…"
                         },
                         {
                             "code": 0,
@@ -8131,22 +7994,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一時はどうなることかと思ったが…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この村もどうにか復興できそうだ！"
-                            ]
+                                "For a while there, I didn't know what would become of us...\nbut it looks like this village might just pull through!"
+                            ],
+                            "_original": "一時はどうなることかと思ったが…\nこの村もどうにか復興できそうだ！"
                         },
                         {
                             "code": 0,
@@ -8255,22 +8113,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "デカ乳揺らしながら素っ裸で駆け回ってたんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今でも夢じゃないかって…"
-                            ]
+                                "She was runnin' around buck naked, them huge tits bouncin'\neverywhere, y'know? Still feels like it musta been a\ndream..."
+                            ],
+                            "_original": "デカ乳揺らしながら素っ裸で駆け回ってたんだぜ？\n今でも夢じゃないかって…"
                         },
                         {
                             "code": 0,
@@ -8439,15 +8292,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どうか安らかに…"
-                            ]
+                                "May you rest in peace..."
+                            ],
+                            "_original": "どうか安らかに…"
                         },
                         {
                             "code": 0,
@@ -8556,22 +8411,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "騎士様と挨拶するたび、上着の下にあの日見たぶりんぶりんの"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "乳首が隠れてるんだって思い出しちゃうんだよな…"
-                            ]
+                                "Every time I greet the Lady Knight, I can't help thinking\nabout those jiggling nipples I saw that day, hidden away\nunder her jacket..."
+                            ],
+                            "_original": "騎士様と挨拶するたび、上着の下にあの日見たぶりんぶりんの\n乳首が隠れてるんだって思い出しちゃうんだよな…"
                         },
                         {
                             "code": 0,
@@ -8740,22 +8590,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "この先？毒蛇魔人に壊された廃屋しかないですぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…あぁ、山奥から逃げてきたご老人がいたっけか？"
-                            ]
+                                "Up ahead? Nothing but the ruins the Viper Demon wrecked.\n...Oh yeah, wasn't there some old geezer who fled here from\ndeep in the mountains?"
+                            ],
+                            "_original": "この先？毒蛇魔人に壊された廃屋しかないですぜ。\n…あぁ、山奥から逃げてきたご老人がいたっけか？"
                         },
                         {
                             "code": 0,
@@ -8864,22 +8709,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あんな大勢の男の前でま◯こ丸出しだもんな…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "騎士様、村中のオナネタになっちまったな…"
-                            ]
+                                "With her p*ssy fully exposed in front of all those men...\nThe Lady Knight's become jerk-off material for the whole\nvillage..."
+                            ],
+                            "_original": "あんな大勢の男の前でま◯こ丸出しだもんな…\n騎士様、村中のオナネタになっちまったな…"
                         },
                         {
                             "code": 0,
@@ -9048,22 +8888,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はぁ…毒蛇のせいで何もかも失ってしもうた…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…なんじゃその目は、哀れな老人と馬鹿にしとるのか。"
-                            ]
+                                "Hahh... Lost everythin' I had to them vipers, I did...\nWhat's that look, eh? You mockin' a pitiful old man?"
+                            ],
+                            "_original": "はぁ…毒蛇のせいで何もかも失ってしもうた…\n…なんじゃその目は、哀れな老人と馬鹿にしとるのか。"
                         },
                         {
                             "code": 357,
@@ -9132,15 +8967,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなつもりは…"
-                            ]
+                                "That wasn't my intention..."
+                            ],
+                            "_original": "そんなつもりは…"
                         },
                         {
                             "code": 101,
@@ -9150,29 +8987,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…見ると、えらく立派なお乳と尻じゃな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃいい女じゃ…王都の出身か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうじゃ、同情するなら一発ヤらせてくれんか？"
-                            ]
+                                "...Now that I get a good look, you've got some mighty fine\ntits and a fine ass on ya. Yer a real catch... From the\nRoyal Capital, are ya? How 'bout it―if ya pity me, why not\nlet me have a quick go?"
+                            ],
+                            "_original": "…見ると、えらく立派なお乳と尻じゃな？\nこりゃいい女じゃ…王都の出身か？\nどうじゃ、同情するなら一発ヤらせてくれんか？"
                         },
                         {
                             "code": 357,
@@ -9241,15 +9066,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(…王宮騎士の存在を知らない方がいるとは。)"
-                            ]
+                                "(...To think there are people who don't even know the Royal\nKnights exist.)"
+                            ],
+                            "_original": "(…王宮騎士の存在を知らない方がいるとは。)"
                         },
                         {
                             "code": 357,
@@ -9318,15 +9145,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "先を急ぎますので、失礼します。"
-                            ]
+                                "I'm in a hurry. Excuse me."
+                            ],
+                            "_original": "先を急ぎますので、失礼します。"
                         },
                         {
                             "code": 123,
@@ -9443,15 +9272,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何度見てもいいお乳と尻じゃ…ワシの女にしたいのう…"
-                            ]
+                                "No matter how many times I look, that's a fine pair o' tits\nand a fine ass... I'd love to make her my woman..."
+                            ],
+                            "_original": "何度見てもいいお乳と尻じゃ…ワシの女にしたいのう…"
                         },
                         {
                             "code": 0,
@@ -9560,22 +9391,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あの娘、やはり処女じゃったか…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "山賊に負けてパコパコ犯される様も見たかったのう。"
-                            ]
+                                "So that lass really was a virgin, eh... A shame. I would've\nliked to watch the bandits beat her and pound her silly."
+                            ],
+                            "_original": "あの娘、やはり処女じゃったか…\n山賊に負けてパコパコ犯される様も見たかったのう。"
                         },
                         {
                             "code": 0,
@@ -9735,22 +9561,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何じゃ神妙な顔をして？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お乳でも揉ませてくれるんかの？"
-                            ]
+                                "What's with the long face? Gonna let these old hands have a\nsqueeze o' those tits?"
+                            ],
+                            "_original": "何じゃ神妙な顔をして？\nお乳でも揉ませてくれるんかの？"
                         },
                         {
                             "code": 357,
@@ -9819,28 +9640,34 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(私の存在を知らない男性であれば…後腐れなく…)"
-                            ]
+                                "(A man who doesn't know who I am... no loose ends...)"
+                            ],
+                            "_original": "(私の存在を知らない男性であれば…後腐れなく…)"
                         },
                         {
                             "code": 102,
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "浮浪者に性交渉を持ちかける",
-                                    "考え直す"
+                                    "Propose sex to the Vagrant",
+                                    "Think better of it"
                                 ],
                                 1,
                                 0,
                                 2,
                                 0
+                            ],
+                            "_original": [
+                                "浮浪者に性交渉を持ちかける",
+                                "考え直す"
                             ]
                         },
                         {
@@ -9934,15 +9761,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…お代はいりませんので、お召し物を脱いでいただけますか？"
-                            ]
+                                "...There's no charge, so would you please remove your\nclothing?"
+                            ],
+                            "_original": "…お代はいりませんので、お召し物を脱いでいただけますか？"
                         },
                         {
                             "code": 101,
@@ -9952,22 +9781,17 @@
                                 0,
                                 0,
                                 2,
-                                "浮浪者"
-                            ]
+                                "Vagrant"
+                            ],
+                            "_original": "浮浪者"
                         },
                         {
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "…ふひひ、ここじゃ通行人に見られる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと奥の方で始めようかの。"
-                            ]
+                                "...Fuhihi, folks passin' by'll see us here. Let's get\nstarted further back in."
+                            ],
+                            "_original": "…ふひひ、ここじゃ通行人に見られる。\nもっと奥の方で始めようかの。"
                         },
                         {
                             "code": 230,
@@ -10033,15 +9857,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -10116,15 +9934,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -10141,8 +9953,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "エンディング6 浮浪者に…"
-                            ]
+                                "Ending 6: By the Vagrant..."
+                            ],
+                            "_original": "エンディング6 浮浪者に…"
                         },
                         {
                             "code": 101,
@@ -10159,8 +9972,9 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,
@@ -10372,8 +10186,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "村に入るや否や、小さな影がこちらへ駆けてきた。"
-                            ]
+                                "The moment she entered the village, a small shadow came\nrunning toward her."
+                            ],
+                            "_original": "村に入るや否や、小さな影がこちらへ駆けてきた。"
                         },
                         {
                             "code": 101,
@@ -10390,15 +10205,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "こ、こんにちは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタが王宮騎士ロレンチアさんでお間違いないでしょうか？"
-                            ]
+                                "H-Hello! Am I correct in assuming that you are Lorentia-san,\nthe Royal Knight?"
+                            ],
+                            "_original": "こ、こんにちは！\nアナタが王宮騎士ロレンチアさんでお間違いないでしょうか？"
                         },
                         {
                             "code": 231,
@@ -10483,15 +10292,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "はい。その認識で問題ありません。"
-                            ]
+                                "Yes. That understanding is correct."
+                            ],
+                            "_original": "はい。その認識で問題ありません。"
                         },
                         {
                             "code": 101,
@@ -10501,15 +10312,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ、ついに王都の騎士様が駆けつけてくれたんですね！"
-                            ]
+                                "Wow, a knight from the Royal Capital really came to our\nrescue!"
+                            ],
+                            "_original": "わぁ、ついに王都の騎士様が駆けつけてくれたんですね！"
                         },
                         {
                             "code": 101,
@@ -10519,8 +10332,9 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
@@ -10544,15 +10358,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ロレンチアは村長の所在を確かめようと周囲を軽く見渡した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、それらしき人物は見当たらない。"
-                            ]
+                                "Lorentia glanced lightly around her, meaning to confirm the\nvillage chief's whereabouts. However, no one fitting the\ndescription was in sight."
+                            ],
+                            "_original": "ロレンチアは村長の所在を確かめようと周囲を軽く見渡した。\nしかし、それらしき人物は見当たらない。"
                         },
                         {
                             "code": 101,
@@ -10562,15 +10370,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そ、その…ボクがこのセセラギ村の村長です。"
-                            ]
+                                "W-Well, um... I'm the chief of this Seseragi Village."
+                            ],
+                            "_original": "そ、その…ボクがこのセセラギ村の村長です。"
                         },
                         {
                             "code": 357,
@@ -10639,15 +10449,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは失礼しました。随分とお若く見えたもので。"
-                            ]
+                                "My apologies. You looked quite young, you see."
+                            ],
+                            "_original": "これは失礼しました。随分とお若く見えたもので。"
                         },
                         {
                             "code": 101,
@@ -10657,22 +10469,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、あはは…えっと…"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "実は毒蛇魔人の侵攻で、先々代と先代が…"
-                            ]
+                                "A-Ahaha... um... The truth is, during the Viper Demon's\ninvasion, the chief before last and the one after him\nboth..."
+                            ],
+                            "_original": "あ、あはは…えっと…\n実は毒蛇魔人の侵攻で、先々代と先代が…"
                         },
                         {
                             "code": 357,
@@ -10741,15 +10548,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…王宮騎士の到着が遅れてしまい、申し訳ございません。"
-                            ]
+                                "...I apologize that the Royal Knights were so late to\narrive."
+                            ],
+                            "_original": "…王宮騎士の到着が遅れてしまい、申し訳ございません。"
                         },
                         {
                             "code": 101,
@@ -10759,29 +10568,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あぁ、気にしないでください！ボクはもう平気です！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "村のみんながたくさん支えてくれましたし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それより、魔人は…！"
-                            ]
+                                "Oh, please don't worry about it! I'm fine now! Everyone in\nthe village has supported me so much! More importantly, the\ndemon...!"
+                            ],
+                            "_original": "あぁ、気にしないでください！ボクはもう平気です！\n村のみんながたくさん支えてくれましたし！\nそれより、魔人は…！"
                         },
                         {
                             "code": 357,
@@ -10850,22 +10647,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "無事、討伐を終えました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残すは奴が残した下級の毒蛇のみです。"
-                            ]
+                                "It has been slain without incident. All that remains are the\nlesser vipers it left behind."
+                            ],
+                            "_original": "無事、討伐を終えました。\n残すは奴が残した下級の毒蛇のみです。"
                         },
                         {
                             "code": 101,
@@ -10875,22 +10667,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…！よかった…！本当によかった…！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなら村の衛兵さんたちでも対応できそうです！"
-                            ]
+                                "...! Thank goodness...! Thank goodness, really...!! In that\ncase, even our village guards should be able to handle them!"
+                            ],
+                            "_original": "…！よかった…！本当によかった…！！\nそれなら村の衛兵さんたちでも対応できそうです！"
                         },
                         {
                             "code": 357,
@@ -10959,15 +10746,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "いえ、まだ半年間は私も残党狩りに従事するつもりです。"
-                            ]
+                                "No, I intend to remain on remnant-hunting duty for another\nsix months."
+                            ],
+                            "_original": "いえ、まだ半年間は私も残党狩りに従事するつもりです。"
                         },
                         {
                             "code": 101,
@@ -10977,22 +10766,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ええ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、半年も…？"
-                            ]
+                                "What!? S-Six whole months...?"
+                            ],
+                            "_original": "ええ！？\nは、半年も…？"
                         },
                         {
                             "code": 357,
@@ -11061,29 +10845,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔人が復活する危険性を見過ごせませんからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず、明日から4日間ほどはこのセセラギ村を中心に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "警戒に当たります。その後、問題なければ別の集落へ移動します。"
-                            ]
+                                "I cannot overlook the risk of the demon reviving, you see.\nFor the time being, I will stand watch for about four days,\ncentered on this Seseragi Village. After that, if there are\nno problems, I will move on to another settlement."
+                            ],
+                            "_original": "魔人が復活する危険性を見過ごせませんからね。\nとりあえず、明日から4日間ほどはこのセセラギ村を中心に\n警戒に当たります。その後、問題なければ別の集落へ移動します。"
                         },
                         {
                             "code": 101,
@@ -11093,15 +10865,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまでしていただけるなんて…"
-                            ]
+                                "To think you'd go that far for us..."
+                            ],
+                            "_original": "そこまでしていただけるなんて…"
                         },
                         {
                             "code": 101,
@@ -11111,29 +10885,17 @@
                                 0,
                                 0,
                                 2,
-                                "村長"
-                            ]
+                                "Village Chief"
+                            ],
+                            "_original": "村長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ともかく今日はお疲れでしょうし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿でゆっくりお休みください！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "滞在費は村で負担しますので！"
-                            ]
+                                "In any case, you must be exhausted today, so please get a\ngood rest at the inn! The village will cover the cost of\nyour stay!"
+                            ],
+                            "_original": "ともかく今日はお疲れでしょうし、\n宿でゆっくりお休みください！\n滞在費は村で負担しますので！"
                         },
                         {
                             "code": 357,
@@ -11202,22 +10964,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本当ですか？それはありがたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、お言葉に甘えてさせていただきます。"
-                            ]
+                                "Is that true? That is much appreciated. Then I will\ngratefully take you up on your kind offer."
+                            ],
+                            "_original": "本当ですか？それはありがたい。\nでは、お言葉に甘えてさせていただきます。"
                         },
                         {
                             "code": 357,
@@ -11286,15 +11043,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "短い間ですが、よろしくお願いしますね。"
-                            ]
+                                "It will only be a short while, but I look forward to your\nhospitality."
+                            ],
+                            "_original": "短い間ですが、よろしくお願いしますね。"
                         },
                         {
                             "code": 235,
@@ -11525,15 +11284,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人"
-                            ]
+                                "Villager"
+                            ],
+                            "_original": "村人"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やめてくれ！魔人で疲弊してるこの村をこれ以上荒らすな！"
-                            ]
+                                "Stop! Our village is already exhausted from the demon! Don't\nravage it any further!"
+                            ],
+                            "_original": "やめてくれ！魔人で疲弊してるこの村をこれ以上荒らすな！"
                         },
                         {
                             "code": 101,
@@ -11543,29 +11304,17 @@
                                 0,
                                 0,
                                 2,
-                                "山賊"
-                            ]
+                                "Bandit"
+                            ],
+                            "_original": "山賊"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ギャハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知るかよ！俺らぁただ奪いたいだけ奪うだけださぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なぁお頭ぁ！"
-                            ]
+                                "Gyahahaha! Like we care! We just take whatever we wanna\ntake! Right, Boss?!"
+                            ],
+                            "_original": "ギャハハハ！\n知るかよ！俺らぁただ奪いたいだけ奪うだけださぁ！\nなぁお頭ぁ！"
                         },
                         {
                             "code": 213,
@@ -11584,29 +11333,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、衛兵が東の森へ出払ってるって噂はマジだったのか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで守りがザルだとはな！"
-                            ]
+                                "Yeah! But so the rumor was true after all―the guards really\ndid all head off to the East Forest. Talk about wide-open\ndefenses!"
+                            ],
+                            "_original": "ああ！\nしかし、衛兵が東の森へ出払ってるって噂はマジだったのか。\nここまで守りがザルだとはな！"
                         },
                         {
                             "code": 101,
@@ -11616,22 +11353,17 @@
                                 0,
                                 0,
                                 2,
-                                "山賊"
-                            ]
+                                "Bandit"
+                            ],
+                            "_original": "山賊"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おーきゅうきし？てのが王都から来てるらしいッスけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運良く出くわさなかったっぽいッス！"
-                            ]
+                                "Heard there's some Roy-ull Knight-thingy in from the Royal\nCapital, but looks like we got lucky and ain't run into 'em!"
+                            ],
+                            "_original": "おーきゅうきし？てのが王都から来てるらしいッスけど、\n運良く出くわさなかったっぽいッス！"
                         },
                         {
                             "code": 101,
@@ -11641,22 +11373,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なぁに、ここの村人全員を人質にしちまえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手も足も出ないだろうさ…なぁ？"
-                            ]
+                                "Bah, if we take every last one of these villagers hostage,\nthere's nothing anyone can do... Right?"
+                            ],
+                            "_original": "なぁに、ここの村人全員を人質にしちまえば、\n手も足も出ないだろうさ…なぁ？"
                         },
                         {
                             "code": 101,
@@ -11666,29 +11393,17 @@
                                 0,
                                 0,
                                 2,
-                                "村人たち"
-                            ]
+                                "Villagers"
+                            ],
+                            "_original": "村人たち"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ひぃ…！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「命だけは！！騎士様早く来て！」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「村長は騎士様を探しに林へ行ってしまった…どうすれば！」"
-                            ]
+                                "\"Eeek...!\" \"Just spare our lives!! Lady Knight, hurry,\nplease!\" \"The Chief went into the woods to find the Lady\nKnight... What do we do?!\""
+                            ],
+                            "_original": "「ひぃ…！」\n「命だけは！！騎士様早く来て！」\n「村長は騎士様を探しに林へ行ってしまった…どうすれば！」"
                         },
                         {
                             "code": 122,
@@ -12393,22 +12108,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこまでです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "直ちに武器を捨て、投降してください。"
-                            ]
+                                "That is far enough. Drop your weapons and surrender at once."
+                            ],
+                            "_original": "そこまでです。\n直ちに武器を捨て、投降してください。"
                         },
                         {
                             "code": 213,
@@ -12427,22 +12137,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ！随分遅かったじゃないか、王宮騎士サマ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その様子、呑気に風呂にでも入ってたらしいなぁ。"
-                            ]
+                                "Ooh! Took ya long enough, Miss Royal Knight! By the look of\nya, seems you were havin' a nice, lazy soak in the bath."
+                            ],
+                            "_original": "おぉ！随分遅かったじゃないか、王宮騎士サマ！\nその様子、呑気に風呂にでも入ってたらしいなぁ。"
                         },
                         {
                             "code": 357,
@@ -12511,15 +12216,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…村の皆さんは？"
-                            ]
+                                "...Where are the villagers?"
+                            ],
+                            "_original": "…村の皆さんは？"
                         },
                         {
                             "code": 101,
@@ -12529,22 +12236,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ああ、王宮騎士がこの村に来てるのはマジって聞いたんでよぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に何人か人質にさせてもらったんだわ。"
-                            ]
+                                "Yeah, I heard it's for real that a Royal Knight's come to\nthis village, yeah? So I went ahead and took a few hostages\nfirst."
+                            ],
+                            "_original": "ああ、王宮騎士がこの村に来てるのはマジって聞いたんでよぉ？\n先に何人か人質にさせてもらったんだわ。"
                         },
                         {
                             "code": 101,
@@ -12561,8 +12263,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "着替えているわずかな時間が、人質の有無を決定づけたようだ。"
-                            ]
+                                "The few moments she had taken to change clothes had\napparently decided whether there would be hostages."
+                            ],
+                            "_original": "着替えているわずかな時間が、人質の有無を決定づけたようだ。"
                         },
                         {
                             "code": 101,
@@ -12572,22 +12275,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "安心しな、まだ命はある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それも騎士サマ次第だがね？"
-                            ]
+                                "Relax, they're still alive. Though that's up to you, Miss\nKnight?"
+                            ],
+                            "_original": "安心しな、まだ命はある。\nそれも騎士サマ次第だがね？"
                         },
                         {
                             "code": 357,
@@ -12656,15 +12354,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…このまま見逃せと？"
-                            ]
+                                "...And in exchange, I let you walk away?"
+                            ],
+                            "_original": "…このまま見逃せと？"
                         },
                         {
                             "code": 235,
@@ -12681,15 +12381,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "へへ、それじゃ面白くねぇ。なぁお前ら！"
-                            ]
+                                "Hehe, where's the fun in that? Ain't that right, boys!"
+                            ],
+                            "_original": "へへ、それじゃ面白くねぇ。なぁお前ら！"
                         },
                         {
                             "code": 213,
@@ -12726,22 +12428,17 @@
                                 0,
                                 0,
                                 2,
-                                "山賊たち"
-                            ]
+                                "Bandits"
+                            ],
+                            "_original": "山賊たち"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「ゲヘヘ…」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "「そりゃあんな良い女、お頭が放っておくわけがねぇ！」"
-                            ]
+                                "\"Gehehe...\" \"Like the Boss'd ever let a fine woman like that\ngo!\""
+                            ],
+                            "_original": "「ゲヘヘ…」\n「そりゃあんな良い女、お頭が放っておくわけがねぇ！」"
                         },
                         {
                             "code": 357,
@@ -12810,15 +12507,17 @@
                                 0,
                                 0,
                                 2,
-                                "ロレンチア"
-                            ]
+                                "Lorentia"
+                            ],
+                            "_original": "ロレンチア"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "…そういうことですか。"
-                            ]
+                                "...So that is how it is."
+                            ],
+                            "_original": "…そういうことですか。"
                         },
                         {
                             "code": 101,
@@ -12828,22 +12527,17 @@
                                 0,
                                 0,
                                 2,
-                                "族長"
-                            ]
+                                "Bandit Boss"
+                            ],
+                            "_original": "族長"
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アンタの言葉、そのまま返すぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "…武器を捨てて投降しな。"
-                            ]
+                                "I'll throw those words right back at ya. ...Drop your weapon\nand surrender."
+                            ],
+                            "_original": "アンタの言葉、そのまま返すぜ。\n…武器を捨てて投降しな。"
                         },
                         {
                             "code": 117,
@@ -12917,15 +12611,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから半年後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任務を完遂し、ロレンチアは王都へ帰還したが…"
-                            ]
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
+                            ],
+                            "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
                         {
                             "code": 121,
@@ -13000,15 +12688,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も王宮内はその話題で持ちきりだ。"
-                            ]
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
+                            ],
+                            "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
                         {
                             "code": 101,
@@ -13025,8 +12707,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンディング2 山賊に…"
-                            ]
+                                "Ending 2: By the Bandits..."
+                            ],
+                            "_original": "エンディング2 山賊に…"
                         },
                         {
                             "code": 101,
@@ -13043,8 +12726,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "直前に戻ります。"
-                            ]
+                                "Returning to just before the scene."
+                            ],
+                            "_original": "直前に戻ります。"
                         },
                         {
                             "code": 121,
@@ -13846,15 +13530,9 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "公衆浴場の貸し切り期間が終わり、一般開放されました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "現在の浴場は混浴前提の施設になっています。"
-                            ]
+                                "The public bath's private reservation period has ended, and\nit is now open to the general public. The bath is currently\na mixed-gender bathing facility."
+                            ],
+                            "_original": "公衆浴場の貸し切り期間が終わり、一般開放されました。\n現在の浴場は混浴前提の施設になっています。"
                         },
                         {
                             "code": 122,
