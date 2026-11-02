@@ -3,5 +3,5 @@
 forge=github
 host=github.com
 username=lynxwall-14
-repo=YOUR_PATCH_REPO
+repo=Oukyuu-Kishi-no-Risk-Hedge
 branch=main
