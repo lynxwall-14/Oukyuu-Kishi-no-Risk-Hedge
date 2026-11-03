@@ -6475,7 +6475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Good morning, Lady Knight! Today the entire guard corps\nheads out at dawn to exterminate the vipers in the East\nForest. We expect to return around evening."
+                                "Good morning, Lady Knight! Today the entire Guard Corps\nheads out at dawn to exterminate the vipers in the East\nForest. We expect to return around evening."
                             ],
                             "_original": "騎士様、おはようございます！\n本日衛兵団一同は早朝から東の森へ毒蛇の掃討に向かいます。\n夕方ごろには帰還する予定です。"
                         },
@@ -12283,7 +12283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Relax, they're still alive. Though that's up to you, Miss\nKnight?"
+                                "Relax, they're still alive. Though that's up to you,\nMiss Royal Knight?"
                             ],
                             "_original": "安心しな、まだ命はある。\nそれも騎士サマ次第だがね？"
                         },

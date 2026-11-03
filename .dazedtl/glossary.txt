@@ -56,6 +56,7 @@
 毒耐性ポーション (Poison Resistance Potion) - Sazanna's potion. It grants full poison and corrosion immunity for "about six months", but also stops contraceptives from working.
 腐食液 (corrosive fluid) - The vipers' spit, which dissolves armor.
 避妊薬 (contraceptive)
+危険日 (dangerous day) - Ovulation-day slang; fixed rendering (see quirks).
 銭湯 (bathhouse) - The inn's bathhouse.
 公衆浴場 (public bath)
 大浴場 (main bath)

@@ -15,16 +15,18 @@
 - Render the discovery beat …はい？ (CE7, CE8) identically both times: "...Pardon?"
 - Ending epilogue lines are fixed text; reuse one rendering verbatim in every ending:
   - あれから半年後。 -> "Six months later."
-  - 「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」 -> "'Who on earth knocked up a lady knight that brilliant?'"
+  - 任務を完遂し、ロレンチアは王都へ帰還したが… -> "Her mission complete, Lorentia returned to the Royal Capital, but..."
+  - 「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」 -> "\"Who on earth knocked up a lady knight that brilliant?\""
   - 今日も王宮内はその話題で持ちきりだ。 -> "Even today, it's all anyone at the palace talks about."
   - 直前に戻ります。 -> "Returning to just before the scene."
-- Ending titles (エンディングN 介助中に… / 山賊に… / ロッカーで… / 覗き魔に… / 強引に…) are teasing fragments ending in an ellipsis. で -> "In/At the X...", a person + に -> "By the X...", 中に -> "While X...". Keep 鍛冶屋で… (CE2) distinct from 鍛冶屋に… (ending 7). Keep the source numbers as written (see the project notes on the duplicate 5).
+  The gossip question and the 持ちきりだ line ship as one message; use straight double quotes for it (the corpus-majority form).
+- Ending titles (エンディングN 介助中に… / 山賊に… / ロッカーで… / 覗き魔に… / 強引に…) are teasing fragments ending in an ellipsis. で -> "In/At the X...", a person + に -> "By the X...", 中に -> "While X...". Keep 鍛冶屋で… (CE2) distinct from 鍛冶屋に… (ending 7). Keep the source numbers as written (see the project notes on the duplicate 5; the source has no Ending 8). Every title carries a colon after the number: "Ending N: ...".
 - Day titles are a parallel 〜ぬ series (終わらぬ任務 / 思わぬ油断 / 尽きぬ襲来 / 冷めやらぬ興奮 / 拭えぬ懸念). Keep them all in one "Un-" adjective pattern, exactly as glossed. The same strings also appear in the SaveSlotCustom plugin parameters and must match the in-dialogue text character for character.
 - The status screen's chastity lines encode the game's two halves. 〜に奪われた -> "Taken by X" (accidents and coercion), 〜に捧げた -> "Given to X" (her deliberate choice), 〜で処女喪失 / 〜ながら喪失 -> "Lost ...". Never merge these verbs.
 - The title pun lives on リスク. Translate every リスク / ハイリスク as "risk" / "high-risk" (妊娠につながるリスク, どんなリスクを背負わされても), never as "danger" or "gamble".
 - 半年 is always "six months", including Sazanna's 「半年くらい」 -> "'about six months'" with the quotes kept.
 - The source censors only ま◯こ / おま◯こ. Render it as a censored "p*ssy" every time, and leave every other vulgar word (ちんこ, ちんぽこ, オメコ, ザーメン) uncensored, as the source does.
-- Keep each line that is only a sound effect (ボルルン！, ぎゅむん。, ガサッ…, ぶらり。, パンパン！) as a standalone English sound effect, with no narration added. Use one rendering per root: ぎゅむ/ぎゅむん/ギュム -> "Squish", ボルン/ボルルン/ドブルン -> "Boing!" (bigger for ドブルン).
+- Keep each line that is only a sound effect (ボルルン！, ぎゅむん。, ガサッ…, ぶらり。, パンパン！) as a standalone English sound effect, with no narration added. Use one rendering per root: ぎゅむ/ぎゅむん/ギュム -> "Squish", ボルン/ボルルン/ドブルン -> "Boing!" (bigger for ドブルン), パンパン/パンパンパンパン -> "Smack!", むく/ムクムク -> "Throb", じゅにゅ、ずにゅ -> "Squish, squelch...", ザザー -> "Splash.", ギシシ -> "Creak...", ふぃいい -> "Fwheew...", シコシコ -> "Fap, fap, fap, fap...".
 - Keep the two personality choices parallel wherever they appear (CE22, Map006 EV6): 王宮騎士といえど裸を見られるのは人並みに恥ずかしい -> "Even a Royal Knight is as embarrassed as anyone to be seen naked." / 王宮騎士たるもの裸を晒した程度で動じることはない -> "A Royal Knight is not shaken by mere nudity."
 - The source has a few homophone typos that would mislead a literal reading; translate the intended word:
   - 人質を開放 means 解放, "release the hostages" (CE6).
@@ -33,3 +35,9 @@
   - 捕まって means 掴まって, "hold on" (CE4).
   - 付き出そう means 突き出そう, "turn him in" (CE11).
   - 折り行って means 折り入って, "a private matter" (Map004 EV3).
+
+- Scene duplication: every H-scene exists in two player-visible copies — the map-inline story copy and its CE1-17 gallery-replay copy (each CE is called from a story map and from the Map013 gallery). Identical Japanese lines must carry identical English in both copies; when editing one copy, mirror the other. Common event 23 is an unreachable draft omnibus (trigger 0, no code-117 caller, no plugin reference) duplicating the prologue, scenes and endings with drifted wording — never source wording from it.
+- Fixed choice labels: 考え直す -> "Think better of it", やめておく -> "Decline", Xに性交渉を持ちかける -> "Propose sex to the X".
+- 危険日 is always "dangerous day" — never "risky" (that word belongs to the リスク family) and not "fertile days". The CE8 echo pair 危険日だった… / 「危険日！？」 depends on the matching wording.
+- Register-split lexicon: 膣内射精 and other clinical phrasing in Lorentia's speech and the status notes -> "internal ejaculation" / "ejaculate inside"; 中出し in men's speech and narration -> "creampie"; the 子作り root -> the "baby-making" family everywhere (baby-mak― detox, baby-makin' sex, live baby-making demonstration).
+- The fullwidth tilde ～ inside English lines is deliberate: Sazanna's drawl and CE16's hammy acting ("Oh my～", "Aww～"). Do not normalize it to ASCII.

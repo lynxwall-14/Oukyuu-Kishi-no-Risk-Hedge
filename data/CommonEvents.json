@@ -5144,7 +5144,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Throb...throb..."
+                    "Throb... throb..."
                 ],
                 "_original": "むく…むく…"
             },
@@ -11183,7 +11183,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Lorentia left the cleanup to the returned guard corps and\nheaded back to the bathhouse with a sigh."
+                    "Lorentia left the cleanup to the returned Guard Corps and\nheaded back to the bathhouse with a sigh."
                 ],
                 "_original": "ロレンチアは後処理を帰還した衛兵団に任せ、\nため息をつきながら銭湯へ帰っていった。"
             },
@@ -12328,7 +12328,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Squeeze!"
+                    "Squish!"
                 ],
                 "_original": "ギュム！"
             },
@@ -15429,7 +15429,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Aimed straight at her cervix, right in the middle of her\nfertile days, warm semen came spilling out."
+                    "Aimed straight at her cervix, right in the middle of her\ndangerous day, warm semen came spilling out."
                 ],
                 "_original": "危険日真っ只中の子宮口目掛けて、生暖かい精液が吐き出された。"
             },
@@ -18403,7 +18403,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "The truth is, my body won't accept the contraceptive right\nnow. And unfortunately... it was a risky day."
+                    "The truth is, my body won't accept the contraceptive right\nnow. And unfortunately... it was a dangerous day."
                 ],
                 "_original": "実は今、避妊薬を体が受け付けないのです。\nしかも運悪く…危険日でした。"
             },
@@ -19531,7 +19531,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Swelling... swelling..."
+                    "Throb... throb..."
                 ],
                 "_original": "むく…むく…"
             },
@@ -19738,7 +19738,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Swelling... swelling... Sllp."
+                    "Throb... throb... Sllp."
                 ],
                 "_original": "むく…むく…\nつぷり。"
             },
@@ -23403,7 +23403,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "(By chance, when I fell...? No...)"
+                    "(By accident, when I fell...? No...)"
                 ],
                 "_original": "(倒れ込んだ時に偶然…？そんな…)"
             },
@@ -28206,7 +28206,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Haaah..."
+                    "Fwheew..."
                 ],
                 "_original": "ふぃいい…"
             },
@@ -28244,7 +28244,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Fap fap fap fap..."
+                    "Fap, fap, fap, fap..."
                 ],
                 "_original": "シコシコシコシコ…"
             },
@@ -28361,7 +28361,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Fap fap fap fap..."
+                    "Fap, fap, fap, fap..."
                 ],
                 "_original": "シコシコシコシコ…"
             },
@@ -36579,7 +36579,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Slap! Slap!"
+                    "Smack! Smack!"
                 ],
                 "_original": "パンパン！"
             },
@@ -36733,7 +36733,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Slap! Slap!"
+                    "Smack! Smack!"
                 ],
                 "_original": "パンパン！"
             },
@@ -39603,7 +39603,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Slap slap slap slap!"
+                    "Smack! Smack! Smack! Smack!"
                 ],
                 "_original": "パンパンパンパン！"
             },
@@ -41786,7 +41786,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "Squelch, slurp..."
+                    "Squish, squelch..."
                 ],
                 "_original": "じゅにゅ、ずにゅ…"
             },
@@ -44842,7 +44842,7 @@
                 "code": 401,
                 "indent": 0,
                 "parameters": [
-                    "I shall carry on, as an honorable Royal Knight―"
+                    "I shall carry on, as an honored Royal Knight―"
                 ],
                 "_original": "私はこれからも、名誉ある王宮騎士として―"
             },
@@ -45148,7 +45148,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Lorentia",
+                        "text": "Lorentia\n",
                         "fontSize": "0"
                     }
                 ],
@@ -45198,7 +45198,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Sex: Female Age: 26 Race: Human Title: Royal Knight",
+                        "text": "Sex: Female\nAge: 26\nRace: Human\nTitle: Royal Knight",
                         "fontSize": "20"
                     }
                 ],
@@ -45268,7 +45268,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Taken by the Village Chief.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Allowed him to ejaculate inside her while assisting him with bathing.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Taken by the Village Chief.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Allowed him to ejaculate inside her while assisting him with bathing.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45323,7 +45323,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Taken by bandits.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Permitted a creampie in exchange for the hostages.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Taken by bandits.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Permitted a creampie in exchange for the hostages.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45378,7 +45378,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Taken by the Village Chief.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Internal ejaculation while pressed tightly together.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Taken by the Village Chief.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Internal ejaculation while pressed tightly together.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45433,7 +45433,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Taken by a suspicious person.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Unauthorized creampie during a fall.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Taken by a suspicious person.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Unauthorized creampie during a fall.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45488,7 +45488,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Given to the Peeping Tom.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Begged for a creampie in the woods.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Given to the Peeping Tom.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Begged for a creampie in the woods.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45543,7 +45543,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Given to the Village Chief.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Requested internal ejaculation under the false pretense of detox.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Given to the Village Chief.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Requested internal ejaculation under the false pretense of detox.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45598,7 +45598,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Given to the Vagrant.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Begged for a creampie in a back alley.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Given to the Vagrant.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Begged for a creampie in a back alley.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45653,7 +45653,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Given to the Blacksmith.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Serviced him with her breasts, then completed baby-making.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Given to the Blacksmith.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Serviced him with her breasts, then completed baby-making.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45708,7 +45708,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Lost her virginity in the sauna.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Pregnancy confirmed with semen from two men.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Lost her virginity in the sauna.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Pregnancy confirmed with semen from two men.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45763,7 +45763,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: \\C[10]Lost it while faking a fall.\\C[0] Menstrual Cycle: \\C[10]Second Trimester\\C[0] Special Notes: \\C[10]Put her baby-making on public display at the bathhouse.\\C[0]  Experiences",
+                        "text": "Chastity: \\C[10]Lost it while faking a fall.\\C[0]\nMenstrual Cycle: \\C[10]Second Trimester\\C[0]\nSpecial Notes: \\C[10]Put her baby-making on public display at the bathhouse.\\C[0]\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45928,7 +45928,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: Virgin Menstrual Cycle: \\C[10]Ovulation Phase\\C[0] Special Notes: \\C[17]Unable to use contraception\\C[0] for six months.  Experiences",
+                        "text": "Chastity: Virgin\nMenstrual Cycle: \\C[10]Ovulation Phase\\C[0]\nSpecial Notes: \\C[17]Unable to use contraception\\C[0] for six months.\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -45972,7 +45972,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "Chastity: Virgin Menstrual Cycle: \\C[17]Follicular Phase\\C[0] Special Notes: \\C[17]Unable to use contraception\\C[0] for six months.  Experiences",
+                        "text": "Chastity: Virgin\nMenstrual Cycle: \\C[17]Follicular Phase\\C[0]\nSpecial Notes: \\C[17]Unable to use contraception\\C[0] for six months.\n\nExperiences",
                         "fontSize": "20"
                     }
                 ],
@@ -46051,7 +46051,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "・Exposed one breast to the Village Chief.",
+                        "text": "・Exposed one breast to the Village Chief.\n",
                         "fontSize": "20"
                     }
                 ],
@@ -46173,7 +46173,7 @@
                     "dText",
                     "文字列ピクチャ準備",
                     {
-                        "text": "・Let the Blacksmith touch her breasts directly.",
+                        "text": "・Let the Blacksmith touch her breasts directly.\n",
                         "fontSize": "20"
                     }
                 ],

@@ -4422,7 +4422,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Six months later. Having completed her mission, Lorentia\nreturned to the Royal Capital, but..."
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
                             ],
                             "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
@@ -5037,7 +5037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Six months later. Having completed her mission, Lorentia\nreturned to the Royal Capital, but..."
+                                "Six months later. Her mission complete, Lorentia returned to\nthe Royal Capital, but..."
                             ],
                             "_original": "あれから半年後。\n任務を完遂し、ロレンチアは王都へ帰還したが…"
                         },
@@ -5114,7 +5114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "'Who on earth knocked up a lady knight that brilliant?' Even\ntoday, it's all anyone at the palace talks about."
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
                             ],
                             "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },

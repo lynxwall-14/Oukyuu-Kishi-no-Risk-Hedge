@@ -2686,7 +2686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(If it's the Shopkeeper, perhaps I can still trust him...)"
+                                "(If it's the shopkeeper, perhaps I can still trust him...)"
                             ],
                             "_original": "(店主さんであれば、まだ信用できるでしょうか…)"
                         },
@@ -2695,8 +2695,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Propose intercourse to the blacksmith",
-                                    "Reconsider"
+                                    "Propose sex to the Blacksmith",
+                                    "Think better of it"
                                 ],
                                 1,
                                 0,
@@ -2971,7 +2971,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Ending 7 By the Blacksmith..."
+                                "Ending 7: By the Blacksmith..."
                             ],
                             "_original": "エンディング7 鍛冶屋に…"
                         },

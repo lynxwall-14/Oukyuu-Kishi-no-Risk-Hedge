@@ -3013,7 +3013,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Propose sex to a patron",
+                                    "Propose sex to the patron",
                                     "Think better of it"
                                 ],
                                 1,
@@ -3270,7 +3270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\"'Who on earth knocked up a lady knight that brilliant?'\nEven today, it's all anyone at the palace talks about.\""
+                                "\"Who on earth knocked up a lady knight that brilliant?\" Even\ntoday, it's all anyone at the palace talks about."
                             ],
                             "_original": "「あれほど優秀な女騎士に、一体誰が子どもを仕込んだのか？」\n今日も王宮内はその話題で持ちきりだ。"
                         },
