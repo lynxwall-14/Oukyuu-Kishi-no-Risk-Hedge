@@ -10320,7 +10320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wow, a knight from the Royal Capital really came to our\nrescue!"
+                                "Wow, the Lady Knight of the Royal Capital really came to our\nrescue!"
                             ],
                             "_original": "わぁ、ついに王都の騎士様が駆けつけてくれたんですね！"
                         },
@@ -10853,7 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I cannot overlook the risk of the demon reviving, you see.\nFor the time being, I will stand watch for about four days,\ncentered on this Seseragi Village. After that, if there are\nno problems, I will move on to another settlement."
+                                "I cannot overlook the risk of the demon reviving, you see.\nFor the time being, I will stand watch for about four days\nstarting tomorrow, centered on this Seseragi Village. After that,\nif there are no problems, I will move on to another settlement."
                             ],
                             "_original": "魔人が復活する危険性を見過ごせませんからね。\nとりあえず、明日から4日間ほどはこのセセラギ村を中心に\n警戒に当たります。その後、問題なければ別の集落へ移動します。"
                         },

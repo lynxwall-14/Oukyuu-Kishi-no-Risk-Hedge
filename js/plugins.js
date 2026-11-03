@@ -253,4 +253,24 @@ var $plugins = [{
   "status": true,
   "description": "Translation update warning",
   "parameters": {}
+}, {
+  "name": "TextFit_Oukyu",
+  "status": true,
+  "description": "Keeps translated text inside its window (wrap, pagination, fitting). Load LAST.",
+  "parameters": {
+    "messageWrap": "true",
+    "messageRightMargin": "7",
+    "reflowToolBreaks": "true",
+    "toolBreakColumns": "60",
+    "carryStyle": "true",
+    "scrollTextWrap": "true",
+    "scrollRightMargin": "11",
+    "choiceFit": "true",
+    "labelFit": "true",
+    "maxCompression": "1.25",
+    "minFontRatio": "0.60",
+    "dtextFit": "true",
+    "dtextMode": "line",
+    "dtextRightMargin": "6"
+  }
 }];

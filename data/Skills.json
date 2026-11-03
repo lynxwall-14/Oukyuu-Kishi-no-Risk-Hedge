@@ -394,7 +394,7 @@
         "message1": "%1 attacks!",
         "message2": "",
         "mpCost": 0,
-        "name": "Continuous Attack",
+        "name": "Multi-Strike",
         "note": "",
         "occasion": 1,
         "repeats": 2,
@@ -789,7 +789,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Coats a single enemy in slime, lowering their Agility.",
+        "description": "Coats a single enemy in mucus, lowering their Agility.",
         "effects": [
             {
                 "code": 32,
@@ -1035,7 +1035,7 @@
         "message1": "%1 unleashed %2!",
         "message2": "",
         "mpCost": 0,
-        "name": "Eye Rake",
+        "name": "Blind",
         "note": "",
         "occasion": 1,
         "repeats": 1,
@@ -6337,7 +6337,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attacks a single enemy twice.",
+        "description": "Attacks a single enemy 2 times.",
         "effects": [
             {
                 "code": 21,
@@ -7466,7 +7466,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Randomly attacks 4 enemies 4 times.",
+        "description": "Performs 4 attacks at random on 4 enemies.",
         "effects": [
             {
                 "code": 21,
@@ -7574,7 +7574,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Inflicts Blind on a single enemy.",
+        "description": "Inflicts darkness on a single enemy.",
         "effects": [
             {
                 "code": 21,
@@ -7666,7 +7666,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Inflicts Blind on all enemies.",
+        "description": "Inflicts darkness on all enemies.",
         "effects": [
             {
                 "code": 21,
